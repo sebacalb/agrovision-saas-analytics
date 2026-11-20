@@ -59,7 +59,7 @@ y el cierre.
 - **CAC de marketing:** incluye solo la inversión en marketing, no los costos del equipo comercial, por lo que no es un CAC totalmente cargado.
 - **LTV estimado:** se calcula como ARPA × margen / churn, suponiendo churn y ARPA constantes. Extrapola más allá de la ventana de 17 meses disponible, y por eso se muestran dos escenarios.
 - **Churn:** se cuenta una baja por cuenta, en el primer mes con estado "Churned". Las cuentas dadas de baja siguen apareciendo con MRR 0.
-- **72 oportunidades con ID `P…`:** (47 perdidas y 25 abiertas) no corresponden a cuentas de la tabla `accounts`. Se tratan como prospectos sin cuenta en el análisis, sin modificar el CSV de origen.
+- **72 oportunidades con ID `P`:** (47 perdidas y 25 abiertas) no corresponden a cuentas de la tabla `accounts`. Se tratan como prospectos sin cuenta en el análisis, sin modificar el CSV de origen.
 - **6 cuentas sin suscripción:** su alta es posterior a junio de 2026, fuera de la ventana de datos. No entran en las métricas de suscripción.
 - **Alcance:** análisis descriptivo. No hay modelos predictivos ni afirmaciones de causalidad.
 
