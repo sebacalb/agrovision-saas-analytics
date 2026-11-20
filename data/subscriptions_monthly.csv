@@ -1,0 +1,833 @@
+account_id,month,plan,modules,mrr_usd,status,renewal_due_date,gross_margin_pct
+A00001,2026-03,Starter,Crop Monitoring,466.75,Active,2027-03-31,0.831
+A00001,2026-04,Starter,Crop Monitoring,460.62,Active,2027-03-31,0.816
+A00001,2026-05,Starter,Crop Monitoring,464.63,Active,2027-03-31,0.733
+A00001,2026-06,Starter,Crop Monitoring,455.79,Active,2027-03-31,0.773
+A00002,2026-01,Professional,Farm Management;Crop Monitoring;Analytics,280.0,Active,2027-01-07,0.879
+A00002,2026-02,Professional,Farm Management;Crop Monitoring;Analytics,270.75,Active,2027-01-07,0.776
+A00002,2026-03,Professional,Farm Management;Crop Monitoring;Analytics,280.19,Active,2027-01-07,0.849
+A00002,2026-04,Professional,Farm Management;Crop Monitoring;Analytics,281.87,Active,2027-01-07,0.875
+A00002,2026-05,Professional,Farm Management;Crop Monitoring;Analytics,288.7,Active,2027-01-07,0.734
+A00002,2026-06,Professional,Farm Management;Crop Monitoring;Analytics,276.25,Active,2027-01-07,0.78
+A00003,2025-11,Starter,Farm Management;Crop Monitoring,298.61,Active,2026-11-10,0.875
+A00003,2025-12,Starter,Farm Management;Crop Monitoring,299.24,Active,2026-11-10,0.735
+A00003,2026-01,Starter,Farm Management;Crop Monitoring,315.21,Active,2026-11-10,0.728
+A00003,2026-02,Starter,Farm Management;Crop Monitoring,301.54,Active,2026-11-10,0.866
+A00003,2026-03,Starter,Farm Management;Crop Monitoring,315.55,Active,2026-11-10,0.736
+A00003,2026-04,Starter,Farm Management;Crop Monitoring,303.41,Active,2026-11-10,0.825
+A00003,2026-05,Starter,Farm Management;Crop Monitoring,312.45,Active,2026-11-10,0.823
+A00003,2026-06,Starter,Farm Management;Crop Monitoring,284.79,Active,2026-11-10,0.766
+A00004,2026-01,Enterprise,Farm Management;Crop Monitoring,478.91,Active,2027-01-16,0.818
+A00004,2026-02,Enterprise,Farm Management;Crop Monitoring,475.35,Active,2027-01-16,0.734
+A00004,2026-03,Enterprise,Farm Management;Crop Monitoring,484.38,Active,2027-01-16,0.736
+A00004,2026-04,Enterprise,Farm Management;Crop Monitoring,492.34,Active,2027-01-16,0.821
+A00004,2026-05,Enterprise,Farm Management;Crop Monitoring,470.55,Active,2027-01-16,0.844
+A00004,2026-06,Enterprise,Farm Management;Crop Monitoring,491.46,Active,2027-01-16,0.749
+A00005,2025-09,Professional,Crop Monitoring,164.08,Active,2026-09-21,0.742
+A00005,2025-10,Professional,Crop Monitoring,168.8,Active,2026-09-21,0.854
+A00005,2025-11,Professional,Crop Monitoring,171.03,Active,2026-09-21,0.852
+A00005,2025-12,Professional,Crop Monitoring,175.21,Active,2026-09-21,0.811
+A00005,2026-01,Professional,Crop Monitoring,174.15,Active,2026-09-21,0.788
+A00005,2026-02,Professional,Crop Monitoring,0.0,Churned,2026-09-21,0.871
+A00005,2026-03,Professional,Crop Monitoring,0.0,Churned,2026-09-21,0.821
+A00005,2026-04,Professional,Crop Monitoring,0.0,Churned,2026-09-21,0.763
+A00005,2026-05,Professional,Crop Monitoring,0.0,Churned,2026-09-21,0.823
+A00005,2026-06,Professional,Crop Monitoring,0.0,Churned,2026-09-21,0.872
+A00006,2025-12,Professional,Farm Management,476.88,Active,2026-12-10,0.744
+A00006,2026-01,Professional,Farm Management,508.79,Active,2026-12-10,0.72
+A00006,2026-02,Professional,Farm Management,496.58,Active,2026-12-10,0.734
+A00006,2026-03,Professional,Farm Management,522.85,Active,2026-12-10,0.819
+A00006,2026-04,Professional,Farm Management,0.0,Churned,2026-12-10,0.858
+A00006,2026-05,Professional,Farm Management,0.0,Churned,2026-12-10,0.852
+A00006,2026-06,Professional,Farm Management,0.0,Churned,2026-12-10,0.83
+A00007,2026-03,Starter,Farm Management;Crop Monitoring;Analytics,180.95,Active,2027-03-26,0.822
+A00007,2026-04,Starter,Farm Management;Crop Monitoring;Analytics,192.33,Active,2027-03-26,0.732
+A00007,2026-05,Starter,Farm Management;Crop Monitoring;Analytics,180.79,Active,2027-03-26,0.77
+A00007,2026-06,Starter,Farm Management;Crop Monitoring;Analytics,189.5,Active,2027-03-26,0.864
+A00008,2025-03,Enterprise,Farm Management,198.8,Active,2026-03-30,0.744
+A00008,2025-04,Enterprise,Farm Management,197.81,Active,2026-03-30,0.823
+A00008,2025-05,Enterprise,Farm Management,196.67,Active,2026-03-30,0.832
+A00008,2025-06,Enterprise,Farm Management,193.08,Active,2026-03-30,0.753
+A00008,2025-07,Enterprise,Farm Management,198.98,Active,2026-03-30,0.759
+A00008,2025-08,Enterprise,Farm Management,201.64,Active,2026-03-30,0.748
+A00008,2025-09,Enterprise,Farm Management,199.65,Active,2026-03-30,0.788
+A00008,2025-10,Enterprise,Farm Management,203.51,Active,2026-03-30,0.824
+A00008,2025-11,Enterprise,Farm Management,203.83,Active,2026-03-30,0.84
+A00008,2025-12,Enterprise,Farm Management,217.18,Active,2026-03-30,0.876
+A00008,2026-01,Enterprise,Farm Management,217.66,Active,2026-03-30,0.809
+A00008,2026-02,Enterprise,Farm Management,196.26,Active,2026-03-30,0.819
+A00008,2026-03,Enterprise,Farm Management,210.05,Active,2026-03-30,0.832
+A00008,2026-04,Enterprise,Farm Management,217.99,Active,2026-03-30,0.82
+A00008,2026-05,Enterprise,Farm Management,204.45,Active,2026-03-30,0.732
+A00008,2026-06,Enterprise,Farm Management,185.26,Active,2026-03-30,0.833
+A00009,2025-04,Professional,Farm Management;Crop Monitoring;Analytics,560.17,Active,2026-04-22,0.745
+A00009,2025-05,Professional,Farm Management;Crop Monitoring;Analytics,577.7,Active,2026-04-22,0.813
+A00009,2025-06,Professional,Farm Management;Crop Monitoring;Analytics,582.9,Active,2026-04-22,0.794
+A00009,2025-07,Professional,Farm Management;Crop Monitoring;Analytics,563.38,Active,2026-04-22,0.875
+A00009,2025-08,Professional,Farm Management;Crop Monitoring;Analytics,572.07,Active,2026-04-22,0.797
+A00009,2025-09,Professional,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-22,0.812
+A00009,2025-10,Professional,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-22,0.873
+A00009,2025-11,Professional,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-22,0.775
+A00009,2025-12,Professional,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-22,0.84
+A00009,2026-01,Professional,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-22,0.792
+A00009,2026-02,Professional,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-22,0.826
+A00009,2026-03,Professional,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-22,0.779
+A00009,2026-04,Professional,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-22,0.756
+A00009,2026-05,Professional,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-22,0.733
+A00009,2026-06,Professional,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-22,0.736
+A00010,2025-06,Professional,Farm Management;Crop Monitoring,718.68,Active,2026-06-04,0.759
+A00010,2025-07,Professional,Farm Management;Crop Monitoring,745.84,Active,2026-06-04,0.834
+A00010,2025-08,Professional,Farm Management;Crop Monitoring,718.51,Active,2026-06-04,0.79
+A00010,2025-09,Professional,Farm Management;Crop Monitoring,730.61,Active,2026-06-04,0.756
+A00010,2025-10,Professional,Farm Management;Crop Monitoring,759.15,Active,2026-06-04,0.72
+A00010,2025-11,Professional,Farm Management;Crop Monitoring,774.14,Active,2026-06-04,0.879
+A00010,2025-12,Professional,Farm Management;Crop Monitoring,743.54,Active,2026-06-04,0.872
+A00010,2026-01,Professional,Farm Management;Crop Monitoring,765.13,Active,2026-06-04,0.879
+A00010,2026-02,Professional,Farm Management;Crop Monitoring,769.07,Active,2026-06-04,0.82
+A00010,2026-03,Professional,Farm Management;Crop Monitoring,771.8,Active,2026-06-04,0.738
+A00010,2026-04,Professional,Farm Management;Crop Monitoring,807.02,Active,2026-06-04,0.857
+A00010,2026-05,Professional,Farm Management;Crop Monitoring,808.1,Active,2026-06-04,0.803
+A00010,2026-06,Professional,Farm Management;Crop Monitoring,779.59,Active,2026-06-04,0.799
+A00011,2025-05,Starter,Farm Management;Crop Monitoring,209.49,Active,2026-05-30,0.821
+A00011,2025-06,Starter,Farm Management;Crop Monitoring,204.75,Active,2026-05-30,0.773
+A00011,2025-07,Starter,Farm Management;Crop Monitoring,209.46,Active,2026-05-30,0.844
+A00011,2025-08,Starter,Farm Management;Crop Monitoring,0.0,Churned,2026-05-30,0.835
+A00011,2025-09,Starter,Farm Management;Crop Monitoring,0.0,Churned,2026-05-30,0.791
+A00011,2025-10,Starter,Farm Management;Crop Monitoring,0.0,Churned,2026-05-30,0.877
+A00011,2025-11,Starter,Farm Management;Crop Monitoring,0.0,Churned,2026-05-30,0.834
+A00011,2025-12,Starter,Farm Management;Crop Monitoring,0.0,Churned,2026-05-30,0.788
+A00011,2026-01,Starter,Farm Management;Crop Monitoring,0.0,Churned,2026-05-30,0.874
+A00011,2026-02,Starter,Farm Management;Crop Monitoring,0.0,Churned,2026-05-30,0.863
+A00011,2026-03,Starter,Farm Management;Crop Monitoring,0.0,Churned,2026-05-30,0.838
+A00011,2026-04,Starter,Farm Management;Crop Monitoring,0.0,Churned,2026-05-30,0.843
+A00011,2026-05,Starter,Farm Management;Crop Monitoring,0.0,Churned,2026-05-30,0.788
+A00011,2026-06,Starter,Farm Management;Crop Monitoring,0.0,Churned,2026-05-30,0.801
+A00012,2025-12,Enterprise,Crop Monitoring,1417.3,Active,2026-12-26,0.779
+A00012,2026-01,Enterprise,Crop Monitoring,1436.0,Active,2026-12-26,0.872
+A00012,2026-02,Enterprise,Crop Monitoring,1500.27,Active,2026-12-26,0.853
+A00012,2026-03,Enterprise,Crop Monitoring,1477.26,Active,2026-12-26,0.725
+A00012,2026-04,Enterprise,Crop Monitoring,0.0,Churned,2026-12-26,0.726
+A00012,2026-05,Enterprise,Crop Monitoring,0.0,Churned,2026-12-26,0.789
+A00012,2026-06,Enterprise,Crop Monitoring,0.0,Churned,2026-12-26,0.793
+A00013,2026-01,Starter,Crop Monitoring,256.43,Active,2027-01-25,0.798
+A00013,2026-02,Starter,Crop Monitoring,262.11,Active,2027-01-25,0.776
+A00013,2026-03,Starter,Crop Monitoring,251.4,Active,2027-01-25,0.73
+A00013,2026-04,Starter,Crop Monitoring,261.78,Active,2027-01-25,0.832
+A00013,2026-05,Starter,Crop Monitoring,265.42,Active,2027-01-25,0.841
+A00013,2026-06,Starter,Crop Monitoring,267.26,Active,2027-01-25,0.721
+A00014,2025-03,Enterprise,Farm Management;Crop Monitoring,273.67,Active,2026-03-14,0.76
+A00014,2025-04,Enterprise,Farm Management;Crop Monitoring,263.47,Active,2026-03-14,0.748
+A00014,2025-05,Enterprise,Farm Management;Crop Monitoring,279.2,Active,2026-03-14,0.872
+A00014,2025-06,Enterprise,Farm Management;Crop Monitoring,281.86,Active,2026-03-14,0.783
+A00014,2025-07,Enterprise,Farm Management;Crop Monitoring,282.41,Active,2026-03-14,0.876
+A00014,2025-08,Enterprise,Farm Management;Crop Monitoring,269.29,Active,2026-03-14,0.769
+A00014,2025-09,Enterprise,Farm Management;Crop Monitoring,296.67,Active,2026-03-14,0.761
+A00014,2025-10,Enterprise,Farm Management;Crop Monitoring,289.13,Active,2026-03-14,0.859
+A00014,2025-11,Enterprise,Farm Management;Crop Monitoring,290.28,Active,2026-03-14,0.805
+A00014,2025-12,Enterprise,Farm Management;Crop Monitoring,293.98,Active,2026-03-14,0.724
+A00014,2026-01,Enterprise,Farm Management;Crop Monitoring,288.54,Active,2026-03-14,0.879
+A00014,2026-02,Enterprise,Farm Management;Crop Monitoring,291.4,Active,2026-03-14,0.767
+A00014,2026-03,Enterprise,Farm Management;Crop Monitoring,270.73,Active,2026-03-14,0.819
+A00014,2026-04,Enterprise,Farm Management;Crop Monitoring,303.19,Active,2026-03-14,0.768
+A00014,2026-05,Enterprise,Farm Management;Crop Monitoring,295.3,Active,2026-03-14,0.724
+A00014,2026-06,Enterprise,Farm Management;Crop Monitoring,292.52,Active,2026-03-14,0.752
+A00015,2026-05,Professional,Farm Management,300.82,Active,2027-05-10,0.859
+A00015,2026-06,Professional,Farm Management,306.22,Active,2027-05-10,0.748
+A00016,2025-04,Professional,Farm Management;Crop Monitoring,137.69,Active,2026-04-23,0.779
+A00016,2025-05,Professional,Farm Management;Crop Monitoring,138.2,Active,2026-04-23,0.879
+A00016,2025-06,Professional,Farm Management;Crop Monitoring,147.02,Active,2026-04-23,0.755
+A00016,2025-07,Professional,Farm Management;Crop Monitoring,144.3,Active,2026-04-23,0.752
+A00016,2025-08,Professional,Farm Management;Crop Monitoring,147.9,Active,2026-04-23,0.757
+A00016,2025-09,Professional,Farm Management;Crop Monitoring,149.48,Active,2026-04-23,0.798
+A00016,2025-10,Professional,Farm Management;Crop Monitoring,148.81,Active,2026-04-23,0.761
+A00016,2025-11,Professional,Farm Management;Crop Monitoring,146.63,Active,2026-04-23,0.874
+A00016,2025-12,Professional,Farm Management;Crop Monitoring,149.75,Active,2026-04-23,0.82
+A00016,2026-01,Professional,Farm Management;Crop Monitoring,148.14,Active,2026-04-23,0.732
+A00016,2026-02,Professional,Farm Management;Crop Monitoring,138.86,Active,2026-04-23,0.761
+A00016,2026-03,Professional,Farm Management;Crop Monitoring,149.25,Active,2026-04-23,0.732
+A00016,2026-04,Professional,Farm Management;Crop Monitoring,177.95,Active,2026-04-23,0.866
+A00016,2026-05,Professional,Farm Management;Crop Monitoring,148.88,Active,2026-04-23,0.829
+A00016,2026-06,Professional,Farm Management;Crop Monitoring,151.11,Active,2026-04-23,0.868
+A00017,2025-06,Enterprise,Farm Management;Crop Monitoring;Analytics,122.85,Active,2026-06-20,0.728
+A00017,2025-07,Enterprise,Farm Management;Crop Monitoring;Analytics,128.73,Active,2026-06-20,0.742
+A00017,2025-08,Enterprise,Farm Management;Crop Monitoring;Analytics,131.62,Active,2026-06-20,0.848
+A00017,2025-09,Enterprise,Farm Management;Crop Monitoring;Analytics,126.17,Active,2026-06-20,0.748
+A00017,2025-10,Enterprise,Farm Management;Crop Monitoring;Analytics,114.96,Active,2026-06-20,0.845
+A00017,2025-11,Enterprise,Farm Management;Crop Monitoring;Analytics,136.4,Active,2026-06-20,0.81
+A00017,2025-12,Enterprise,Farm Management;Crop Monitoring;Analytics,132.16,Active,2026-06-20,0.768
+A00017,2026-01,Enterprise,Farm Management;Crop Monitoring;Analytics,130.17,Active,2026-06-20,0.769
+A00017,2026-02,Enterprise,Farm Management;Crop Monitoring;Analytics,140.58,Active,2026-06-20,0.805
+A00017,2026-03,Enterprise,Farm Management;Crop Monitoring;Analytics,132.35,Active,2026-06-20,0.822
+A00017,2026-04,Enterprise,Farm Management;Crop Monitoring;Analytics,136.4,Active,2026-06-20,0.8
+A00017,2026-05,Enterprise,Farm Management;Crop Monitoring;Analytics,119.93,Active,2026-06-20,0.833
+A00017,2026-06,Enterprise,Farm Management;Crop Monitoring;Analytics,140.02,Active,2026-06-20,0.79
+A00018,2026-03,Professional,Farm Management;Crop Monitoring,288.05,Active,2027-03-22,0.758
+A00018,2026-04,Professional,Farm Management;Crop Monitoring,285.61,Active,2027-03-22,0.802
+A00018,2026-05,Professional,Farm Management;Crop Monitoring,279.1,Active,2027-03-22,0.789
+A00018,2026-06,Professional,Farm Management;Crop Monitoring,296.01,Active,2027-03-22,0.878
+A00019,2025-05,Enterprise,Farm Management;Crop Monitoring;Analytics,146.61,Active,2026-05-14,0.866
+A00019,2025-06,Enterprise,Farm Management;Crop Monitoring;Analytics,141.68,Active,2026-05-14,0.857
+A00019,2025-07,Enterprise,Farm Management;Crop Monitoring;Analytics,148.81,Active,2026-05-14,0.788
+A00019,2025-08,Enterprise,Farm Management;Crop Monitoring;Analytics,151.28,Active,2026-05-14,0.736
+A00019,2025-09,Enterprise,Farm Management;Crop Monitoring;Analytics,141.21,Active,2026-05-14,0.738
+A00019,2025-10,Enterprise,Farm Management;Crop Monitoring;Analytics,150.41,Active,2026-05-14,0.861
+A00019,2025-11,Enterprise,Farm Management;Crop Monitoring;Analytics,179.52,Active,2026-05-14,0.774
+A00019,2025-12,Enterprise,Farm Management;Crop Monitoring;Analytics,150.32,Active,2026-05-14,0.782
+A00019,2026-01,Enterprise,Farm Management;Crop Monitoring;Analytics,154.87,Active,2026-05-14,0.832
+A00019,2026-02,Enterprise,Farm Management;Crop Monitoring;Analytics,156.82,Active,2026-05-14,0.748
+A00019,2026-03,Enterprise,Farm Management;Crop Monitoring;Analytics,153.76,Active,2026-05-14,0.734
+A00019,2026-04,Enterprise,Farm Management;Crop Monitoring;Analytics,158.59,Active,2026-05-14,0.733
+A00019,2026-05,Enterprise,Farm Management;Crop Monitoring;Analytics,155.42,Active,2026-05-14,0.727
+A00019,2026-06,Enterprise,Farm Management;Crop Monitoring;Analytics,158.91,Active,2026-05-14,0.826
+A00021,2025-02,Starter,Farm Management;Crop Monitoring,663.8,Active,2026-02-24,0.877
+A00021,2025-03,Starter,Farm Management;Crop Monitoring,685.94,Active,2026-02-24,0.732
+A00021,2025-04,Starter,Farm Management;Crop Monitoring,655.52,Active,2026-02-24,0.764
+A00021,2025-05,Starter,Farm Management;Crop Monitoring,651.18,Active,2026-02-24,0.744
+A00021,2025-06,Starter,Farm Management;Crop Monitoring,639.11,Active,2026-02-24,0.728
+A00021,2025-07,Starter,Farm Management;Crop Monitoring,635.74,Active,2026-02-24,0.769
+A00021,2025-08,Starter,Farm Management;Crop Monitoring,650.49,Active,2026-02-24,0.828
+A00021,2025-09,Starter,Farm Management;Crop Monitoring,652.61,Active,2026-02-24,0.727
+A00021,2025-10,Starter,Farm Management;Crop Monitoring,676.78,Active,2026-02-24,0.766
+A00021,2025-11,Starter,Farm Management;Crop Monitoring,685.76,Active,2026-02-24,0.789
+A00021,2025-12,Starter,Farm Management;Crop Monitoring,697.9,Active,2026-02-24,0.874
+A00021,2026-01,Starter,Farm Management;Crop Monitoring,717.54,Active,2026-02-24,0.75
+A00021,2026-02,Starter,Farm Management;Crop Monitoring,718.4,Active,2026-02-24,0.786
+A00021,2026-03,Starter,Farm Management;Crop Monitoring,697.01,Active,2026-02-24,0.803
+A00021,2026-04,Starter,Farm Management;Crop Monitoring,659.26,Active,2026-02-24,0.873
+A00021,2026-05,Starter,Farm Management;Crop Monitoring,711.41,Active,2026-02-24,0.864
+A00021,2026-06,Starter,Farm Management;Crop Monitoring,673.02,Active,2026-02-24,0.88
+A00022,2026-03,Starter,Farm Management,901.5,Active,2027-03-15,0.786
+A00022,2026-04,Starter,Farm Management,854.04,Active,2027-03-15,0.849
+A00022,2026-05,Starter,Farm Management,871.34,Active,2027-03-15,0.752
+A00022,2026-06,Starter,Farm Management,944.12,Active,2027-03-15,0.743
+A00023,2025-10,Professional,Crop Monitoring,538.85,Active,2026-10-21,0.822
+A00023,2025-11,Professional,Crop Monitoring,549.99,Active,2026-10-21,0.735
+A00023,2025-12,Professional,Crop Monitoring,555.69,Active,2026-10-21,0.817
+A00023,2026-01,Professional,Crop Monitoring,555.12,Active,2026-10-21,0.845
+A00023,2026-02,Professional,Crop Monitoring,580.02,Active,2026-10-21,0.738
+A00023,2026-03,Professional,Crop Monitoring,566.08,Active,2026-10-21,0.736
+A00023,2026-04,Professional,Crop Monitoring,571.52,Active,2026-10-21,0.771
+A00023,2026-05,Professional,Crop Monitoring,577.47,Active,2026-10-21,0.726
+A00023,2026-06,Professional,Crop Monitoring,572.66,Active,2026-10-21,0.88
+A00024,2026-02,Starter,Farm Management,593.63,Active,2027-02-26,0.799
+A00024,2026-03,Starter,Farm Management,587.94,Active,2027-02-26,0.863
+A00024,2026-04,Starter,Farm Management,566.2,Active,2027-02-26,0.785
+A00024,2026-05,Starter,Farm Management,605.02,Active,2027-02-26,0.775
+A00024,2026-06,Starter,Farm Management,606.65,Active,2027-02-26,0.752
+A00025,2025-09,Starter,Farm Management;Crop Monitoring;Analytics,1018.83,Active,2026-09-19,0.794
+A00025,2025-10,Starter,Farm Management;Crop Monitoring;Analytics,1004.34,Active,2026-09-19,0.726
+A00025,2025-11,Starter,Farm Management;Crop Monitoring;Analytics,1021.2,Active,2026-09-19,0.8
+A00025,2025-12,Starter,Farm Management;Crop Monitoring;Analytics,1043.32,Active,2026-09-19,0.764
+A00025,2026-01,Starter,Farm Management;Crop Monitoring;Analytics,1065.84,Active,2026-09-19,0.863
+A00025,2026-02,Starter,Farm Management;Crop Monitoring;Analytics,1060.37,Active,2026-09-19,0.851
+A00025,2026-03,Starter,Farm Management;Crop Monitoring;Analytics,1067.35,Active,2026-09-19,0.728
+A00025,2026-04,Starter,Farm Management;Crop Monitoring;Analytics,1038.54,Active,2026-09-19,0.773
+A00025,2026-05,Starter,Farm Management;Crop Monitoring;Analytics,1122.51,Active,2026-09-19,0.794
+A00025,2026-06,Starter,Farm Management;Crop Monitoring;Analytics,1060.98,Active,2026-09-19,0.78
+A00026,2025-07,Professional,Crop Monitoring,139.05,Active,2026-07-09,0.855
+A00026,2025-08,Professional,Crop Monitoring,134.1,Active,2026-07-09,0.797
+A00026,2025-09,Professional,Crop Monitoring,131.81,Active,2026-07-09,0.732
+A00026,2025-10,Professional,Crop Monitoring,136.19,Active,2026-07-09,0.787
+A00026,2025-11,Professional,Crop Monitoring,132.0,Active,2026-07-09,0.811
+A00026,2025-12,Professional,Crop Monitoring,140.96,Active,2026-07-09,0.851
+A00026,2026-01,Professional,Crop Monitoring,138.58,Active,2026-07-09,0.768
+A00026,2026-02,Professional,Crop Monitoring,143.95,Active,2026-07-09,0.842
+A00026,2026-03,Professional,Crop Monitoring,145.96,Active,2026-07-09,0.842
+A00026,2026-04,Professional,Crop Monitoring,142.11,Active,2026-07-09,0.805
+A00026,2026-05,Professional,Crop Monitoring,142.89,Active,2026-07-09,0.829
+A00026,2026-06,Professional,Crop Monitoring,143.26,Active,2026-07-09,0.878
+A00027,2026-06,Starter,Farm Management,187.81,Active,2027-06-17,0.797
+A00028,2026-03,Enterprise,Farm Management;Crop Monitoring,124.33,Active,2027-03-15,0.772
+A00028,2026-04,Enterprise,Farm Management;Crop Monitoring,131.57,Active,2027-03-15,0.723
+A00028,2026-05,Enterprise,Farm Management;Crop Monitoring,126.3,Active,2027-03-15,0.756
+A00028,2026-06,Enterprise,Farm Management;Crop Monitoring,130.06,Active,2027-03-15,0.865
+A00029,2025-04,Enterprise,Farm Management;Crop Monitoring;Analytics,713.11,Active,2026-04-29,0.794
+A00029,2025-05,Enterprise,Farm Management;Crop Monitoring;Analytics,737.68,Active,2026-04-29,0.798
+A00029,2025-06,Enterprise,Farm Management;Crop Monitoring;Analytics,755.43,Active,2026-04-29,0.767
+A00029,2025-07,Enterprise,Farm Management;Crop Monitoring;Analytics,754.28,Active,2026-04-29,0.756
+A00029,2025-08,Enterprise,Farm Management;Crop Monitoring;Analytics,783.67,Active,2026-04-29,0.823
+A00029,2025-09,Enterprise,Farm Management;Crop Monitoring;Analytics,780.22,Active,2026-04-29,0.74
+A00029,2025-10,Enterprise,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-29,0.765
+A00029,2025-11,Enterprise,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-29,0.843
+A00029,2025-12,Enterprise,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-29,0.837
+A00029,2026-01,Enterprise,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-29,0.753
+A00029,2026-02,Enterprise,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-29,0.796
+A00029,2026-03,Enterprise,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-29,0.736
+A00029,2026-04,Enterprise,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-29,0.835
+A00029,2026-05,Enterprise,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-29,0.847
+A00029,2026-06,Enterprise,Farm Management;Crop Monitoring;Analytics,0.0,Churned,2026-04-29,0.863
+A00030,2025-12,Enterprise,Farm Management;Crop Monitoring,183.97,Active,2026-12-02,0.761
+A00030,2026-01,Enterprise,Farm Management;Crop Monitoring,191.14,Active,2026-12-02,0.743
+A00030,2026-02,Enterprise,Farm Management;Crop Monitoring,192.33,Active,2026-12-02,0.77
+A00030,2026-03,Enterprise,Farm Management;Crop Monitoring,192.18,Active,2026-12-02,0.831
+A00030,2026-04,Enterprise,Farm Management;Crop Monitoring,199.16,Active,2026-12-02,0.764
+A00030,2026-05,Enterprise,Farm Management;Crop Monitoring,194.86,Active,2026-12-02,0.754
+A00030,2026-06,Enterprise,Farm Management;Crop Monitoring,189.61,Active,2026-12-02,0.845
+A00031,2025-02,Starter,Crop Monitoring,252.24,Active,2026-02-01,0.839
+A00031,2025-03,Starter,Crop Monitoring,251.2,Active,2026-02-01,0.85
+A00031,2025-04,Starter,Crop Monitoring,252.35,Active,2026-02-01,0.811
+A00031,2025-05,Starter,Crop Monitoring,257.84,Active,2026-02-01,0.875
+A00031,2025-06,Starter,Crop Monitoring,258.42,Active,2026-02-01,0.877
+A00031,2025-07,Starter,Crop Monitoring,253.82,Active,2026-02-01,0.794
+A00031,2025-08,Starter,Crop Monitoring,253.45,Active,2026-02-01,0.827
+A00031,2025-09,Starter,Crop Monitoring,262.49,Active,2026-02-01,0.835
+A00031,2025-10,Starter,Crop Monitoring,261.08,Active,2026-02-01,0.761
+A00031,2025-11,Starter,Crop Monitoring,272.27,Active,2026-02-01,0.741
+A00031,2025-12,Starter,Crop Monitoring,278.62,Active,2026-02-01,0.847
+A00031,2026-01,Starter,Crop Monitoring,267.81,Active,2026-02-01,0.808
+A00031,2026-02,Starter,Crop Monitoring,253.05,Active,2026-02-01,0.747
+A00031,2026-03,Starter,Crop Monitoring,264.31,Active,2026-02-01,0.739
+A00031,2026-04,Starter,Crop Monitoring,255.58,Active,2026-02-01,0.806
+A00031,2026-05,Starter,Crop Monitoring,251.51,Active,2026-02-01,0.856
+A00031,2026-06,Starter,Crop Monitoring,265.78,Active,2026-02-01,0.73
+A00032,2026-01,Professional,Crop Monitoring,426.86,Active,2027-01-31,0.752
+A00032,2026-02,Professional,Crop Monitoring,416.82,Active,2027-01-31,0.732
+A00032,2026-03,Professional,Crop Monitoring,426.47,Active,2027-01-31,0.812
+A00032,2026-04,Professional,Crop Monitoring,441.78,Active,2027-01-31,0.849
+A00032,2026-05,Professional,Crop Monitoring,447.78,Active,2027-01-31,0.746
+A00032,2026-06,Professional,Crop Monitoring,452.24,Active,2027-01-31,0.784
+A00033,2025-05,Professional,Farm Management;Crop Monitoring,125.69,Active,2026-05-01,0.863
+A00033,2025-06,Professional,Farm Management;Crop Monitoring,132.04,Active,2026-05-01,0.799
+A00033,2025-07,Professional,Farm Management;Crop Monitoring,130.45,Active,2026-05-01,0.797
+A00033,2025-08,Professional,Farm Management;Crop Monitoring,138.05,Active,2026-05-01,0.797
+A00033,2025-09,Professional,Farm Management;Crop Monitoring,141.67,Active,2026-05-01,0.842
+A00033,2025-10,Professional,Farm Management;Crop Monitoring,131.7,Active,2026-05-01,0.734
+A00033,2025-11,Professional,Farm Management;Crop Monitoring,142.65,Active,2026-05-01,0.761
+A00033,2025-12,Professional,Farm Management;Crop Monitoring,140.05,Active,2026-05-01,0.777
+A00033,2026-01,Professional,Farm Management;Crop Monitoring,142.11,Active,2026-05-01,0.876
+A00033,2026-02,Professional,Farm Management;Crop Monitoring,143.39,Active,2026-05-01,0.802
+A00033,2026-03,Professional,Farm Management;Crop Monitoring,127.77,Active,2026-05-01,0.822
+A00033,2026-04,Professional,Farm Management;Crop Monitoring,140.3,Active,2026-05-01,0.744
+A00033,2026-05,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-05-01,0.865
+A00033,2026-06,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-05-01,0.772
+A00034,2025-06,Professional,Farm Management;Crop Monitoring,380.67,Active,2026-06-01,0.726
+A00034,2025-07,Professional,Farm Management;Crop Monitoring,398.25,Active,2026-06-01,0.859
+A00034,2025-08,Professional,Farm Management;Crop Monitoring,402.61,Active,2026-06-01,0.85
+A00034,2025-09,Professional,Farm Management;Crop Monitoring,389.43,Active,2026-06-01,0.725
+A00034,2025-10,Professional,Farm Management;Crop Monitoring,401.86,Active,2026-06-01,0.848
+A00034,2025-11,Professional,Farm Management;Crop Monitoring,414.49,Active,2026-06-01,0.833
+A00034,2025-12,Professional,Farm Management;Crop Monitoring,411.43,Active,2026-06-01,0.802
+A00034,2026-01,Professional,Farm Management;Crop Monitoring,395.94,Active,2026-06-01,0.748
+A00034,2026-02,Professional,Farm Management;Crop Monitoring,429.51,Active,2026-06-01,0.773
+A00034,2026-03,Professional,Farm Management;Crop Monitoring,440.12,Active,2026-06-01,0.738
+A00034,2026-04,Professional,Farm Management;Crop Monitoring,429.68,Active,2026-06-01,0.874
+A00034,2026-05,Professional,Farm Management;Crop Monitoring,492.23,Active,2026-06-01,0.857
+A00034,2026-06,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-06-01,0.779
+A00035,2026-03,Professional,Farm Management,284.77,Active,2027-03-30,0.826
+A00035,2026-04,Professional,Farm Management,269.77,Active,2027-03-30,0.852
+A00035,2026-05,Professional,Farm Management,277.85,Active,2027-03-30,0.861
+A00035,2026-06,Professional,Farm Management,271.57,Active,2027-03-30,0.845
+A00036,2025-05,Starter,Crop Monitoring,139.23,Active,2026-05-17,0.83
+A00036,2025-06,Starter,Crop Monitoring,143.53,Active,2026-05-17,0.721
+A00036,2025-07,Starter,Crop Monitoring,151.61,Active,2026-05-17,0.762
+A00036,2025-08,Starter,Crop Monitoring,144.81,Active,2026-05-17,0.738
+A00036,2025-09,Starter,Crop Monitoring,168.94,Active,2026-05-17,0.723
+A00036,2025-10,Starter,Crop Monitoring,149.95,Active,2026-05-17,0.784
+A00036,2025-11,Starter,Crop Monitoring,154.87,Active,2026-05-17,0.743
+A00036,2025-12,Starter,Crop Monitoring,153.39,Active,2026-05-17,0.778
+A00036,2026-01,Starter,Crop Monitoring,162.67,Active,2026-05-17,0.823
+A00036,2026-02,Starter,Crop Monitoring,149.59,Active,2026-05-17,0.766
+A00036,2026-03,Starter,Crop Monitoring,164.23,Active,2026-05-17,0.767
+A00036,2026-04,Starter,Crop Monitoring,157.42,Active,2026-05-17,0.799
+A00036,2026-05,Starter,Crop Monitoring,163.71,Active,2026-05-17,0.785
+A00036,2026-06,Starter,Crop Monitoring,160.19,Active,2026-05-17,0.79
+A00037,2025-11,Professional,Farm Management;Crop Monitoring,3093.45,Active,2026-11-24,0.759
+A00037,2025-12,Professional,Farm Management;Crop Monitoring,3015.46,Active,2026-11-24,0.827
+A00037,2026-01,Professional,Farm Management;Crop Monitoring,3146.69,Active,2026-11-24,0.838
+A00037,2026-02,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-11-24,0.824
+A00037,2026-03,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-11-24,0.799
+A00037,2026-04,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-11-24,0.805
+A00037,2026-05,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-11-24,0.873
+A00037,2026-06,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-11-24,0.866
+A00038,2026-03,Starter,Farm Management,145.25,Active,2027-03-02,0.803
+A00038,2026-04,Starter,Farm Management,154.92,Active,2027-03-02,0.851
+A00038,2026-05,Starter,Farm Management,157.93,Active,2027-03-02,0.862
+A00038,2026-06,Starter,Farm Management,0.0,Churned,2027-03-02,0.781
+A00039,2025-12,Professional,Farm Management;Crop Monitoring,232.18,Active,2026-12-03,0.777
+A00039,2026-01,Professional,Farm Management;Crop Monitoring,236.02,Active,2026-12-03,0.873
+A00039,2026-02,Professional,Farm Management;Crop Monitoring,243.48,Active,2026-12-03,0.802
+A00039,2026-03,Professional,Farm Management;Crop Monitoring,237.64,Active,2026-12-03,0.745
+A00039,2026-04,Professional,Farm Management;Crop Monitoring,250.42,Active,2026-12-03,0.744
+A00039,2026-05,Professional,Farm Management;Crop Monitoring,231.61,Active,2026-12-03,0.748
+A00039,2026-06,Professional,Farm Management;Crop Monitoring,244.03,Active,2026-12-03,0.87
+A00041,2025-04,Starter,Farm Management;Crop Monitoring,179.66,Active,2026-04-20,0.779
+A00041,2025-05,Starter,Farm Management;Crop Monitoring,180.54,Active,2026-04-20,0.774
+A00041,2025-06,Starter,Farm Management;Crop Monitoring,189.83,Active,2026-04-20,0.823
+A00041,2025-07,Starter,Farm Management;Crop Monitoring,190.09,Active,2026-04-20,0.746
+A00041,2025-08,Starter,Farm Management;Crop Monitoring,182.07,Active,2026-04-20,0.807
+A00041,2025-09,Starter,Farm Management;Crop Monitoring,196.8,Active,2026-04-20,0.805
+A00041,2025-10,Starter,Farm Management;Crop Monitoring,188.83,Active,2026-04-20,0.78
+A00041,2025-11,Starter,Farm Management;Crop Monitoring,197.07,Active,2026-04-20,0.783
+A00041,2025-12,Starter,Farm Management;Crop Monitoring,194.07,Active,2026-04-20,0.789
+A00041,2026-01,Starter,Farm Management;Crop Monitoring,189.98,Active,2026-04-20,0.86
+A00041,2026-02,Starter,Farm Management;Crop Monitoring,200.16,Active,2026-04-20,0.805
+A00041,2026-03,Starter,Farm Management;Crop Monitoring,198.74,Active,2026-04-20,0.782
+A00041,2026-04,Starter,Farm Management;Crop Monitoring,193.01,Active,2026-04-20,0.875
+A00041,2026-05,Starter,Farm Management;Crop Monitoring,192.0,Active,2026-04-20,0.836
+A00041,2026-06,Starter,Farm Management;Crop Monitoring,0.0,Churned,2026-04-20,0.823
+A00042,2026-01,Enterprise,Farm Management;Crop Monitoring;Analytics,237.58,Active,2027-01-06,0.732
+A00042,2026-02,Enterprise,Farm Management;Crop Monitoring;Analytics,224.66,Active,2027-01-06,0.736
+A00042,2026-03,Enterprise,Farm Management;Crop Monitoring;Analytics,238.49,Active,2027-01-06,0.823
+A00042,2026-04,Enterprise,Farm Management;Crop Monitoring;Analytics,232.82,Active,2027-01-06,0.752
+A00042,2026-05,Enterprise,Farm Management;Crop Monitoring;Analytics,237.16,Active,2027-01-06,0.828
+A00042,2026-06,Enterprise,Farm Management;Crop Monitoring;Analytics,236.64,Active,2027-01-06,0.76
+A00043,2025-11,Starter,Crop Monitoring,501.76,Active,2026-11-24,0.856
+A00043,2025-12,Starter,Crop Monitoring,504.26,Active,2026-11-24,0.841
+A00043,2026-01,Starter,Crop Monitoring,516.42,Active,2026-11-24,0.726
+A00043,2026-02,Starter,Crop Monitoring,502.13,Active,2026-11-24,0.879
+A00043,2026-03,Starter,Crop Monitoring,513.16,Active,2026-11-24,0.788
+A00043,2026-04,Starter,Crop Monitoring,521.93,Active,2026-11-24,0.869
+A00043,2026-05,Starter,Crop Monitoring,531.64,Active,2026-11-24,0.799
+A00043,2026-06,Starter,Crop Monitoring,522.59,Active,2026-11-24,0.79
+A00044,2025-08,Starter,Farm Management,691.49,Active,2026-08-08,0.818
+A00044,2025-09,Starter,Farm Management,724.65,Active,2026-08-08,0.72
+A00044,2025-10,Starter,Farm Management,708.87,Active,2026-08-08,0.803
+A00044,2025-11,Starter,Farm Management,734.85,Active,2026-08-08,0.775
+A00044,2025-12,Starter,Farm Management,735.4,Active,2026-08-08,0.759
+A00044,2026-01,Starter,Farm Management,737.81,Active,2026-08-08,0.789
+A00044,2026-02,Starter,Farm Management,754.7,Active,2026-08-08,0.812
+A00044,2026-03,Starter,Farm Management,711.96,Active,2026-08-08,0.789
+A00044,2026-04,Starter,Farm Management,773.09,Active,2026-08-08,0.79
+A00044,2026-05,Starter,Farm Management,728.37,Active,2026-08-08,0.741
+A00044,2026-06,Starter,Farm Management,775.09,Active,2026-08-08,0.728
+A00046,2025-03,Starter,Farm Management;Crop Monitoring;Analytics,216.75,Active,2026-03-18,0.87
+A00046,2025-04,Starter,Farm Management;Crop Monitoring;Analytics,236.03,Active,2026-03-18,0.811
+A00046,2025-05,Starter,Farm Management;Crop Monitoring;Analytics,231.66,Active,2026-03-18,0.824
+A00046,2025-06,Starter,Farm Management;Crop Monitoring;Analytics,227.15,Active,2026-03-18,0.746
+A00046,2025-07,Starter,Farm Management;Crop Monitoring;Analytics,226.04,Active,2026-03-18,0.769
+A00046,2025-08,Starter,Farm Management;Crop Monitoring;Analytics,262.35,Active,2026-03-18,0.808
+A00046,2025-09,Starter,Farm Management;Crop Monitoring;Analytics,269.27,Active,2026-03-18,0.824
+A00046,2025-10,Starter,Farm Management;Crop Monitoring;Analytics,234.88,Active,2026-03-18,0.741
+A00046,2025-11,Starter,Farm Management;Crop Monitoring;Analytics,242.52,Active,2026-03-18,0.798
+A00046,2025-12,Starter,Farm Management;Crop Monitoring;Analytics,237.38,Active,2026-03-18,0.775
+A00046,2026-01,Starter,Farm Management;Crop Monitoring;Analytics,246.43,Active,2026-03-18,0.784
+A00046,2026-02,Starter,Farm Management;Crop Monitoring;Analytics,237.89,Active,2026-03-18,0.85
+A00046,2026-03,Starter,Farm Management;Crop Monitoring;Analytics,244.19,Active,2026-03-18,0.737
+A00046,2026-04,Starter,Farm Management;Crop Monitoring;Analytics,238.46,Active,2026-03-18,0.844
+A00046,2026-05,Starter,Farm Management;Crop Monitoring;Analytics,222.44,Active,2026-03-18,0.82
+A00046,2026-06,Starter,Farm Management;Crop Monitoring;Analytics,245.47,Active,2026-03-18,0.759
+A00047,2026-06,Starter,Farm Management;Crop Monitoring,397.43,Active,2027-06-08,0.85
+A00048,2025-07,Enterprise,Farm Management;Crop Monitoring,172.61,Active,2026-07-30,0.734
+A00048,2025-08,Enterprise,Farm Management;Crop Monitoring,170.32,Active,2026-07-30,0.86
+A00048,2025-09,Enterprise,Farm Management;Crop Monitoring,167.78,Active,2026-07-30,0.783
+A00048,2025-10,Enterprise,Farm Management;Crop Monitoring,171.02,Active,2026-07-30,0.729
+A00048,2025-11,Enterprise,Farm Management;Crop Monitoring,176.66,Active,2026-07-30,0.828
+A00048,2025-12,Enterprise,Farm Management;Crop Monitoring,184.95,Active,2026-07-30,0.83
+A00048,2026-01,Enterprise,Farm Management;Crop Monitoring,174.07,Active,2026-07-30,0.73
+A00048,2026-02,Enterprise,Farm Management;Crop Monitoring,185.62,Active,2026-07-30,0.754
+A00048,2026-03,Enterprise,Farm Management;Crop Monitoring,187.14,Active,2026-07-30,0.766
+A00048,2026-04,Enterprise,Farm Management;Crop Monitoring,183.08,Active,2026-07-30,0.83
+A00048,2026-05,Enterprise,Farm Management;Crop Monitoring,186.11,Active,2026-07-30,0.846
+A00048,2026-06,Enterprise,Farm Management;Crop Monitoring,186.63,Active,2026-07-30,0.777
+A00049,2025-09,Professional,Farm Management;Crop Monitoring,1384.16,Active,2026-09-22,0.847
+A00049,2025-10,Professional,Farm Management;Crop Monitoring,1333.85,Active,2026-09-22,0.87
+A00049,2025-11,Professional,Farm Management;Crop Monitoring,1437.88,Active,2026-09-22,0.741
+A00049,2025-12,Professional,Farm Management;Crop Monitoring,1415.94,Active,2026-09-22,0.805
+A00049,2026-01,Professional,Farm Management;Crop Monitoring,1371.82,Active,2026-09-22,0.752
+A00049,2026-02,Professional,Farm Management;Crop Monitoring,1473.17,Active,2026-09-22,0.792
+A00049,2026-03,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-09-22,0.836
+A00049,2026-04,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-09-22,0.794
+A00049,2026-05,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-09-22,0.78
+A00049,2026-06,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-09-22,0.791
+A00050,2025-11,Enterprise,Farm Management,2053.71,Active,2026-11-26,0.789
+A00050,2025-12,Enterprise,Farm Management,2087.34,Active,2026-11-26,0.742
+A00050,2026-01,Enterprise,Farm Management,2090.49,Active,2026-11-26,0.738
+A00050,2026-02,Enterprise,Farm Management,2119.85,Active,2026-11-26,0.83
+A00050,2026-03,Enterprise,Farm Management,2070.04,Active,2026-11-26,0.836
+A00050,2026-04,Enterprise,Farm Management,2242.68,Active,2026-11-26,0.763
+A00050,2026-05,Enterprise,Farm Management,2151.47,Active,2026-11-26,0.863
+A00050,2026-06,Enterprise,Farm Management,2243.32,Active,2026-11-26,0.805
+A00051,2026-04,Enterprise,Farm Management,105.4,Active,2027-04-10,0.846
+A00051,2026-05,Enterprise,Farm Management,110.14,Active,2027-04-10,0.856
+A00051,2026-06,Enterprise,Farm Management,105.85,Active,2027-04-10,0.857
+A00052,2026-05,Starter,Farm Management;Crop Monitoring,319.05,Active,2027-05-15,0.876
+A00052,2026-06,Starter,Farm Management;Crop Monitoring,326.32,Active,2027-05-15,0.855
+A00053,2025-07,Starter,Farm Management;Crop Monitoring;Analytics,172.81,Active,2026-07-04,0.756
+A00053,2025-08,Starter,Farm Management;Crop Monitoring;Analytics,176.81,Active,2026-07-04,0.86
+A00053,2025-09,Starter,Farm Management;Crop Monitoring;Analytics,171.54,Active,2026-07-04,0.877
+A00053,2025-10,Starter,Farm Management;Crop Monitoring;Analytics,178.42,Active,2026-07-04,0.821
+A00053,2025-11,Starter,Farm Management;Crop Monitoring;Analytics,179.98,Active,2026-07-04,0.796
+A00053,2025-12,Starter,Farm Management;Crop Monitoring;Analytics,181.91,Active,2026-07-04,0.866
+A00053,2026-01,Starter,Farm Management;Crop Monitoring;Analytics,184.75,Active,2026-07-04,0.862
+A00053,2026-02,Starter,Farm Management;Crop Monitoring;Analytics,195.48,Active,2026-07-04,0.782
+A00053,2026-03,Starter,Farm Management;Crop Monitoring;Analytics,212.72,Active,2026-07-04,0.806
+A00053,2026-04,Starter,Farm Management;Crop Monitoring;Analytics,185.53,Active,2026-07-04,0.863
+A00053,2026-05,Starter,Farm Management;Crop Monitoring;Analytics,184.21,Active,2026-07-04,0.744
+A00053,2026-06,Starter,Farm Management;Crop Monitoring;Analytics,190.54,Active,2026-07-04,0.865
+A00054,2025-05,Professional,Farm Management;Crop Monitoring,158.45,Active,2026-05-27,0.753
+A00054,2025-06,Professional,Farm Management;Crop Monitoring,157.71,Active,2026-05-27,0.729
+A00054,2025-07,Professional,Farm Management;Crop Monitoring,154.36,Active,2026-05-27,0.798
+A00054,2025-08,Professional,Farm Management;Crop Monitoring,155.53,Active,2026-05-27,0.794
+A00054,2025-09,Professional,Farm Management;Crop Monitoring,156.02,Active,2026-05-27,0.786
+A00054,2025-10,Professional,Farm Management;Crop Monitoring,157.16,Active,2026-05-27,0.829
+A00054,2025-11,Professional,Farm Management;Crop Monitoring,188.5,Active,2026-05-27,0.841
+A00054,2025-12,Professional,Farm Management;Crop Monitoring,158.84,Active,2026-05-27,0.815
+A00054,2026-01,Professional,Farm Management;Crop Monitoring,164.65,Active,2026-05-27,0.873
+A00054,2026-02,Professional,Farm Management;Crop Monitoring,165.33,Active,2026-05-27,0.848
+A00054,2026-03,Professional,Farm Management;Crop Monitoring,162.49,Active,2026-05-27,0.768
+A00054,2026-04,Professional,Farm Management;Crop Monitoring,165.51,Active,2026-05-27,0.876
+A00054,2026-05,Professional,Farm Management;Crop Monitoring,174.4,Active,2026-05-27,0.723
+A00054,2026-06,Professional,Farm Management;Crop Monitoring,168.61,Active,2026-05-27,0.826
+A00056,2026-06,Professional,Crop Monitoring,1923.42,Active,2027-06-01,0.727
+A00057,2026-04,Enterprise,Farm Management,360.88,Active,2027-04-02,0.866
+A00057,2026-05,Enterprise,Farm Management,348.14,Active,2027-04-02,0.813
+A00057,2026-06,Enterprise,Farm Management,366.92,Active,2027-04-02,0.839
+A00058,2025-03,Starter,Farm Management;Crop Monitoring,289.82,Active,2026-03-20,0.807
+A00058,2025-04,Starter,Farm Management;Crop Monitoring,287.14,Active,2026-03-20,0.841
+A00058,2025-05,Starter,Farm Management;Crop Monitoring,292.4,Active,2026-03-20,0.744
+A00058,2025-06,Starter,Farm Management;Crop Monitoring,304.61,Active,2026-03-20,0.838
+A00058,2025-07,Starter,Farm Management;Crop Monitoring,295.37,Active,2026-03-20,0.743
+A00058,2025-08,Starter,Farm Management;Crop Monitoring,303.58,Active,2026-03-20,0.879
+A00058,2025-09,Starter,Farm Management;Crop Monitoring,298.51,Active,2026-03-20,0.782
+A00058,2025-10,Starter,Farm Management;Crop Monitoring,309.68,Active,2026-03-20,0.765
+A00058,2025-11,Starter,Farm Management;Crop Monitoring,319.82,Active,2026-03-20,0.797
+A00058,2025-12,Starter,Farm Management;Crop Monitoring,326.9,Active,2026-03-20,0.868
+A00058,2026-01,Starter,Farm Management;Crop Monitoring,321.41,Active,2026-03-20,0.877
+A00058,2026-02,Starter,Farm Management;Crop Monitoring,323.57,Active,2026-03-20,0.811
+A00058,2026-03,Starter,Farm Management;Crop Monitoring,323.63,Active,2026-03-20,0.767
+A00058,2026-04,Starter,Farm Management;Crop Monitoring,421.21,Active,2026-03-20,0.879
+A00058,2026-05,Starter,Farm Management;Crop Monitoring,387.84,Active,2026-03-20,0.765
+A00058,2026-06,Starter,Farm Management;Crop Monitoring,0.0,Churned,2026-03-20,0.785
+A00059,2026-01,Starter,Farm Management;Crop Monitoring;Analytics,795.63,Active,2027-01-03,0.846
+A00059,2026-02,Starter,Farm Management;Crop Monitoring;Analytics,798.13,Active,2027-01-03,0.754
+A00059,2026-03,Starter,Farm Management;Crop Monitoring;Analytics,815.49,Active,2027-01-03,0.778
+A00059,2026-04,Starter,Farm Management;Crop Monitoring;Analytics,828.1,Active,2027-01-03,0.87
+A00059,2026-05,Starter,Farm Management;Crop Monitoring;Analytics,837.44,Active,2027-01-03,0.798
+A00059,2026-06,Starter,Farm Management;Crop Monitoring;Analytics,854.85,Active,2027-01-03,0.829
+A00060,2026-06,Enterprise,Farm Management;Crop Monitoring,245.53,Active,2027-06-19,0.835
+A00061,2025-07,Enterprise,Farm Management;Crop Monitoring,463.22,Active,2026-07-14,0.77
+A00061,2025-08,Enterprise,Farm Management;Crop Monitoring,446.16,Active,2026-07-14,0.858
+A00061,2025-09,Enterprise,Farm Management;Crop Monitoring,460.81,Active,2026-07-14,0.765
+A00061,2025-10,Enterprise,Farm Management;Crop Monitoring,456.81,Active,2026-07-14,0.858
+A00061,2025-11,Enterprise,Farm Management;Crop Monitoring,0.0,Churned,2026-07-14,0.878
+A00061,2025-12,Enterprise,Farm Management;Crop Monitoring,0.0,Churned,2026-07-14,0.731
+A00061,2026-01,Enterprise,Farm Management;Crop Monitoring,0.0,Churned,2026-07-14,0.801
+A00061,2026-02,Enterprise,Farm Management;Crop Monitoring,0.0,Churned,2026-07-14,0.86
+A00061,2026-03,Enterprise,Farm Management;Crop Monitoring,0.0,Churned,2026-07-14,0.721
+A00061,2026-04,Enterprise,Farm Management;Crop Monitoring,0.0,Churned,2026-07-14,0.79
+A00061,2026-05,Enterprise,Farm Management;Crop Monitoring,0.0,Churned,2026-07-14,0.813
+A00061,2026-06,Enterprise,Farm Management;Crop Monitoring,0.0,Churned,2026-07-14,0.804
+A00062,2025-12,Professional,Farm Management;Crop Monitoring;Analytics,197.33,Active,2026-12-22,0.846
+A00062,2026-01,Professional,Farm Management;Crop Monitoring;Analytics,202.8,Active,2026-12-22,0.852
+A00062,2026-02,Professional,Farm Management;Crop Monitoring;Analytics,207.66,Active,2026-12-22,0.727
+A00062,2026-03,Professional,Farm Management;Crop Monitoring;Analytics,208.76,Active,2026-12-22,0.845
+A00062,2026-04,Professional,Farm Management;Crop Monitoring;Analytics,204.31,Active,2026-12-22,0.814
+A00062,2026-05,Professional,Farm Management;Crop Monitoring;Analytics,201.77,Active,2026-12-22,0.872
+A00062,2026-06,Professional,Farm Management;Crop Monitoring;Analytics,219.99,Active,2026-12-22,0.781
+A00063,2025-02,Professional,Farm Management,1696.17,Active,2026-02-19,0.746
+A00063,2025-03,Professional,Farm Management,1683.58,Active,2026-02-19,0.737
+A00063,2025-04,Professional,Farm Management,1775.32,Active,2026-02-19,0.867
+A00063,2025-05,Professional,Farm Management,1781.39,Active,2026-02-19,0.75
+A00063,2025-06,Professional,Farm Management,1827.47,Active,2026-02-19,0.86
+A00063,2025-07,Professional,Farm Management,1842.69,Active,2026-02-19,0.73
+A00063,2025-08,Professional,Farm Management,1839.03,Active,2026-02-19,0.853
+A00063,2025-09,Professional,Farm Management,1904.27,Active,2026-02-19,0.739
+A00063,2025-10,Professional,Farm Management,1901.89,Active,2026-02-19,0.821
+A00063,2025-11,Professional,Farm Management,1792.62,Active,2026-02-19,0.801
+A00063,2025-12,Professional,Farm Management,1923.48,Active,2026-02-19,0.875
+A00063,2026-01,Professional,Farm Management,1765.07,Active,2026-02-19,0.822
+A00063,2026-02,Professional,Farm Management,1724.13,Active,2026-02-19,0.832
+A00063,2026-03,Professional,Farm Management,1951.88,Active,2026-02-19,0.837
+A00063,2026-04,Professional,Farm Management,1872.05,Active,2026-02-19,0.835
+A00063,2026-05,Professional,Farm Management,0.0,Churned,2026-02-19,0.777
+A00063,2026-06,Professional,Farm Management,0.0,Churned,2026-02-19,0.761
+A00064,2025-02,Professional,Farm Management,197.15,Active,2026-02-10,0.817
+A00064,2025-03,Professional,Farm Management,205.26,Active,2026-02-10,0.836
+A00064,2025-04,Professional,Farm Management,208.32,Active,2026-02-10,0.854
+A00064,2025-05,Professional,Farm Management,213.69,Active,2026-02-10,0.808
+A00064,2025-06,Professional,Farm Management,205.9,Active,2026-02-10,0.875
+A00064,2025-07,Professional,Farm Management,216.88,Active,2026-02-10,0.823
+A00064,2025-08,Professional,Farm Management,210.03,Active,2026-02-10,0.769
+A00064,2025-09,Professional,Farm Management,210.47,Active,2026-02-10,0.811
+A00064,2025-10,Professional,Farm Management,203.67,Active,2026-02-10,0.865
+A00064,2025-11,Professional,Farm Management,194.21,Active,2026-02-10,0.825
+A00064,2025-12,Professional,Farm Management,219.45,Active,2026-02-10,0.858
+A00064,2026-01,Professional,Farm Management,218.23,Active,2026-02-10,0.86
+A00064,2026-02,Professional,Farm Management,212.88,Active,2026-02-10,0.847
+A00064,2026-03,Professional,Farm Management,221.98,Active,2026-02-10,0.752
+A00064,2026-04,Professional,Farm Management,221.58,Active,2026-02-10,0.852
+A00064,2026-05,Professional,Farm Management,227.62,Active,2026-02-10,0.844
+A00064,2026-06,Professional,Farm Management,219.33,Active,2026-02-10,0.762
+A00065,2025-04,Starter,Farm Management;Crop Monitoring,141.19,Active,2026-04-07,0.784
+A00065,2025-05,Starter,Farm Management;Crop Monitoring,145.31,Active,2026-04-07,0.871
+A00065,2025-06,Starter,Farm Management;Crop Monitoring,142.83,Active,2026-04-07,0.75
+A00065,2025-07,Starter,Farm Management;Crop Monitoring,144.72,Active,2026-04-07,0.855
+A00065,2025-08,Starter,Farm Management;Crop Monitoring,150.59,Active,2026-04-07,0.731
+A00065,2025-09,Starter,Farm Management;Crop Monitoring,142.07,Active,2026-04-07,0.77
+A00065,2025-10,Starter,Farm Management;Crop Monitoring,148.01,Active,2026-04-07,0.817
+A00065,2025-11,Starter,Farm Management;Crop Monitoring,155.16,Active,2026-04-07,0.851
+A00065,2025-12,Starter,Farm Management;Crop Monitoring,154.09,Active,2026-04-07,0.742
+A00065,2026-01,Starter,Farm Management;Crop Monitoring,153.59,Active,2026-04-07,0.821
+A00065,2026-02,Starter,Farm Management;Crop Monitoring,160.13,Active,2026-04-07,0.752
+A00065,2026-03,Starter,Farm Management;Crop Monitoring,157.8,Active,2026-04-07,0.799
+A00065,2026-04,Starter,Farm Management;Crop Monitoring,160.31,Active,2026-04-07,0.828
+A00065,2026-05,Starter,Farm Management;Crop Monitoring,151.55,Active,2026-04-07,0.739
+A00065,2026-06,Starter,Farm Management;Crop Monitoring,149.31,Active,2026-04-07,0.809
+A00066,2025-09,Starter,Crop Monitoring,1259.63,Active,2026-09-21,0.839
+A00066,2025-10,Starter,Crop Monitoring,1251.03,Active,2026-09-21,0.795
+A00066,2025-11,Starter,Crop Monitoring,1309.08,Active,2026-09-21,0.824
+A00066,2025-12,Starter,Crop Monitoring,1255.91,Active,2026-09-21,0.779
+A00066,2026-01,Starter,Crop Monitoring,0.0,Churned,2026-09-21,0.774
+A00066,2026-02,Starter,Crop Monitoring,0.0,Churned,2026-09-21,0.725
+A00066,2026-03,Starter,Crop Monitoring,0.0,Churned,2026-09-21,0.729
+A00066,2026-04,Starter,Crop Monitoring,0.0,Churned,2026-09-21,0.869
+A00066,2026-05,Starter,Crop Monitoring,0.0,Churned,2026-09-21,0.876
+A00066,2026-06,Starter,Crop Monitoring,0.0,Churned,2026-09-21,0.721
+A00067,2026-02,Professional,Farm Management;Crop Monitoring,800.66,Active,2027-02-03,0.81
+A00067,2026-03,Professional,Farm Management;Crop Monitoring,805.21,Active,2027-02-03,0.777
+A00067,2026-04,Professional,Farm Management;Crop Monitoring,800.01,Active,2027-02-03,0.82
+A00067,2026-05,Professional,Farm Management;Crop Monitoring,789.79,Active,2027-02-03,0.879
+A00067,2026-06,Professional,Farm Management;Crop Monitoring,904.8,Active,2027-02-03,0.871
+A00068,2025-09,Professional,Crop Monitoring,522.0,Active,2026-09-06,0.764
+A00068,2025-10,Professional,Crop Monitoring,514.15,Active,2026-09-06,0.762
+A00068,2025-11,Professional,Crop Monitoring,527.67,Active,2026-09-06,0.803
+A00068,2025-12,Professional,Crop Monitoring,543.23,Active,2026-09-06,0.861
+A00068,2026-01,Professional,Crop Monitoring,537.68,Active,2026-09-06,0.874
+A00068,2026-02,Professional,Crop Monitoring,529.01,Active,2026-09-06,0.833
+A00068,2026-03,Professional,Crop Monitoring,550.37,Active,2026-09-06,0.865
+A00068,2026-04,Professional,Crop Monitoring,543.8,Active,2026-09-06,0.835
+A00068,2026-05,Professional,Crop Monitoring,564.74,Active,2026-09-06,0.875
+A00068,2026-06,Professional,Crop Monitoring,550.59,Active,2026-09-06,0.877
+A00069,2026-04,Enterprise,Farm Management;Crop Monitoring,592.56,Active,2027-04-09,0.808
+A00069,2026-05,Enterprise,Farm Management;Crop Monitoring,613.84,Active,2027-04-09,0.801
+A00069,2026-06,Enterprise,Farm Management;Crop Monitoring,621.16,Active,2027-04-09,0.74
+A00070,2025-07,Professional,Farm Management;Crop Monitoring,189.14,Active,2026-07-05,0.755
+A00070,2025-08,Professional,Farm Management;Crop Monitoring,186.04,Active,2026-07-05,0.724
+A00070,2025-09,Professional,Farm Management;Crop Monitoring,194.1,Active,2026-07-05,0.867
+A00070,2025-10,Professional,Farm Management;Crop Monitoring,196.41,Active,2026-07-05,0.82
+A00070,2025-11,Professional,Farm Management;Crop Monitoring,196.73,Active,2026-07-05,0.78
+A00070,2025-12,Professional,Farm Management;Crop Monitoring,209.41,Active,2026-07-05,0.72
+A00070,2026-01,Professional,Farm Management;Crop Monitoring,200.39,Active,2026-07-05,0.793
+A00070,2026-02,Professional,Farm Management;Crop Monitoring,254.25,Active,2026-07-05,0.808
+A00070,2026-03,Professional,Farm Management;Crop Monitoring,206.24,Active,2026-07-05,0.818
+A00070,2026-04,Professional,Farm Management;Crop Monitoring,216.83,Active,2026-07-05,0.804
+A00070,2026-05,Professional,Farm Management;Crop Monitoring,220.77,Active,2026-07-05,0.871
+A00070,2026-06,Professional,Farm Management;Crop Monitoring,205.01,Active,2026-07-05,0.739
+A00071,2025-12,Professional,Crop Monitoring,123.38,Active,2026-12-05,0.864
+A00071,2026-01,Professional,Crop Monitoring,124.46,Active,2026-12-05,0.816
+A00071,2026-02,Professional,Crop Monitoring,125.33,Active,2026-12-05,0.795
+A00071,2026-03,Professional,Crop Monitoring,128.67,Active,2026-12-05,0.84
+A00071,2026-04,Professional,Crop Monitoring,131.68,Active,2026-12-05,0.837
+A00071,2026-05,Professional,Crop Monitoring,130.95,Active,2026-12-05,0.838
+A00071,2026-06,Professional,Crop Monitoring,127.47,Active,2026-12-05,0.798
+A00072,2025-02,Professional,Farm Management,844.83,Active,2026-02-19,0.744
+A00072,2025-03,Professional,Farm Management,874.81,Active,2026-02-19,0.839
+A00072,2025-04,Professional,Farm Management,886.71,Active,2026-02-19,0.816
+A00072,2025-05,Professional,Farm Management,910.04,Active,2026-02-19,0.807
+A00072,2025-06,Professional,Farm Management,930.92,Active,2026-02-19,0.725
+A00072,2025-07,Professional,Farm Management,877.44,Active,2026-02-19,0.721
+A00072,2025-08,Professional,Farm Management,928.96,Active,2026-02-19,0.737
+A00072,2025-09,Professional,Farm Management,938.06,Active,2026-02-19,0.799
+A00072,2025-10,Professional,Farm Management,898.04,Active,2026-02-19,0.818
+A00072,2025-11,Professional,Farm Management,965.47,Active,2026-02-19,0.869
+A00072,2025-12,Professional,Farm Management,915.0,Active,2026-02-19,0.873
+A00072,2026-01,Professional,Farm Management,939.5,Active,2026-02-19,0.825
+A00072,2026-02,Professional,Farm Management,953.49,Active,2026-02-19,0.845
+A00072,2026-03,Professional,Farm Management,925.45,Active,2026-02-19,0.81
+A00072,2026-04,Professional,Farm Management,946.13,Active,2026-02-19,0.724
+A00072,2026-05,Professional,Farm Management,946.53,Active,2026-02-19,0.797
+A00072,2026-06,Professional,Farm Management,936.72,Active,2026-02-19,0.771
+A00073,2026-02,Starter,Farm Management;Crop Monitoring,250.53,Active,2027-02-06,0.749
+A00073,2026-03,Starter,Farm Management;Crop Monitoring,254.07,Active,2027-02-06,0.765
+A00073,2026-04,Starter,Farm Management;Crop Monitoring,241.82,Active,2027-02-06,0.799
+A00073,2026-05,Starter,Farm Management;Crop Monitoring,0.0,Churned,2027-02-06,0.788
+A00073,2026-06,Starter,Farm Management;Crop Monitoring,0.0,Churned,2027-02-06,0.743
+A00074,2026-02,Professional,Farm Management;Crop Monitoring,145.31,Active,2027-02-28,0.758
+A00074,2026-03,Professional,Farm Management;Crop Monitoring,149.06,Active,2027-02-28,0.832
+A00074,2026-04,Professional,Farm Management;Crop Monitoring,141.9,Active,2027-02-28,0.786
+A00074,2026-05,Professional,Farm Management;Crop Monitoring,137.53,Active,2027-02-28,0.766
+A00074,2026-06,Professional,Farm Management;Crop Monitoring,151.49,Active,2027-02-28,0.772
+A00075,2025-11,Professional,Farm Management,169.02,Active,2026-11-30,0.763
+A00075,2025-12,Professional,Farm Management,169.71,Active,2026-11-30,0.838
+A00075,2026-01,Professional,Farm Management,169.63,Active,2026-11-30,0.826
+A00075,2026-02,Professional,Farm Management,168.17,Active,2026-11-30,0.849
+A00075,2026-03,Professional,Farm Management,178.09,Active,2026-11-30,0.757
+A00075,2026-04,Professional,Farm Management,179.49,Active,2026-11-30,0.743
+A00075,2026-05,Professional,Farm Management,0.0,Churned,2026-11-30,0.778
+A00075,2026-06,Professional,Farm Management,0.0,Churned,2026-11-30,0.845
+A00076,2026-04,Enterprise,Farm Management,217.35,Active,2027-04-20,0.767
+A00076,2026-05,Enterprise,Farm Management,221.53,Active,2027-04-20,0.819
+A00076,2026-06,Enterprise,Farm Management,221.81,Active,2027-04-20,0.825
+A00077,2025-06,Enterprise,Crop Monitoring,3045.53,Active,2026-06-27,0.81
+A00077,2025-07,Enterprise,Crop Monitoring,3493.23,Active,2026-06-27,0.784
+A00077,2025-08,Enterprise,Crop Monitoring,3459.49,Active,2026-06-27,0.746
+A00077,2025-09,Enterprise,Crop Monitoring,3151.98,Active,2026-06-27,0.868
+A00077,2025-10,Enterprise,Crop Monitoring,3409.0,Active,2026-06-27,0.76
+A00077,2025-11,Enterprise,Crop Monitoring,3356.57,Active,2026-06-27,0.838
+A00077,2025-12,Enterprise,Crop Monitoring,3508.36,Active,2026-06-27,0.732
+A00077,2026-01,Enterprise,Crop Monitoring,3470.86,Active,2026-06-27,0.867
+A00077,2026-02,Enterprise,Crop Monitoring,3442.98,Active,2026-06-27,0.759
+A00077,2026-03,Enterprise,Crop Monitoring,3595.78,Active,2026-06-27,0.738
+A00077,2026-04,Enterprise,Crop Monitoring,3629.33,Active,2026-06-27,0.823
+A00077,2026-05,Enterprise,Crop Monitoring,3525.7,Active,2026-06-27,0.846
+A00077,2026-06,Enterprise,Crop Monitoring,3691.13,Active,2026-06-27,0.754
+A00078,2026-02,Enterprise,Farm Management;Crop Monitoring;Analytics,197.06,Active,2027-02-03,0.818
+A00078,2026-03,Enterprise,Farm Management;Crop Monitoring;Analytics,201.32,Active,2027-02-03,0.811
+A00078,2026-04,Enterprise,Farm Management;Crop Monitoring;Analytics,203.7,Active,2027-02-03,0.78
+A00078,2026-05,Enterprise,Farm Management;Crop Monitoring;Analytics,207.15,Active,2027-02-03,0.794
+A00078,2026-06,Enterprise,Farm Management;Crop Monitoring;Analytics,212.5,Active,2027-02-03,0.859
+A00079,2025-02,Professional,Crop Monitoring,3441.8,Active,2026-02-06,0.86
+A00079,2025-03,Professional,Crop Monitoring,3472.02,Active,2026-02-06,0.779
+A00079,2025-04,Professional,Crop Monitoring,3625.86,Active,2026-02-06,0.841
+A00079,2025-05,Professional,Crop Monitoring,3482.5,Active,2026-02-06,0.759
+A00079,2025-06,Professional,Crop Monitoring,3605.21,Active,2026-02-06,0.834
+A00079,2025-07,Professional,Crop Monitoring,3574.62,Active,2026-02-06,0.842
+A00079,2025-08,Professional,Crop Monitoring,3528.54,Active,2026-02-06,0.769
+A00079,2025-09,Professional,Crop Monitoring,3624.03,Active,2026-02-06,0.742
+A00079,2025-10,Professional,Crop Monitoring,3639.1,Active,2026-02-06,0.807
+A00079,2025-11,Professional,Crop Monitoring,3755.26,Active,2026-02-06,0.742
+A00079,2025-12,Professional,Crop Monitoring,3981.3,Active,2026-02-06,0.738
+A00079,2026-01,Professional,Crop Monitoring,3855.96,Active,2026-02-06,0.862
+A00079,2026-02,Professional,Crop Monitoring,3817.72,Active,2026-02-06,0.735
+A00079,2026-03,Professional,Crop Monitoring,3768.6,Active,2026-02-06,0.819
+A00079,2026-04,Professional,Crop Monitoring,3958.46,Active,2026-02-06,0.76
+A00079,2026-05,Professional,Crop Monitoring,3954.96,Active,2026-02-06,0.828
+A00079,2026-06,Professional,Crop Monitoring,3918.87,Active,2026-02-06,0.814
+A00081,2025-11,Professional,Farm Management,803.51,Active,2026-11-13,0.856
+A00081,2025-12,Professional,Farm Management,810.14,Active,2026-11-13,0.819
+A00081,2026-01,Professional,Farm Management,809.72,Active,2026-11-13,0.751
+A00081,2026-02,Professional,Farm Management,839.64,Active,2026-11-13,0.785
+A00081,2026-03,Professional,Farm Management,837.91,Active,2026-11-13,0.88
+A00081,2026-04,Professional,Farm Management,775.94,Active,2026-11-13,0.811
+A00081,2026-05,Professional,Farm Management,853.5,Active,2026-11-13,0.797
+A00081,2026-06,Professional,Farm Management,799.99,Active,2026-11-13,0.866
+A00082,2026-03,Starter,Crop Monitoring,418.34,Active,2027-03-03,0.871
+A00082,2026-04,Starter,Crop Monitoring,412.72,Active,2027-03-03,0.796
+A00082,2026-05,Starter,Crop Monitoring,414.31,Active,2027-03-03,0.758
+A00082,2026-06,Starter,Crop Monitoring,415.91,Active,2027-03-03,0.738
+A00083,2025-02,Professional,Farm Management;Crop Monitoring,116.6,Active,2026-02-14,0.74
+A00083,2025-03,Professional,Farm Management;Crop Monitoring,114.53,Active,2026-02-14,0.786
+A00083,2025-04,Professional,Farm Management;Crop Monitoring,115.97,Active,2026-02-14,0.806
+A00083,2025-05,Professional,Farm Management;Crop Monitoring,117.64,Active,2026-02-14,0.817
+A00083,2025-06,Professional,Farm Management;Crop Monitoring,120.82,Active,2026-02-14,0.867
+A00083,2025-07,Professional,Farm Management;Crop Monitoring,122.32,Active,2026-02-14,0.753
+A00083,2025-08,Professional,Farm Management;Crop Monitoring,114.35,Active,2026-02-14,0.85
+A00083,2025-09,Professional,Farm Management;Crop Monitoring,123.05,Active,2026-02-14,0.834
+A00083,2025-10,Professional,Farm Management;Crop Monitoring,123.34,Active,2026-02-14,0.873
+A00083,2025-11,Professional,Farm Management;Crop Monitoring,121.88,Active,2026-02-14,0.852
+A00083,2025-12,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-02-14,0.749
+A00083,2026-01,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-02-14,0.864
+A00083,2026-02,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-02-14,0.88
+A00083,2026-03,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-02-14,0.826
+A00083,2026-04,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-02-14,0.751
+A00083,2026-05,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-02-14,0.743
+A00083,2026-06,Professional,Farm Management;Crop Monitoring,0.0,Churned,2026-02-14,0.874
+A00084,2025-07,Starter,Farm Management,460.44,Active,2026-07-09,0.872
+A00084,2025-08,Starter,Farm Management,440.18,Active,2026-07-09,0.862
+A00084,2025-09,Starter,Farm Management,441.9,Active,2026-07-09,0.749
+A00084,2025-10,Starter,Farm Management,449.18,Active,2026-07-09,0.773
+A00084,2025-11,Starter,Farm Management,442.36,Active,2026-07-09,0.729
+A00084,2025-12,Starter,Farm Management,451.06,Active,2026-07-09,0.856
+A00084,2026-01,Starter,Farm Management,470.01,Active,2026-07-09,0.815
+A00084,2026-02,Starter,Farm Management,459.2,Active,2026-07-09,0.729
+A00084,2026-03,Starter,Farm Management,484.32,Active,2026-07-09,0.742
+A00084,2026-04,Starter,Farm Management,452.49,Active,2026-07-09,0.756
+A00084,2026-05,Starter,Farm Management,487.94,Active,2026-07-09,0.802
+A00084,2026-06,Starter,Farm Management,468.97,Active,2026-07-09,0.797
+A00085,2026-01,Professional,Farm Management;Crop Monitoring;Analytics,128.56,Active,2027-01-05,0.834
+A00085,2026-02,Professional,Farm Management;Crop Monitoring;Analytics,125.66,Active,2027-01-05,0.856
+A00085,2026-03,Professional,Farm Management;Crop Monitoring;Analytics,127.92,Active,2027-01-05,0.821
+A00085,2026-04,Professional,Farm Management;Crop Monitoring;Analytics,132.9,Active,2027-01-05,0.869
+A00085,2026-05,Professional,Farm Management;Crop Monitoring;Analytics,132.57,Active,2027-01-05,0.863
+A00085,2026-06,Professional,Farm Management;Crop Monitoring;Analytics,130.84,Active,2027-01-05,0.762
+A00086,2025-08,Professional,Farm Management;Crop Monitoring,172.98,Active,2026-08-07,0.765
+A00086,2025-09,Professional,Farm Management;Crop Monitoring,177.64,Active,2026-08-07,0.723
+A00086,2025-10,Professional,Farm Management;Crop Monitoring,184.64,Active,2026-08-07,0.81
+A00086,2025-11,Professional,Farm Management;Crop Monitoring,187.17,Active,2026-08-07,0.847
+A00086,2025-12,Professional,Farm Management;Crop Monitoring,188.35,Active,2026-08-07,0.844
+A00086,2026-01,Professional,Farm Management;Crop Monitoring,189.09,Active,2026-08-07,0.723
+A00086,2026-02,Professional,Farm Management;Crop Monitoring,180.17,Active,2026-08-07,0.807
+A00086,2026-03,Professional,Farm Management;Crop Monitoring,194.46,Active,2026-08-07,0.835
+A00086,2026-04,Professional,Farm Management;Crop Monitoring,182.93,Active,2026-08-07,0.876
+A00086,2026-05,Professional,Farm Management;Crop Monitoring,188.46,Active,2026-08-07,0.828
+A00086,2026-06,Professional,Farm Management;Crop Monitoring,201.58,Active,2026-08-07,0.756
+A00087,2026-06,Starter,Crop Monitoring,119.21,Active,2027-06-04,0.726
+A00088,2026-02,Professional,Farm Management,134.65,Active,2027-02-10,0.763
+A00088,2026-03,Professional,Farm Management,130.01,Active,2027-02-10,0.754
+A00088,2026-04,Professional,Farm Management,132.57,Active,2027-02-10,0.879
+A00088,2026-05,Professional,Farm Management,142.83,Active,2027-02-10,0.784
+A00088,2026-06,Professional,Farm Management,134.27,Active,2027-02-10,0.746
+A00089,2026-03,Enterprise,Farm Management;Crop Monitoring,189.53,Active,2027-03-10,0.74
+A00089,2026-04,Enterprise,Farm Management;Crop Monitoring,196.99,Active,2027-03-10,0.795
+A00089,2026-05,Enterprise,Farm Management;Crop Monitoring,204.53,Active,2027-03-10,0.749
+A00089,2026-06,Enterprise,Farm Management;Crop Monitoring,212.28,Active,2027-03-10,0.747
+A00090,2025-11,Professional,Farm Management;Crop Monitoring;Analytics,294.94,Active,2026-11-13,0.822
+A00090,2025-12,Professional,Farm Management;Crop Monitoring;Analytics,296.89,Active,2026-11-13,0.838
+A00090,2026-01,Professional,Farm Management;Crop Monitoring;Analytics,298.81,Active,2026-11-13,0.784
+A00090,2026-02,Professional,Farm Management;Crop Monitoring;Analytics,309.0,Active,2026-11-13,0.775
+A00090,2026-03,Professional,Farm Management;Crop Monitoring;Analytics,294.93,Active,2026-11-13,0.785
+A00090,2026-04,Professional,Farm Management;Crop Monitoring;Analytics,300.26,Active,2026-11-13,0.862
+A00090,2026-05,Professional,Farm Management;Crop Monitoring;Analytics,364.52,Active,2026-11-13,0.821
+A00090,2026-06,Professional,Farm Management;Crop Monitoring;Analytics,308.24,Active,2026-11-13,0.788
+A00091,2026-02,Professional,Crop Monitoring,455.11,Active,2027-02-06,0.813
+A00091,2026-03,Professional,Crop Monitoring,460.57,Active,2027-02-06,0.808
+A00091,2026-04,Professional,Crop Monitoring,472.28,Active,2027-02-06,0.788
+A00091,2026-05,Professional,Crop Monitoring,0.0,Churned,2027-02-06,0.824
+A00091,2026-06,Professional,Crop Monitoring,0.0,Churned,2027-02-06,0.757
+A00092,2025-07,Starter,Farm Management;Crop Monitoring,550.57,Active,2026-07-12,0.813
+A00092,2025-08,Starter,Farm Management;Crop Monitoring,544.07,Active,2026-07-12,0.731
+A00092,2025-09,Starter,Farm Management;Crop Monitoring,549.35,Active,2026-07-12,0.754
+A00092,2025-10,Starter,Farm Management;Crop Monitoring,563.33,Active,2026-07-12,0.763
+A00092,2025-11,Starter,Farm Management;Crop Monitoring,554.59,Active,2026-07-12,0.755
+A00092,2025-12,Starter,Farm Management;Crop Monitoring,568.02,Active,2026-07-12,0.853
+A00092,2026-01,Starter,Farm Management;Crop Monitoring,593.43,Active,2026-07-12,0.727
+A00092,2026-02,Starter,Farm Management;Crop Monitoring,596.66,Active,2026-07-12,0.83
+A00092,2026-03,Starter,Farm Management;Crop Monitoring,579.88,Active,2026-07-12,0.779
+A00092,2026-04,Starter,Farm Management;Crop Monitoring,599.98,Active,2026-07-12,0.813
+A00092,2026-05,Starter,Farm Management;Crop Monitoring,597.21,Active,2026-07-12,0.838
+A00092,2026-06,Starter,Farm Management;Crop Monitoring,584.4,Active,2026-07-12,0.748
+A00093,2025-08,Starter,Farm Management;Crop Monitoring,370.49,Active,2026-08-17,0.845
+A00093,2025-09,Starter,Farm Management;Crop Monitoring,372.34,Active,2026-08-17,0.86
+A00093,2025-10,Starter,Farm Management;Crop Monitoring,404.46,Active,2026-08-17,0.789
+A00093,2025-11,Starter,Farm Management;Crop Monitoring,373.74,Active,2026-08-17,0.813
+A00093,2025-12,Starter,Farm Management;Crop Monitoring,412.93,Active,2026-08-17,0.791
+A00093,2026-01,Starter,Farm Management;Crop Monitoring,384.42,Active,2026-08-17,0.751
+A00093,2026-02,Starter,Farm Management;Crop Monitoring,399.18,Active,2026-08-17,0.807
+A00093,2026-03,Starter,Farm Management;Crop Monitoring,407.88,Active,2026-08-17,0.79
+A00093,2026-04,Starter,Farm Management;Crop Monitoring,407.12,Active,2026-08-17,0.83
+A00093,2026-05,Starter,Farm Management;Crop Monitoring,405.12,Active,2026-08-17,0.742
+A00093,2026-06,Starter,Farm Management;Crop Monitoring,413.93,Active,2026-08-17,0.723
+A00094,2025-04,Enterprise,Farm Management;Crop Monitoring,157.97,Active,2026-04-03,0.835
+A00094,2025-05,Enterprise,Farm Management;Crop Monitoring,167.82,Active,2026-04-03,0.785
+A00094,2025-06,Enterprise,Farm Management;Crop Monitoring,163.38,Active,2026-04-03,0.805
+A00094,2025-07,Enterprise,Farm Management;Crop Monitoring,168.35,Active,2026-04-03,0.732
+A00094,2025-08,Enterprise,Farm Management;Crop Monitoring,161.56,Active,2026-04-03,0.795
+A00094,2025-09,Enterprise,Farm Management;Crop Monitoring,167.71,Active,2026-04-03,0.756
+A00094,2025-10,Enterprise,Farm Management;Crop Monitoring,162.97,Active,2026-04-03,0.836
+A00094,2025-11,Enterprise,Farm Management;Crop Monitoring,172.44,Active,2026-04-03,0.834
+A00094,2025-12,Enterprise,Farm Management;Crop Monitoring,172.77,Active,2026-04-03,0.721
+A00094,2026-01,Enterprise,Farm Management;Crop Monitoring,174.49,Active,2026-04-03,0.816
+A00094,2026-02,Enterprise,Farm Management;Crop Monitoring,177.52,Active,2026-04-03,0.83
+A00094,2026-03,Enterprise,Farm Management;Crop Monitoring,175.57,Active,2026-04-03,0.865
+A00094,2026-04,Enterprise,Farm Management;Crop Monitoring,180.55,Active,2026-04-03,0.736
+A00094,2026-05,Enterprise,Farm Management;Crop Monitoring,174.22,Active,2026-04-03,0.868
+A00094,2026-06,Enterprise,Farm Management;Crop Monitoring,175.53,Active,2026-04-03,0.789
+A00095,2026-04,Professional,Crop Monitoring,130.75,Active,2027-04-10,0.72
+A00095,2026-05,Professional,Crop Monitoring,133.68,Active,2027-04-10,0.797
+A00095,2026-06,Professional,Crop Monitoring,133.65,Active,2027-04-10,0.832
+A00097,2025-10,Professional,Crop Monitoring,226.33,Active,2026-10-05,0.784
+A00097,2025-11,Professional,Crop Monitoring,224.95,Active,2026-10-05,0.754
+A00097,2025-12,Professional,Crop Monitoring,220.68,Active,2026-10-05,0.871
+A00097,2026-01,Professional,Crop Monitoring,236.65,Active,2026-10-05,0.744
+A00097,2026-02,Professional,Crop Monitoring,231.21,Active,2026-10-05,0.799
+A00097,2026-03,Professional,Crop Monitoring,229.58,Active,2026-10-05,0.721
+A00097,2026-04,Professional,Crop Monitoring,237.25,Active,2026-10-05,0.841
+A00097,2026-05,Professional,Crop Monitoring,243.39,Active,2026-10-05,0.837
+A00097,2026-06,Professional,Crop Monitoring,240.73,Active,2026-10-05,0.795
+A00098,2025-05,Professional,Farm Management;Crop Monitoring;Analytics,169.34,Active,2026-05-29,0.783
+A00098,2025-06,Professional,Farm Management;Crop Monitoring;Analytics,161.54,Active,2026-05-29,0.776
+A00098,2025-07,Professional,Farm Management;Crop Monitoring;Analytics,178.99,Active,2026-05-29,0.868
+A00098,2025-08,Professional,Farm Management;Crop Monitoring;Analytics,177.44,Active,2026-05-29,0.799
+A00098,2025-09,Professional,Farm Management;Crop Monitoring;Analytics,170.04,Active,2026-05-29,0.782
+A00098,2025-10,Professional,Farm Management;Crop Monitoring;Analytics,178.33,Active,2026-05-29,0.842
+A00098,2025-11,Professional,Farm Management;Crop Monitoring;Analytics,176.4,Active,2026-05-29,0.733
+A00098,2025-12,Professional,Farm Management;Crop Monitoring;Analytics,184.94,Active,2026-05-29,0.799
+A00098,2026-01,Professional,Farm Management;Crop Monitoring;Analytics,175.06,Active,2026-05-29,0.783
+A00098,2026-02,Professional,Farm Management;Crop Monitoring;Analytics,180.56,Active,2026-05-29,0.741
+A00098,2026-03,Professional,Farm Management;Crop Monitoring;Analytics,182.21,Active,2026-05-29,0.836
+A00098,2026-04,Professional,Farm Management;Crop Monitoring;Analytics,191.64,Active,2026-05-29,0.806
+A00098,2026-05,Professional,Farm Management;Crop Monitoring;Analytics,176.51,Active,2026-05-29,0.874
+A00098,2026-06,Professional,Farm Management;Crop Monitoring;Analytics,185.54,Active,2026-05-29,0.79
+A00099,2026-05,Professional,Farm Management;Crop Monitoring,1427.6,Active,2027-05-10,0.827
+A00099,2026-06,Professional,Farm Management;Crop Monitoring,1361.1,Active,2027-05-10,0.844
+A00100,2026-06,Starter,Farm Management;Crop Monitoring,225.5,Active,2027-06-13,0.869

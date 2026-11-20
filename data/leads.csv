@@ -1,0 +1,1801 @@
+lead_id,created_at,campaign_id,channel,customer_segment,region,estimated_hectares,bdr_id,lead_source_type
+L00001,2026-06-20,CMP0104,Paid Social,SMB Producer,Santa Fe,2500,R001,Paid
+L00002,2025-04-01,CMP0021,Webinar,Mid-Market Agribusiness,Santa Fe,2500,R004,Owned
+L00003,2026-02-14,CMP0083,Referral,Mid-Market Agribusiness,Santa Fe,10000,R005,Partner
+L00004,2025-03-20,CMP0013,Paid Search,Mid-Market Agribusiness,Buenos Aires,1200,R005,Paid
+L00005,2026-02-20,CMP0082,Events,Agronomic Advisor,Córdoba,5000,R004,Partner
+L00006,2025-05-15,CMP0026,Paid Social,SMB Producer,Córdoba,600,R001,Paid
+L00007,2026-05-20,CMP0099,Webinar,Enterprise,Córdoba,2500,R005,Owned
+L00008,2026-05-17,CMP0101,Referral,Mid-Market Agribusiness,Santa Fe,20000,R001,Partner
+L00009,2026-01-12,CMP0078,Organic,Enterprise,Buenos Aires,2500,R001,Owned
+L00010,2025-03-01,CMP0016,Events,SMB Producer,La Pampa,1200,R004,Partner
+L00011,2026-03-27,CMP0086,Paid Social,Mid-Market Agribusiness,Santa Fe,1200,R003,Paid
+L00012,2026-05-15,CMP0101,Referral,Agronomic Advisor,Buenos Aires,10000,R004,Partner
+L00013,2025-06-02,CMP0035,Referral,Agronomic Advisor,Buenos Aires,2500,R001,Partner
+L00014,2025-12-19,CMP0067,Paid Search,SMB Producer,Entre Ríos,600,R003,Paid
+L00015,2025-03-22,CMP0017,Referral,Agronomic Advisor,Buenos Aires,2500,R005,Partner
+L00016,2025-01-05,CMP0001,Paid Search,Mid-Market Agribusiness,Buenos Aires,5000,R005,Paid
+L00017,2025-05-07,CMP0029,Referral,Enterprise,Buenos Aires,10000,R001,Partner
+L00018,2026-02-23,CMP0082,Events,SMB Producer,Entre Ríos,600,R001,Partner
+L00019,2025-03-15,CMP0015,Webinar,Mid-Market Agribusiness,La Pampa,5000,R003,Owned
+L00020,2025-03-02,CMP0017,Referral,SMB Producer,Buenos Aires,2500,R003,Partner
+L00021,2026-06-14,CMP0106,Events,Mid-Market Agribusiness,Buenos Aires,250,R002,Partner
+L00022,2026-04-12,CMP0094,Events,SMB Producer,Buenos Aires,600,R002,Partner
+L00023,2026-06-15,CMP0105,Webinar,Mid-Market Agribusiness,La Pampa,2500,R003,Owned
+L00024,2025-03-15,CMP0018,Organic,Mid-Market Agribusiness,Córdoba,2500,R002,Owned
+L00025,2025-12-05,CMP0072,Organic,Mid-Market Agribusiness,Buenos Aires,1200,R005,Owned
+L00026,2025-09-27,CMP0049,Paid Search,SMB Producer,Buenos Aires,1200,R004,Paid
+L00027,2025-08-11,CMP0046,Events,Mid-Market Agribusiness,La Pampa,1200,R005,Partner
+L00028,2025-04-17,CMP0022,Events,SMB Producer,Córdoba,1200,R003,Partner
+L00029,2025-09-03,CMP0049,Paid Search,Mid-Market Agribusiness,Santa Fe,2500,R003,Paid
+L00030,2025-12-17,CMP0070,Events,Enterprise,Córdoba,2500,R001,Partner
+L00031,2025-08-15,CMP0046,Events,Mid-Market Agribusiness,Córdoba,5000,R003,Partner
+L00032,2026-04-23,CMP0096,Organic,Mid-Market Agribusiness,Santa Fe,5000,R002,Owned
+L00033,2025-06-11,CMP0035,Referral,SMB Producer,Santa Fe,250,R005,Partner
+L00034,2026-04-03,CMP0091,Paid Search,SMB Producer,Córdoba,600,R004,Paid
+L00035,2025-06-25,CMP0035,Referral,Enterprise,Buenos Aires,5000,R003,Partner
+L00036,2025-07-07,CMP0037,Paid Search,SMB Producer,La Pampa,1200,R003,Paid
+L00037,2026-06-13,CMP0108,Organic,SMB Producer,La Pampa,2500,R001,Owned
+L00038,2026-01-25,CMP0074,Paid Social,SMB Producer,La Pampa,600,R004,Paid
+L00039,2025-10-20,CMP0055,Paid Search,Enterprise,Buenos Aires,20000,R005,Paid
+L00040,2025-11-22,CMP0065,Referral,SMB Producer,Entre Ríos,1200,R005,Partner
+L00041,2025-08-23,CMP0043,Paid Search,Mid-Market Agribusiness,La Pampa,1200,R005,Paid
+L00042,2025-03-07,CMP0013,Paid Search,SMB Producer,Entre Ríos,600,R001,Paid
+L00043,2025-06-27,CMP0033,Webinar,Mid-Market Agribusiness,Santa Fe,250,R002,Owned
+L00044,2025-05-24,CMP0029,Referral,Mid-Market Agribusiness,La Pampa,2500,R004,Partner
+L00045,2026-02-20,CMP0079,Paid Search,Mid-Market Agribusiness,Córdoba,1200,R005,Paid
+L00046,2026-04-15,CMP0093,Webinar,Enterprise,La Pampa,1200,R003,Owned
+L00047,2026-05-04,CMP0100,Events,Mid-Market Agribusiness,Entre Ríos,1200,R005,Partner
+L00048,2025-10-01,CMP0055,Paid Search,Agronomic Advisor,Córdoba,2500,R002,Paid
+L00049,2025-04-09,CMP0020,Paid Social,SMB Producer,Buenos Aires,10000,R004,Paid
+L00050,2025-09-04,CMP0050,Paid Social,SMB Producer,Santa Fe,600,R001,Paid
+L00051,2026-01-20,CMP0076,Events,Mid-Market Agribusiness,Entre Ríos,1200,R005,Partner
+L00052,2026-02-14,CMP0084,Organic,Agronomic Advisor,La Pampa,5000,R003,Owned
+L00053,2026-04-14,CMP0091,Paid Search,Mid-Market Agribusiness,La Pampa,2500,R005,Paid
+L00054,2025-12-03,CMP0072,Organic,SMB Producer,Entre Ríos,5000,R005,Owned
+L00055,2026-02-01,CMP0080,Paid Social,SMB Producer,Buenos Aires,5000,R005,Paid
+L00056,2025-09-24,CMP0054,Organic,Agronomic Advisor,Santa Fe,1200,R001,Owned
+L00057,2026-03-06,CMP0085,Paid Search,Enterprise,Santa Fe,10000,R003,Paid
+L00058,2026-03-02,CMP0085,Paid Search,SMB Producer,Córdoba,250,R005,Paid
+L00059,2026-01-18,CMP0076,Events,Enterprise,La Pampa,5000,R002,Partner
+L00060,2026-03-25,CMP0085,Paid Search,Mid-Market Agribusiness,Córdoba,5000,R003,Paid
+L00061,2025-01-08,CMP0003,Webinar,SMB Producer,La Pampa,1200,R004,Owned
+L00062,2026-05-07,CMP0100,Events,Enterprise,Córdoba,1200,R004,Partner
+L00063,2026-04-20,CMP0092,Paid Social,Mid-Market Agribusiness,Santa Fe,600,R003,Paid
+L00064,2026-04-19,CMP0091,Paid Search,Mid-Market Agribusiness,Buenos Aires,2500,R003,Paid
+L00065,2026-03-18,CMP0090,Organic,Mid-Market Agribusiness,Córdoba,600,R001,Owned
+L00066,2025-11-24,CMP0066,Organic,Mid-Market Agribusiness,La Pampa,1200,R003,Owned
+L00067,2026-05-10,CMP0099,Webinar,Mid-Market Agribusiness,Buenos Aires,250,R002,Owned
+L00068,2025-04-09,CMP0019,Paid Search,Mid-Market Agribusiness,Santa Fe,1200,R003,Paid
+L00069,2025-08-26,CMP0048,Organic,Mid-Market Agribusiness,La Pampa,600,R002,Owned
+L00070,2026-05-16,CMP0097,Paid Search,Agronomic Advisor,Córdoba,2500,R005,Paid
+L00071,2026-02-17,CMP0082,Events,SMB Producer,La Pampa,600,R002,Partner
+L00072,2025-06-10,CMP0031,Paid Search,SMB Producer,Entre Ríos,2500,R002,Paid
+L00073,2026-03-18,CMP0089,Referral,Mid-Market Agribusiness,Santa Fe,20000,R003,Partner
+L00074,2026-01-19,CMP0077,Referral,Enterprise,Entre Ríos,600,R001,Partner
+L00075,2025-11-12,CMP0061,Paid Search,Agronomic Advisor,La Pampa,1200,R005,Paid
+L00076,2025-08-26,CMP0043,Paid Search,SMB Producer,Entre Ríos,250,R001,Paid
+L00077,2025-05-27,CMP0025,Paid Search,Mid-Market Agribusiness,Santa Fe,1200,R001,Paid
+L00078,2025-01-18,CMP0001,Paid Search,SMB Producer,Córdoba,2500,R003,Paid
+L00079,2025-04-14,CMP0020,Paid Social,Mid-Market Agribusiness,Córdoba,250,R002,Paid
+L00080,2025-03-05,CMP0018,Organic,Mid-Market Agribusiness,Buenos Aires,1200,R001,Owned
+L00081,2025-06-15,CMP0033,Webinar,Enterprise,La Pampa,600,R002,Owned
+L00082,2025-06-25,CMP0032,Paid Social,Enterprise,Santa Fe,600,R004,Paid
+L00083,2025-06-14,CMP0036,Organic,Mid-Market Agribusiness,Buenos Aires,2500,R001,Owned
+L00084,2025-03-09,CMP0013,Paid Search,Agronomic Advisor,Buenos Aires,250,R005,Paid
+L00085,2025-04-05,CMP0019,Paid Search,Mid-Market Agribusiness,Buenos Aires,600,R001,Paid
+L00086,2025-11-19,CMP0064,Events,SMB Producer,Entre Ríos,5000,R003,Partner
+L00087,2025-12-25,CMP0067,Paid Search,Enterprise,La Pampa,600,R002,Paid
+L00088,2026-05-27,CMP0099,Webinar,Agronomic Advisor,La Pampa,1200,R004,Owned
+L00089,2026-03-15,CMP0086,Paid Social,Mid-Market Agribusiness,La Pampa,600,R003,Paid
+L00090,2025-08-23,CMP0044,Paid Social,SMB Producer,Buenos Aires,1200,R002,Paid
+L00091,2025-01-18,CMP0001,Paid Search,Enterprise,La Pampa,5000,R005,Paid
+L00092,2025-06-04,CMP0036,Organic,SMB Producer,Santa Fe,600,R004,Owned
+L00093,2026-01-22,CMP0073,Paid Search,Agronomic Advisor,Santa Fe,250,R005,Paid
+L00094,2025-01-16,CMP0006,Organic,SMB Producer,Santa Fe,10000,R001,Owned
+L00095,2026-04-05,CMP0093,Webinar,SMB Producer,La Pampa,250,R003,Owned
+L00096,2025-11-10,CMP0062,Paid Social,Enterprise,La Pampa,250,R001,Paid
+L00097,2025-11-23,CMP0061,Paid Search,SMB Producer,Entre Ríos,2500,R001,Paid
+L00098,2025-10-21,CMP0056,Paid Social,Enterprise,La Pampa,2500,R002,Paid
+L00099,2026-02-05,CMP0084,Organic,Mid-Market Agribusiness,Santa Fe,250,R001,Owned
+L00100,2026-03-12,CMP0087,Webinar,SMB Producer,Santa Fe,10000,R004,Owned
+L00101,2025-08-13,CMP0046,Events,Agronomic Advisor,Buenos Aires,600,R004,Partner
+L00102,2025-04-27,CMP0024,Organic,SMB Producer,Entre Ríos,1200,R005,Owned
+L00103,2026-02-18,CMP0084,Organic,Mid-Market Agribusiness,Córdoba,5000,R004,Owned
+L00104,2026-02-26,CMP0083,Referral,SMB Producer,Santa Fe,10000,R004,Partner
+L00105,2026-04-14,CMP0095,Referral,SMB Producer,Buenos Aires,5000,R003,Partner
+L00106,2025-01-27,CMP0006,Organic,Enterprise,Córdoba,10000,R004,Owned
+L00107,2025-08-10,CMP0044,Paid Social,Mid-Market Agribusiness,La Pampa,1200,R001,Paid
+L00108,2025-11-14,CMP0066,Organic,SMB Producer,Santa Fe,1200,R002,Owned
+L00109,2025-08-09,CMP0043,Paid Search,Enterprise,Buenos Aires,1200,R001,Paid
+L00110,2026-06-06,CMP0104,Paid Social,Enterprise,Buenos Aires,10000,R002,Paid
+L00111,2025-06-27,CMP0031,Paid Search,Mid-Market Agribusiness,Buenos Aires,1200,R003,Paid
+L00112,2025-05-01,CMP0025,Paid Search,Agronomic Advisor,Santa Fe,2500,R004,Paid
+L00113,2025-09-07,CMP0049,Paid Search,SMB Producer,Córdoba,5000,R002,Paid
+L00114,2026-04-03,CMP0096,Organic,Agronomic Advisor,Entre Ríos,10000,R003,Owned
+L00115,2025-02-26,CMP0007,Paid Search,Mid-Market Agribusiness,Córdoba,250,R005,Paid
+L00116,2026-04-11,CMP0094,Events,SMB Producer,Santa Fe,600,R003,Partner
+L00117,2025-03-11,CMP0018,Organic,Enterprise,Santa Fe,600,R005,Owned
+L00118,2025-07-03,CMP0038,Paid Social,Enterprise,La Pampa,600,R004,Paid
+L00119,2026-05-07,CMP0097,Paid Search,SMB Producer,Entre Ríos,600,R001,Paid
+L00120,2026-04-18,CMP0091,Paid Search,Mid-Market Agribusiness,Santa Fe,600,R005,Paid
+L00121,2026-01-16,CMP0078,Organic,SMB Producer,Entre Ríos,2500,R004,Owned
+L00122,2025-05-08,CMP0026,Paid Social,Agronomic Advisor,Buenos Aires,10000,R001,Paid
+L00123,2026-02-08,CMP0081,Webinar,Mid-Market Agribusiness,Santa Fe,2500,R005,Owned
+L00124,2025-08-10,CMP0043,Paid Search,Agronomic Advisor,Buenos Aires,1200,R005,Paid
+L00125,2026-06-11,CMP0103,Paid Search,SMB Producer,Santa Fe,600,R005,Paid
+L00126,2025-01-05,CMP0001,Paid Search,SMB Producer,Entre Ríos,2500,R001,Paid
+L00127,2025-09-15,CMP0050,Paid Social,SMB Producer,Santa Fe,20000,R001,Paid
+L00128,2026-03-11,CMP0089,Referral,SMB Producer,Santa Fe,10000,R004,Partner
+L00129,2025-07-26,CMP0037,Paid Search,Enterprise,Córdoba,2500,R001,Paid
+L00130,2026-02-23,CMP0083,Referral,Agronomic Advisor,Córdoba,1200,R002,Partner
+L00131,2025-12-15,CMP0067,Paid Search,SMB Producer,Entre Ríos,250,R002,Paid
+L00132,2025-09-12,CMP0049,Paid Search,Mid-Market Agribusiness,Buenos Aires,1200,R001,Paid
+L00133,2026-05-12,CMP0098,Paid Social,Mid-Market Agribusiness,La Pampa,2500,R004,Paid
+L00134,2025-11-17,CMP0063,Webinar,Mid-Market Agribusiness,Entre Ríos,600,R001,Owned
+L00135,2026-01-16,CMP0077,Referral,Mid-Market Agribusiness,Buenos Aires,10000,R004,Partner
+L00136,2026-02-13,CMP0084,Organic,Mid-Market Agribusiness,Santa Fe,1200,R002,Owned
+L00137,2026-06-20,CMP0104,Paid Social,Mid-Market Agribusiness,La Pampa,2500,R001,Paid
+L00138,2026-01-20,CMP0075,Webinar,Mid-Market Agribusiness,Entre Ríos,2500,R003,Owned
+L00139,2025-07-13,CMP0038,Paid Social,SMB Producer,Santa Fe,250,R002,Paid
+L00140,2026-01-20,CMP0076,Events,SMB Producer,La Pampa,1200,R005,Partner
+L00141,2025-04-26,CMP0023,Referral,SMB Producer,Entre Ríos,2500,R001,Partner
+L00142,2025-03-21,CMP0014,Paid Social,SMB Producer,Buenos Aires,2500,R005,Paid
+L00143,2026-05-26,CMP0097,Paid Search,Enterprise,Santa Fe,10000,R003,Paid
+L00144,2025-11-09,CMP0062,Paid Social,SMB Producer,La Pampa,20000,R003,Paid
+L00145,2025-08-15,CMP0046,Events,Mid-Market Agribusiness,Buenos Aires,10000,R005,Partner
+L00146,2025-11-05,CMP0063,Webinar,Enterprise,Entre Ríos,1200,R005,Owned
+L00147,2025-10-12,CMP0057,Webinar,SMB Producer,La Pampa,600,R003,Owned
+L00148,2026-05-09,CMP0102,Organic,Agronomic Advisor,Entre Ríos,5000,R005,Owned
+L00149,2026-02-03,CMP0083,Referral,Mid-Market Agribusiness,Santa Fe,600,R004,Partner
+L00150,2025-12-09,CMP0068,Paid Social,Mid-Market Agribusiness,Córdoba,1200,R002,Paid
+L00151,2025-04-08,CMP0023,Referral,SMB Producer,Entre Ríos,250,R001,Partner
+L00152,2025-07-04,CMP0041,Referral,SMB Producer,Entre Ríos,5000,R004,Partner
+L00153,2025-03-13,CMP0014,Paid Social,SMB Producer,Entre Ríos,600,R001,Paid
+L00154,2025-08-24,CMP0046,Events,Agronomic Advisor,Entre Ríos,250,R005,Partner
+L00155,2025-03-07,CMP0017,Referral,Agronomic Advisor,Córdoba,2500,R003,Partner
+L00156,2025-03-16,CMP0017,Referral,Mid-Market Agribusiness,Buenos Aires,2500,R002,Partner
+L00157,2025-10-22,CMP0058,Events,Agronomic Advisor,La Pampa,20000,R001,Partner
+L00158,2025-10-19,CMP0055,Paid Search,Agronomic Advisor,La Pampa,1200,R002,Paid
+L00159,2025-09-06,CMP0051,Webinar,Mid-Market Agribusiness,Buenos Aires,1200,R002,Owned
+L00160,2026-03-25,CMP0089,Referral,Mid-Market Agribusiness,Entre Ríos,1200,R002,Partner
+L00161,2026-02-05,CMP0083,Referral,Agronomic Advisor,Santa Fe,600,R003,Partner
+L00162,2026-04-09,CMP0091,Paid Search,Mid-Market Agribusiness,Buenos Aires,250,R003,Paid
+L00163,2025-01-03,CMP0001,Paid Search,Enterprise,Santa Fe,250,R002,Paid
+L00164,2025-12-10,CMP0071,Referral,SMB Producer,Buenos Aires,5000,R002,Partner
+L00165,2026-03-13,CMP0087,Webinar,SMB Producer,Entre Ríos,1200,R003,Owned
+L00166,2026-02-09,CMP0080,Paid Social,Mid-Market Agribusiness,La Pampa,5000,R004,Paid
+L00167,2025-09-12,CMP0050,Paid Social,SMB Producer,Córdoba,5000,R005,Paid
+L00168,2025-03-10,CMP0013,Paid Search,SMB Producer,Buenos Aires,5000,R001,Paid
+L00169,2025-08-24,CMP0048,Organic,Mid-Market Agribusiness,Buenos Aires,1200,R005,Owned
+L00170,2025-08-26,CMP0048,Organic,Enterprise,Entre Ríos,600,R004,Owned
+L00171,2025-04-26,CMP0022,Events,Enterprise,Córdoba,2500,R004,Partner
+L00172,2025-10-11,CMP0059,Referral,SMB Producer,La Pampa,250,R005,Partner
+L00173,2025-11-17,CMP0063,Webinar,Mid-Market Agribusiness,Córdoba,5000,R001,Owned
+L00174,2026-03-05,CMP0087,Webinar,SMB Producer,Córdoba,2500,R001,Owned
+L00175,2025-06-18,CMP0033,Webinar,SMB Producer,La Pampa,250,R001,Owned
+L00176,2025-04-21,CMP0024,Organic,SMB Producer,La Pampa,10000,R001,Owned
+L00177,2025-09-23,CMP0051,Webinar,SMB Producer,Entre Ríos,600,R003,Owned
+L00178,2025-11-09,CMP0061,Paid Search,SMB Producer,La Pampa,250,R003,Paid
+L00179,2025-04-15,CMP0021,Webinar,SMB Producer,Buenos Aires,5000,R001,Owned
+L00180,2025-06-07,CMP0032,Paid Social,Mid-Market Agribusiness,Buenos Aires,600,R005,Paid
+L00181,2025-11-22,CMP0061,Paid Search,Agronomic Advisor,Entre Ríos,250,R004,Paid
+L00182,2025-02-13,CMP0007,Paid Search,SMB Producer,La Pampa,5000,R005,Paid
+L00183,2026-02-19,CMP0083,Referral,Agronomic Advisor,Santa Fe,250,R002,Partner
+L00184,2025-08-13,CMP0044,Paid Social,Mid-Market Agribusiness,Entre Ríos,5000,R005,Paid
+L00185,2025-04-09,CMP0024,Organic,Mid-Market Agribusiness,Santa Fe,20000,R005,Owned
+L00186,2025-07-22,CMP0038,Paid Social,SMB Producer,Santa Fe,1200,R002,Paid
+L00187,2025-04-22,CMP0019,Paid Search,Mid-Market Agribusiness,Entre Ríos,1200,R004,Paid
+L00188,2025-08-22,CMP0045,Webinar,Agronomic Advisor,La Pampa,10000,R004,Owned
+L00189,2025-08-08,CMP0044,Paid Social,Mid-Market Agribusiness,Santa Fe,1200,R002,Paid
+L00190,2025-12-10,CMP0069,Webinar,Mid-Market Agribusiness,Córdoba,1200,R003,Owned
+L00191,2025-02-14,CMP0007,Paid Search,Mid-Market Agribusiness,La Pampa,600,R004,Paid
+L00192,2025-11-15,CMP0065,Referral,Enterprise,Córdoba,10000,R001,Partner
+L00193,2025-11-27,CMP0064,Events,Agronomic Advisor,Buenos Aires,1200,R001,Partner
+L00194,2026-05-27,CMP0100,Events,SMB Producer,Buenos Aires,2500,R005,Partner
+L00195,2025-11-10,CMP0061,Paid Search,Enterprise,La Pampa,1200,R002,Paid
+L00196,2025-09-16,CMP0049,Paid Search,SMB Producer,La Pampa,10000,R005,Paid
+L00197,2025-07-02,CMP0039,Webinar,SMB Producer,Córdoba,5000,R001,Owned
+L00198,2025-09-07,CMP0051,Webinar,Agronomic Advisor,Entre Ríos,5000,R005,Owned
+L00199,2025-04-26,CMP0022,Events,Mid-Market Agribusiness,Entre Ríos,250,R002,Partner
+L00200,2026-03-07,CMP0087,Webinar,Agronomic Advisor,Santa Fe,2500,R005,Owned
+L00201,2025-08-04,CMP0044,Paid Social,SMB Producer,Santa Fe,5000,R002,Paid
+L00202,2026-04-20,CMP0092,Paid Social,Enterprise,Córdoba,250,R005,Paid
+L00203,2025-10-12,CMP0057,Webinar,SMB Producer,La Pampa,2500,R001,Owned
+L00204,2025-07-04,CMP0040,Events,Mid-Market Agribusiness,Buenos Aires,2500,R005,Partner
+L00205,2025-04-16,CMP0019,Paid Search,Mid-Market Agribusiness,Buenos Aires,250,R003,Paid
+L00206,2026-06-07,CMP0104,Paid Social,Agronomic Advisor,Entre Ríos,250,R003,Paid
+L00207,2025-12-24,CMP0072,Organic,Mid-Market Agribusiness,La Pampa,1200,R002,Owned
+L00208,2025-01-10,CMP0003,Webinar,Agronomic Advisor,Entre Ríos,250,R002,Owned
+L00209,2026-01-15,CMP0074,Paid Social,SMB Producer,Entre Ríos,10000,R004,Paid
+L00210,2026-04-08,CMP0091,Paid Search,Enterprise,Buenos Aires,600,R004,Paid
+L00211,2025-10-24,CMP0060,Organic,Mid-Market Agribusiness,Santa Fe,1200,R005,Owned
+L00212,2025-02-08,CMP0012,Organic,SMB Producer,Córdoba,600,R001,Owned
+L00213,2026-06-19,CMP0103,Paid Search,Enterprise,Entre Ríos,5000,R001,Paid
+L00214,2026-06-10,CMP0107,Referral,SMB Producer,Entre Ríos,5000,R002,Partner
+L00215,2025-10-27,CMP0057,Webinar,Agronomic Advisor,Entre Ríos,2500,R004,Owned
+L00216,2025-09-24,CMP0051,Webinar,Mid-Market Agribusiness,Córdoba,1200,R001,Owned
+L00217,2025-02-16,CMP0007,Paid Search,Mid-Market Agribusiness,La Pampa,10000,R005,Paid
+L00218,2025-12-09,CMP0067,Paid Search,SMB Producer,Buenos Aires,20000,R005,Paid
+L00219,2025-04-18,CMP0021,Webinar,Agronomic Advisor,Entre Ríos,600,R003,Owned
+L00220,2025-01-26,CMP0001,Paid Search,SMB Producer,Buenos Aires,2500,R002,Paid
+L00221,2026-05-18,CMP0099,Webinar,SMB Producer,La Pampa,5000,R005,Owned
+L00222,2025-12-17,CMP0072,Organic,Mid-Market Agribusiness,Entre Ríos,250,R003,Owned
+L00223,2025-05-17,CMP0027,Webinar,Mid-Market Agribusiness,Entre Ríos,5000,R001,Owned
+L00224,2025-10-17,CMP0055,Paid Search,Mid-Market Agribusiness,Córdoba,2500,R001,Paid
+L00225,2025-08-21,CMP0043,Paid Search,SMB Producer,La Pampa,10000,R004,Paid
+L00226,2025-04-16,CMP0019,Paid Search,Mid-Market Agribusiness,Santa Fe,1200,R005,Paid
+L00227,2025-08-03,CMP0048,Organic,Mid-Market Agribusiness,Santa Fe,1200,R005,Owned
+L00228,2025-02-07,CMP0010,Events,Mid-Market Agribusiness,Córdoba,250,R003,Partner
+L00229,2026-06-14,CMP0105,Webinar,Mid-Market Agribusiness,Entre Ríos,250,R005,Owned
+L00230,2026-03-21,CMP0088,Events,Mid-Market Agribusiness,La Pampa,2500,R001,Partner
+L00231,2026-04-09,CMP0094,Events,Mid-Market Agribusiness,Córdoba,2500,R005,Partner
+L00232,2026-06-17,CMP0104,Paid Social,Enterprise,Santa Fe,1200,R001,Paid
+L00233,2026-02-15,CMP0081,Webinar,Enterprise,Córdoba,600,R002,Owned
+L00234,2025-04-04,CMP0022,Events,Agronomic Advisor,La Pampa,600,R003,Partner
+L00235,2025-02-22,CMP0012,Organic,SMB Producer,Buenos Aires,600,R002,Owned
+L00236,2025-10-20,CMP0060,Organic,Enterprise,La Pampa,600,R004,Owned
+L00237,2025-07-22,CMP0039,Webinar,SMB Producer,Buenos Aires,1200,R002,Owned
+L00238,2025-03-23,CMP0015,Webinar,SMB Producer,La Pampa,1200,R002,Owned
+L00239,2026-03-03,CMP0089,Referral,Mid-Market Agribusiness,Entre Ríos,5000,R002,Partner
+L00240,2025-05-05,CMP0026,Paid Social,Mid-Market Agribusiness,Buenos Aires,1200,R004,Paid
+L00241,2025-05-05,CMP0029,Referral,SMB Producer,Córdoba,600,R001,Partner
+L00242,2025-08-24,CMP0044,Paid Social,SMB Producer,Córdoba,5000,R001,Paid
+L00243,2026-05-17,CMP0099,Webinar,Enterprise,La Pampa,20000,R003,Owned
+L00244,2025-12-23,CMP0072,Organic,Enterprise,Entre Ríos,1200,R004,Owned
+L00245,2025-02-16,CMP0007,Paid Search,Mid-Market Agribusiness,Santa Fe,1200,R003,Paid
+L00246,2025-11-18,CMP0063,Webinar,SMB Producer,Entre Ríos,600,R001,Owned
+L00247,2026-03-21,CMP0089,Referral,Enterprise,Entre Ríos,10000,R001,Partner
+L00248,2025-06-21,CMP0032,Paid Social,Mid-Market Agribusiness,Córdoba,10000,R003,Paid
+L00249,2025-07-17,CMP0039,Webinar,SMB Producer,Córdoba,600,R004,Owned
+L00250,2025-02-21,CMP0012,Organic,Enterprise,Santa Fe,2500,R004,Owned
+L00251,2025-04-07,CMP0019,Paid Search,SMB Producer,Entre Ríos,10000,R004,Paid
+L00252,2025-03-27,CMP0016,Events,SMB Producer,Entre Ríos,600,R002,Partner
+L00253,2026-06-01,CMP0104,Paid Social,Mid-Market Agribusiness,Santa Fe,600,R004,Paid
+L00254,2026-02-16,CMP0083,Referral,Enterprise,Córdoba,600,R004,Partner
+L00255,2025-01-10,CMP0004,Events,SMB Producer,Entre Ríos,600,R005,Partner
+L00256,2025-10-21,CMP0059,Referral,Mid-Market Agribusiness,Buenos Aires,5000,R001,Partner
+L00257,2025-07-05,CMP0037,Paid Search,Mid-Market Agribusiness,Buenos Aires,1200,R004,Paid
+L00258,2026-04-20,CMP0094,Events,Agronomic Advisor,La Pampa,1200,R004,Partner
+L00259,2025-08-02,CMP0048,Organic,Enterprise,Córdoba,5000,R005,Owned
+L00260,2025-02-04,CMP0009,Webinar,SMB Producer,Córdoba,1200,R002,Owned
+L00261,2025-06-06,CMP0035,Referral,Enterprise,Entre Ríos,600,R004,Partner
+L00262,2025-05-08,CMP0026,Paid Social,Agronomic Advisor,Buenos Aires,1200,R005,Paid
+L00263,2025-05-18,CMP0029,Referral,SMB Producer,Córdoba,600,R004,Partner
+L00264,2025-12-05,CMP0071,Referral,Agronomic Advisor,Córdoba,5000,R002,Partner
+L00265,2026-04-15,CMP0091,Paid Search,Enterprise,Buenos Aires,1200,R001,Paid
+L00266,2025-12-17,CMP0071,Referral,Enterprise,Buenos Aires,10000,R001,Partner
+L00267,2026-02-02,CMP0081,Webinar,Mid-Market Agribusiness,Entre Ríos,5000,R001,Owned
+L00268,2026-03-17,CMP0089,Referral,SMB Producer,Córdoba,600,R002,Partner
+L00269,2025-10-14,CMP0057,Webinar,Mid-Market Agribusiness,Santa Fe,5000,R005,Owned
+L00270,2026-05-21,CMP0098,Paid Social,Mid-Market Agribusiness,La Pampa,2500,R004,Paid
+L00271,2025-04-13,CMP0023,Referral,Enterprise,Entre Ríos,10000,R001,Partner
+L00272,2026-06-10,CMP0104,Paid Social,Mid-Market Agribusiness,La Pampa,20000,R002,Paid
+L00273,2025-02-17,CMP0008,Paid Social,SMB Producer,Entre Ríos,5000,R004,Paid
+L00274,2025-07-13,CMP0042,Organic,SMB Producer,Entre Ríos,5000,R002,Owned
+L00275,2025-07-08,CMP0040,Events,Enterprise,La Pampa,250,R003,Partner
+L00276,2025-04-09,CMP0022,Events,Mid-Market Agribusiness,Santa Fe,250,R003,Partner
+L00277,2025-07-21,CMP0042,Organic,Mid-Market Agribusiness,Buenos Aires,10000,R005,Owned
+L00278,2025-01-15,CMP0005,Referral,Enterprise,Córdoba,5000,R004,Partner
+L00279,2026-04-15,CMP0091,Paid Search,Enterprise,Santa Fe,600,R004,Paid
+L00280,2025-05-10,CMP0025,Paid Search,Enterprise,Entre Ríos,2500,R002,Paid
+L00281,2026-02-03,CMP0081,Webinar,Mid-Market Agribusiness,Santa Fe,2500,R002,Owned
+L00282,2025-04-23,CMP0024,Organic,Mid-Market Agribusiness,Entre Ríos,2500,R001,Owned
+L00283,2025-03-05,CMP0018,Organic,Agronomic Advisor,Entre Ríos,1200,R005,Owned
+L00284,2025-04-04,CMP0019,Paid Search,SMB Producer,Buenos Aires,250,R001,Paid
+L00285,2026-06-01,CMP0103,Paid Search,Enterprise,Buenos Aires,2500,R001,Paid
+L00286,2026-02-12,CMP0082,Events,Mid-Market Agribusiness,Entre Ríos,2500,R005,Partner
+L00287,2026-01-20,CMP0075,Webinar,Mid-Market Agribusiness,Córdoba,600,R003,Owned
+L00288,2026-03-12,CMP0086,Paid Social,SMB Producer,Buenos Aires,5000,R004,Paid
+L00289,2025-06-18,CMP0034,Events,SMB Producer,Entre Ríos,5000,R002,Partner
+L00290,2025-06-13,CMP0031,Paid Search,Agronomic Advisor,La Pampa,600,R005,Paid
+L00291,2025-11-10,CMP0062,Paid Social,Mid-Market Agribusiness,Santa Fe,2500,R001,Paid
+L00292,2025-12-09,CMP0067,Paid Search,Mid-Market Agribusiness,La Pampa,2500,R004,Paid
+L00293,2025-02-02,CMP0009,Webinar,SMB Producer,Santa Fe,600,R002,Owned
+L00294,2025-08-21,CMP0047,Referral,Enterprise,Córdoba,2500,R001,Partner
+L00295,2026-02-15,CMP0081,Webinar,Mid-Market Agribusiness,Santa Fe,10000,R005,Owned
+L00296,2025-09-18,CMP0051,Webinar,Enterprise,La Pampa,250,R003,Owned
+L00297,2025-10-14,CMP0057,Webinar,Mid-Market Agribusiness,Entre Ríos,1200,R005,Owned
+L00298,2026-06-16,CMP0105,Webinar,SMB Producer,Buenos Aires,250,R003,Owned
+L00299,2025-01-10,CMP0003,Webinar,Enterprise,La Pampa,250,R002,Owned
+L00300,2025-11-03,CMP0061,Paid Search,SMB Producer,Entre Ríos,2500,R001,Paid
+L00301,2025-06-09,CMP0034,Events,Enterprise,Santa Fe,600,R002,Partner
+L00302,2026-05-05,CMP0099,Webinar,Enterprise,La Pampa,20000,R005,Owned
+L00303,2025-05-10,CMP0026,Paid Social,SMB Producer,Córdoba,2500,R004,Paid
+L00304,2026-06-03,CMP0108,Organic,Mid-Market Agribusiness,Santa Fe,5000,R003,Owned
+L00305,2026-05-11,CMP0097,Paid Search,Enterprise,Santa Fe,1200,R005,Paid
+L00306,2025-08-13,CMP0048,Organic,Agronomic Advisor,Entre Ríos,5000,R005,Owned
+L00307,2025-05-18,CMP0026,Paid Social,Mid-Market Agribusiness,Santa Fe,1200,R003,Paid
+L00308,2025-12-19,CMP0068,Paid Social,SMB Producer,La Pampa,1200,R003,Paid
+L00309,2025-03-15,CMP0013,Paid Search,Mid-Market Agribusiness,Entre Ríos,600,R001,Paid
+L00310,2026-02-05,CMP0081,Webinar,SMB Producer,Buenos Aires,600,R002,Owned
+L00311,2025-12-19,CMP0068,Paid Social,SMB Producer,Buenos Aires,2500,R005,Paid
+L00312,2025-01-03,CMP0005,Referral,Mid-Market Agribusiness,Buenos Aires,1200,R004,Partner
+L00313,2025-08-13,CMP0043,Paid Search,Agronomic Advisor,Entre Ríos,250,R003,Paid
+L00314,2025-04-10,CMP0024,Organic,SMB Producer,Santa Fe,600,R005,Owned
+L00315,2025-12-06,CMP0070,Events,Agronomic Advisor,Santa Fe,1200,R003,Partner
+L00316,2025-06-21,CMP0033,Webinar,SMB Producer,Córdoba,250,R001,Owned
+L00317,2025-07-10,CMP0040,Events,Mid-Market Agribusiness,Buenos Aires,2500,R002,Partner
+L00318,2025-11-15,CMP0065,Referral,Enterprise,Entre Ríos,250,R005,Partner
+L00319,2025-09-19,CMP0052,Events,SMB Producer,Córdoba,600,R003,Partner
+L00320,2025-09-03,CMP0050,Paid Social,Enterprise,Buenos Aires,10000,R003,Paid
+L00321,2025-04-15,CMP0024,Organic,Agronomic Advisor,Buenos Aires,10000,R003,Owned
+L00322,2025-01-20,CMP0005,Referral,Agronomic Advisor,Entre Ríos,20000,R001,Partner
+L00323,2025-10-02,CMP0055,Paid Search,Mid-Market Agribusiness,Entre Ríos,2500,R003,Paid
+L00324,2025-08-14,CMP0046,Events,Enterprise,Buenos Aires,250,R004,Partner
+L00325,2026-02-15,CMP0083,Referral,Mid-Market Agribusiness,Santa Fe,1200,R005,Partner
+L00326,2026-06-01,CMP0107,Referral,SMB Producer,Córdoba,600,R004,Partner
+L00327,2025-09-15,CMP0054,Organic,SMB Producer,La Pampa,5000,R004,Owned
+L00328,2025-07-22,CMP0042,Organic,Mid-Market Agribusiness,Córdoba,10000,R001,Owned
+L00329,2025-05-18,CMP0028,Events,SMB Producer,Entre Ríos,250,R004,Partner
+L00330,2026-01-09,CMP0074,Paid Social,Mid-Market Agribusiness,Buenos Aires,5000,R001,Paid
+L00331,2025-06-01,CMP0032,Paid Social,Mid-Market Agribusiness,Entre Ríos,5000,R001,Paid
+L00332,2025-09-07,CMP0054,Organic,SMB Producer,La Pampa,10000,R004,Owned
+L00333,2025-09-08,CMP0049,Paid Search,Enterprise,Buenos Aires,250,R003,Paid
+L00334,2025-06-06,CMP0031,Paid Search,Mid-Market Agribusiness,Santa Fe,2500,R002,Paid
+L00335,2025-06-19,CMP0031,Paid Search,Mid-Market Agribusiness,La Pampa,2500,R004,Paid
+L00336,2025-02-13,CMP0007,Paid Search,Mid-Market Agribusiness,Córdoba,1200,R004,Paid
+L00337,2026-03-23,CMP0086,Paid Social,Mid-Market Agribusiness,Santa Fe,250,R004,Paid
+L00338,2025-10-24,CMP0056,Paid Social,SMB Producer,Santa Fe,5000,R005,Paid
+L00339,2026-05-27,CMP0097,Paid Search,Enterprise,La Pampa,600,R004,Paid
+L00340,2026-03-08,CMP0088,Events,Agronomic Advisor,Entre Ríos,250,R002,Partner
+L00341,2025-09-15,CMP0051,Webinar,SMB Producer,Buenos Aires,20000,R001,Owned
+L00342,2025-01-03,CMP0003,Webinar,SMB Producer,Entre Ríos,1200,R001,Owned
+L00343,2026-06-01,CMP0105,Webinar,SMB Producer,Buenos Aires,10000,R005,Owned
+L00344,2025-05-02,CMP0027,Webinar,Mid-Market Agribusiness,Buenos Aires,10000,R004,Owned
+L00345,2025-10-27,CMP0060,Organic,Mid-Market Agribusiness,Córdoba,5000,R001,Owned
+L00346,2025-09-12,CMP0050,Paid Social,Mid-Market Agribusiness,Entre Ríos,2500,R005,Paid
+L00347,2026-06-20,CMP0103,Paid Search,SMB Producer,Córdoba,1200,R003,Paid
+L00348,2025-04-13,CMP0022,Events,Mid-Market Agribusiness,Buenos Aires,600,R003,Partner
+L00349,2025-07-09,CMP0038,Paid Social,Mid-Market Agribusiness,La Pampa,1200,R001,Paid
+L00350,2026-04-08,CMP0094,Events,Agronomic Advisor,Córdoba,1200,R004,Partner
+L00351,2025-01-15,CMP0003,Webinar,SMB Producer,Buenos Aires,5000,R002,Owned
+L00352,2025-03-25,CMP0017,Referral,Mid-Market Agribusiness,Entre Ríos,2500,R003,Partner
+L00353,2026-01-14,CMP0078,Organic,SMB Producer,Córdoba,1200,R005,Owned
+L00354,2025-10-13,CMP0055,Paid Search,SMB Producer,La Pampa,10000,R004,Paid
+L00355,2025-05-26,CMP0025,Paid Search,SMB Producer,Buenos Aires,600,R005,Paid
+L00356,2025-01-08,CMP0002,Paid Social,Mid-Market Agribusiness,Buenos Aires,1200,R005,Paid
+L00357,2025-07-09,CMP0038,Paid Social,SMB Producer,Buenos Aires,600,R002,Paid
+L00358,2026-02-10,CMP0084,Organic,Mid-Market Agribusiness,Entre Ríos,2500,R005,Owned
+L00359,2025-06-02,CMP0035,Referral,Enterprise,La Pampa,10000,R001,Partner
+L00360,2025-08-20,CMP0047,Referral,SMB Producer,Entre Ríos,10000,R003,Partner
+L00361,2025-02-13,CMP0012,Organic,SMB Producer,La Pampa,2500,R001,Owned
+L00362,2025-01-20,CMP0005,Referral,Mid-Market Agribusiness,La Pampa,5000,R002,Partner
+L00363,2025-02-27,CMP0008,Paid Social,SMB Producer,Santa Fe,1200,R003,Paid
+L00364,2025-05-23,CMP0026,Paid Social,Enterprise,Santa Fe,600,R005,Paid
+L00365,2026-05-21,CMP0099,Webinar,Mid-Market Agribusiness,Córdoba,1200,R003,Owned
+L00366,2025-05-02,CMP0027,Webinar,Mid-Market Agribusiness,Buenos Aires,2500,R003,Owned
+L00367,2025-08-27,CMP0047,Referral,Agronomic Advisor,Córdoba,5000,R003,Partner
+L00368,2026-06-05,CMP0107,Referral,Mid-Market Agribusiness,Buenos Aires,600,R002,Partner
+L00369,2026-03-09,CMP0088,Events,Agronomic Advisor,Córdoba,250,R002,Partner
+L00370,2025-11-08,CMP0064,Events,Mid-Market Agribusiness,Buenos Aires,5000,R001,Partner
+L00371,2025-02-08,CMP0009,Webinar,Mid-Market Agribusiness,Córdoba,250,R002,Owned
+L00372,2026-05-07,CMP0102,Organic,SMB Producer,Buenos Aires,2500,R002,Owned
+L00373,2026-01-13,CMP0075,Webinar,SMB Producer,Buenos Aires,20000,R004,Owned
+L00374,2025-09-07,CMP0054,Organic,Agronomic Advisor,Santa Fe,250,R005,Owned
+L00375,2025-03-18,CMP0018,Organic,SMB Producer,Entre Ríos,1200,R004,Owned
+L00376,2025-09-09,CMP0050,Paid Social,Agronomic Advisor,Buenos Aires,600,R003,Paid
+L00377,2026-01-16,CMP0073,Paid Search,Mid-Market Agribusiness,Buenos Aires,1200,R003,Paid
+L00378,2025-12-22,CMP0067,Paid Search,Enterprise,Entre Ríos,10000,R003,Paid
+L00379,2025-03-26,CMP0014,Paid Social,Mid-Market Agribusiness,Córdoba,600,R005,Paid
+L00380,2025-02-15,CMP0008,Paid Social,Mid-Market Agribusiness,Córdoba,600,R004,Paid
+L00381,2025-05-09,CMP0028,Events,Mid-Market Agribusiness,Córdoba,2500,R005,Partner
+L00382,2026-02-08,CMP0080,Paid Social,Agronomic Advisor,Santa Fe,2500,R001,Paid
+L00383,2026-05-10,CMP0101,Referral,Mid-Market Agribusiness,Buenos Aires,2500,R003,Partner
+L00384,2026-06-01,CMP0105,Webinar,Mid-Market Agribusiness,Buenos Aires,600,R004,Owned
+L00385,2026-02-03,CMP0081,Webinar,Enterprise,La Pampa,2500,R005,Owned
+L00386,2025-12-16,CMP0071,Referral,Enterprise,Entre Ríos,250,R001,Partner
+L00387,2025-11-05,CMP0061,Paid Search,Mid-Market Agribusiness,Entre Ríos,1200,R001,Paid
+L00388,2025-04-20,CMP0020,Paid Social,SMB Producer,La Pampa,250,R003,Paid
+L00389,2026-04-03,CMP0095,Referral,SMB Producer,Buenos Aires,20000,R001,Partner
+L00390,2026-01-06,CMP0076,Events,SMB Producer,Córdoba,250,R001,Partner
+L00391,2026-02-25,CMP0079,Paid Search,Enterprise,Buenos Aires,10000,R002,Paid
+L00392,2026-02-07,CMP0081,Webinar,Mid-Market Agribusiness,Santa Fe,1200,R004,Owned
+L00393,2025-10-08,CMP0057,Webinar,Agronomic Advisor,Santa Fe,20000,R005,Owned
+L00394,2025-02-01,CMP0008,Paid Social,Mid-Market Agribusiness,Buenos Aires,600,R002,Paid
+L00395,2025-04-23,CMP0023,Referral,Agronomic Advisor,Santa Fe,250,R005,Partner
+L00396,2025-02-21,CMP0008,Paid Social,SMB Producer,Buenos Aires,20000,R002,Paid
+L00397,2025-04-04,CMP0019,Paid Search,Mid-Market Agribusiness,Santa Fe,2500,R001,Paid
+L00398,2025-07-09,CMP0041,Referral,Mid-Market Agribusiness,Buenos Aires,2500,R002,Partner
+L00399,2026-04-16,CMP0092,Paid Social,SMB Producer,Santa Fe,600,R004,Paid
+L00400,2025-02-26,CMP0010,Events,Enterprise,Córdoba,250,R005,Partner
+L00401,2026-04-03,CMP0095,Referral,SMB Producer,Buenos Aires,250,R003,Partner
+L00402,2026-04-13,CMP0091,Paid Search,Mid-Market Agribusiness,Santa Fe,5000,R005,Paid
+L00403,2025-09-25,CMP0051,Webinar,SMB Producer,Entre Ríos,5000,R005,Owned
+L00404,2025-01-03,CMP0003,Webinar,Mid-Market Agribusiness,Entre Ríos,2500,R004,Owned
+L00405,2025-05-02,CMP0026,Paid Social,Mid-Market Agribusiness,Córdoba,1200,R003,Paid
+L00406,2025-06-21,CMP0032,Paid Social,Mid-Market Agribusiness,Córdoba,600,R005,Paid
+L00407,2026-04-16,CMP0094,Events,Enterprise,Buenos Aires,5000,R001,Partner
+L00408,2025-05-16,CMP0025,Paid Search,SMB Producer,Buenos Aires,5000,R001,Paid
+L00409,2026-06-10,CMP0103,Paid Search,SMB Producer,La Pampa,2500,R002,Paid
+L00410,2026-02-16,CMP0080,Paid Social,Mid-Market Agribusiness,Buenos Aires,20000,R005,Paid
+L00411,2025-05-14,CMP0025,Paid Search,Mid-Market Agribusiness,Buenos Aires,2500,R002,Paid
+L00412,2026-03-13,CMP0089,Referral,Enterprise,Entre Ríos,600,R003,Partner
+L00413,2025-11-24,CMP0062,Paid Social,Agronomic Advisor,Córdoba,2500,R005,Paid
+L00414,2026-06-06,CMP0104,Paid Social,Mid-Market Agribusiness,Santa Fe,250,R002,Paid
+L00415,2025-05-04,CMP0027,Webinar,Agronomic Advisor,Buenos Aires,600,R001,Owned
+L00416,2025-04-23,CMP0023,Referral,Agronomic Advisor,Buenos Aires,5000,R001,Partner
+L00417,2025-02-23,CMP0010,Events,Enterprise,La Pampa,5000,R005,Partner
+L00418,2026-01-13,CMP0076,Events,Enterprise,Córdoba,10000,R001,Partner
+L00419,2025-11-12,CMP0064,Events,Enterprise,Santa Fe,20000,R003,Partner
+L00420,2025-03-19,CMP0013,Paid Search,Mid-Market Agribusiness,Santa Fe,2500,R001,Paid
+L00421,2025-01-23,CMP0002,Paid Social,Mid-Market Agribusiness,Santa Fe,2500,R004,Paid
+L00422,2026-01-08,CMP0076,Events,Mid-Market Agribusiness,La Pampa,2500,R001,Partner
+L00423,2025-11-03,CMP0061,Paid Search,Mid-Market Agribusiness,Córdoba,10000,R003,Paid
+L00424,2026-01-11,CMP0073,Paid Search,SMB Producer,Santa Fe,5000,R005,Paid
+L00425,2026-03-26,CMP0088,Events,SMB Producer,Santa Fe,1200,R005,Partner
+L00426,2026-04-10,CMP0094,Events,Mid-Market Agribusiness,Santa Fe,250,R004,Partner
+L00427,2025-03-05,CMP0013,Paid Search,Agronomic Advisor,Córdoba,1200,R005,Paid
+L00428,2025-05-07,CMP0025,Paid Search,Enterprise,Córdoba,1200,R005,Paid
+L00429,2026-02-16,CMP0083,Referral,Mid-Market Agribusiness,Buenos Aires,10000,R001,Partner
+L00430,2025-08-27,CMP0043,Paid Search,Agronomic Advisor,Entre Ríos,2500,R005,Paid
+L00431,2025-10-21,CMP0055,Paid Search,Mid-Market Agribusiness,Entre Ríos,250,R004,Paid
+L00432,2026-01-14,CMP0078,Organic,SMB Producer,Entre Ríos,250,R003,Owned
+L00433,2026-05-02,CMP0102,Organic,Mid-Market Agribusiness,Santa Fe,1200,R004,Owned
+L00434,2025-08-07,CMP0043,Paid Search,SMB Producer,Buenos Aires,5000,R002,Paid
+L00435,2025-03-25,CMP0013,Paid Search,SMB Producer,Santa Fe,600,R002,Paid
+L00436,2025-11-21,CMP0062,Paid Social,Agronomic Advisor,La Pampa,600,R005,Paid
+L00437,2026-05-26,CMP0102,Organic,Mid-Market Agribusiness,Entre Ríos,2500,R004,Owned
+L00438,2025-12-15,CMP0070,Events,Agronomic Advisor,Buenos Aires,2500,R001,Partner
+L00439,2026-03-09,CMP0086,Paid Social,Mid-Market Agribusiness,Buenos Aires,1200,R001,Paid
+L00440,2025-08-23,CMP0044,Paid Social,Mid-Market Agribusiness,Córdoba,1200,R001,Paid
+L00441,2026-06-17,CMP0103,Paid Search,SMB Producer,Córdoba,2500,R002,Paid
+L00442,2025-09-21,CMP0052,Events,SMB Producer,Entre Ríos,2500,R005,Partner
+L00443,2025-01-07,CMP0002,Paid Social,SMB Producer,Santa Fe,2500,R004,Paid
+L00444,2026-01-07,CMP0077,Referral,Mid-Market Agribusiness,Santa Fe,1200,R003,Partner
+L00445,2025-01-13,CMP0001,Paid Search,Agronomic Advisor,La Pampa,250,R004,Paid
+L00446,2025-11-13,CMP0065,Referral,Mid-Market Agribusiness,Entre Ríos,2500,R002,Partner
+L00447,2026-01-26,CMP0078,Organic,Agronomic Advisor,Buenos Aires,250,R002,Owned
+L00448,2026-04-20,CMP0091,Paid Search,SMB Producer,Buenos Aires,1200,R005,Paid
+L00449,2025-07-06,CMP0037,Paid Search,Mid-Market Agribusiness,Santa Fe,5000,R004,Paid
+L00450,2026-05-24,CMP0100,Events,SMB Producer,Buenos Aires,10000,R003,Partner
+L00451,2025-02-26,CMP0008,Paid Social,Agronomic Advisor,Entre Ríos,1200,R005,Paid
+L00452,2026-01-20,CMP0075,Webinar,SMB Producer,La Pampa,600,R003,Owned
+L00453,2025-12-22,CMP0067,Paid Search,Mid-Market Agribusiness,La Pampa,10000,R005,Paid
+L00454,2026-03-09,CMP0087,Webinar,SMB Producer,La Pampa,1200,R002,Owned
+L00455,2025-04-16,CMP0024,Organic,Agronomic Advisor,Entre Ríos,10000,R005,Owned
+L00456,2026-06-16,CMP0103,Paid Search,Mid-Market Agribusiness,Entre Ríos,1200,R004,Paid
+L00457,2025-11-02,CMP0062,Paid Social,SMB Producer,Córdoba,250,R003,Paid
+L00458,2025-09-15,CMP0054,Organic,Mid-Market Agribusiness,La Pampa,1200,R002,Owned
+L00459,2025-09-07,CMP0049,Paid Search,SMB Producer,Entre Ríos,2500,R005,Paid
+L00460,2026-02-08,CMP0082,Events,SMB Producer,Entre Ríos,10000,R002,Partner
+L00461,2026-02-01,CMP0083,Referral,Enterprise,La Pampa,20000,R001,Partner
+L00462,2025-08-11,CMP0047,Referral,Mid-Market Agribusiness,La Pampa,10000,R002,Partner
+L00463,2025-08-15,CMP0045,Webinar,SMB Producer,Buenos Aires,5000,R004,Owned
+L00464,2025-08-16,CMP0044,Paid Social,Mid-Market Agribusiness,Córdoba,5000,R002,Paid
+L00465,2026-05-20,CMP0097,Paid Search,Mid-Market Agribusiness,Santa Fe,2500,R003,Paid
+L00466,2025-09-14,CMP0050,Paid Social,Mid-Market Agribusiness,Santa Fe,1200,R001,Paid
+L00467,2025-09-19,CMP0053,Referral,Mid-Market Agribusiness,La Pampa,5000,R003,Partner
+L00468,2026-04-03,CMP0091,Paid Search,SMB Producer,Santa Fe,5000,R002,Paid
+L00469,2025-05-05,CMP0028,Events,Mid-Market Agribusiness,Córdoba,10000,R002,Partner
+L00470,2025-07-07,CMP0042,Organic,Enterprise,Entre Ríos,600,R005,Owned
+L00471,2026-03-26,CMP0085,Paid Search,Enterprise,Córdoba,2500,R004,Paid
+L00472,2025-10-20,CMP0056,Paid Social,Enterprise,Entre Ríos,1200,R003,Paid
+L00473,2026-05-10,CMP0097,Paid Search,Mid-Market Agribusiness,Buenos Aires,20000,R001,Paid
+L00474,2025-05-23,CMP0026,Paid Social,Enterprise,Buenos Aires,600,R002,Paid
+L00475,2025-10-11,CMP0060,Organic,Mid-Market Agribusiness,Buenos Aires,1200,R005,Owned
+L00476,2026-03-19,CMP0086,Paid Social,SMB Producer,Santa Fe,5000,R005,Paid
+L00477,2026-03-05,CMP0085,Paid Search,Agronomic Advisor,Córdoba,250,R004,Paid
+L00478,2025-06-01,CMP0033,Webinar,SMB Producer,Córdoba,1200,R004,Owned
+L00479,2025-04-07,CMP0021,Webinar,Mid-Market Agribusiness,La Pampa,250,R002,Owned
+L00480,2026-04-06,CMP0091,Paid Search,Mid-Market Agribusiness,La Pampa,5000,R001,Paid
+L00481,2025-04-21,CMP0019,Paid Search,SMB Producer,Santa Fe,600,R001,Paid
+L00482,2026-02-03,CMP0083,Referral,Agronomic Advisor,Buenos Aires,5000,R005,Partner
+L00483,2026-04-15,CMP0094,Events,Mid-Market Agribusiness,La Pampa,2500,R004,Partner
+L00484,2026-05-16,CMP0097,Paid Search,SMB Producer,Córdoba,10000,R003,Paid
+L00485,2025-09-02,CMP0052,Events,Agronomic Advisor,Entre Ríos,600,R002,Partner
+L00486,2026-03-05,CMP0090,Organic,Enterprise,Buenos Aires,1200,R004,Owned
+L00487,2025-12-03,CMP0069,Webinar,SMB Producer,Córdoba,250,R004,Owned
+L00488,2025-02-06,CMP0010,Events,SMB Producer,Córdoba,2500,R002,Partner
+L00489,2026-01-16,CMP0075,Webinar,Mid-Market Agribusiness,Entre Ríos,5000,R004,Owned
+L00490,2025-02-07,CMP0011,Referral,Enterprise,Entre Ríos,2500,R003,Partner
+L00491,2025-12-15,CMP0068,Paid Social,Enterprise,La Pampa,20000,R001,Paid
+L00492,2025-09-13,CMP0049,Paid Search,SMB Producer,Santa Fe,600,R004,Paid
+L00493,2025-06-22,CMP0035,Referral,SMB Producer,Buenos Aires,250,R002,Partner
+L00494,2026-04-12,CMP0094,Events,SMB Producer,Buenos Aires,2500,R003,Partner
+L00495,2025-06-07,CMP0034,Events,Agronomic Advisor,Santa Fe,600,R004,Partner
+L00496,2026-01-24,CMP0073,Paid Search,Agronomic Advisor,Entre Ríos,5000,R001,Paid
+L00497,2025-09-23,CMP0049,Paid Search,Enterprise,Entre Ríos,600,R005,Paid
+L00498,2025-09-06,CMP0051,Webinar,Enterprise,Entre Ríos,2500,R005,Owned
+L00499,2025-12-15,CMP0068,Paid Social,SMB Producer,Córdoba,5000,R002,Paid
+L00500,2025-08-21,CMP0045,Webinar,SMB Producer,Córdoba,2500,R005,Owned
+L00501,2025-05-03,CMP0025,Paid Search,Mid-Market Agribusiness,La Pampa,1200,R002,Paid
+L00502,2025-08-12,CMP0047,Referral,Enterprise,Córdoba,10000,R003,Partner
+L00503,2025-12-06,CMP0069,Webinar,Mid-Market Agribusiness,La Pampa,1200,R004,Owned
+L00504,2025-10-15,CMP0056,Paid Social,Mid-Market Agribusiness,Buenos Aires,600,R005,Paid
+L00505,2025-08-09,CMP0045,Webinar,SMB Producer,Entre Ríos,2500,R005,Owned
+L00506,2025-09-12,CMP0049,Paid Search,SMB Producer,Córdoba,600,R001,Paid
+L00507,2025-05-09,CMP0026,Paid Social,SMB Producer,Santa Fe,600,R001,Paid
+L00508,2025-02-09,CMP0009,Webinar,Mid-Market Agribusiness,Córdoba,600,R003,Owned
+L00509,2025-01-11,CMP0006,Organic,SMB Producer,Buenos Aires,600,R005,Owned
+L00510,2026-06-18,CMP0106,Events,Agronomic Advisor,La Pampa,250,R002,Partner
+L00511,2026-06-24,CMP0103,Paid Search,Mid-Market Agribusiness,La Pampa,1200,R003,Paid
+L00512,2026-05-12,CMP0097,Paid Search,Mid-Market Agribusiness,Entre Ríos,2500,R002,Paid
+L00513,2026-06-12,CMP0103,Paid Search,Mid-Market Agribusiness,Entre Ríos,2500,R005,Paid
+L00514,2025-03-05,CMP0015,Webinar,Mid-Market Agribusiness,La Pampa,600,R005,Owned
+L00515,2025-05-24,CMP0030,Organic,Enterprise,Buenos Aires,20000,R003,Owned
+L00516,2025-01-04,CMP0001,Paid Search,SMB Producer,La Pampa,2500,R002,Paid
+L00517,2026-01-13,CMP0076,Events,Enterprise,Córdoba,2500,R003,Partner
+L00518,2025-04-20,CMP0021,Webinar,Mid-Market Agribusiness,Entre Ríos,1200,R004,Owned
+L00519,2025-06-25,CMP0031,Paid Search,SMB Producer,Córdoba,20000,R005,Paid
+L00520,2025-05-27,CMP0029,Referral,SMB Producer,Buenos Aires,1200,R001,Partner
+L00521,2025-06-01,CMP0035,Referral,Enterprise,Entre Ríos,600,R001,Partner
+L00522,2026-02-13,CMP0079,Paid Search,Mid-Market Agribusiness,Entre Ríos,1200,R004,Paid
+L00523,2025-03-09,CMP0013,Paid Search,Agronomic Advisor,Córdoba,5000,R004,Paid
+L00524,2026-06-21,CMP0103,Paid Search,SMB Producer,Santa Fe,2500,R002,Paid
+L00525,2025-06-05,CMP0032,Paid Social,SMB Producer,Santa Fe,1200,R001,Paid
+L00526,2025-12-08,CMP0067,Paid Search,Mid-Market Agribusiness,Entre Ríos,5000,R001,Paid
+L00527,2025-12-06,CMP0070,Events,Enterprise,La Pampa,2500,R005,Partner
+L00528,2025-06-20,CMP0031,Paid Search,SMB Producer,La Pampa,600,R003,Paid
+L00529,2025-02-26,CMP0009,Webinar,Mid-Market Agribusiness,Buenos Aires,5000,R005,Owned
+L00530,2026-03-25,CMP0086,Paid Social,Mid-Market Agribusiness,Santa Fe,1200,R005,Paid
+L00531,2025-12-24,CMP0067,Paid Search,SMB Producer,Entre Ríos,5000,R004,Paid
+L00532,2025-11-08,CMP0062,Paid Social,SMB Producer,La Pampa,5000,R004,Paid
+L00533,2025-11-09,CMP0061,Paid Search,Enterprise,Buenos Aires,600,R002,Paid
+L00534,2026-05-13,CMP0101,Referral,SMB Producer,La Pampa,2500,R004,Partner
+L00535,2026-06-16,CMP0103,Paid Search,SMB Producer,Córdoba,1200,R002,Paid
+L00536,2026-02-04,CMP0081,Webinar,SMB Producer,Santa Fe,600,R002,Owned
+L00537,2025-05-01,CMP0030,Organic,Mid-Market Agribusiness,La Pampa,5000,R002,Owned
+L00538,2025-02-11,CMP0008,Paid Social,Agronomic Advisor,Córdoba,2500,R004,Paid
+L00539,2025-12-09,CMP0067,Paid Search,Mid-Market Agribusiness,Buenos Aires,1200,R002,Paid
+L00540,2026-05-13,CMP0101,Referral,Enterprise,Santa Fe,20000,R001,Partner
+L00541,2025-09-19,CMP0052,Events,SMB Producer,Entre Ríos,10000,R003,Partner
+L00542,2025-02-01,CMP0010,Events,Mid-Market Agribusiness,La Pampa,1200,R003,Partner
+L00543,2025-12-23,CMP0067,Paid Search,SMB Producer,Córdoba,2500,R005,Paid
+L00544,2025-08-05,CMP0044,Paid Social,Mid-Market Agribusiness,Entre Ríos,1200,R005,Paid
+L00545,2025-08-04,CMP0043,Paid Search,Mid-Market Agribusiness,La Pampa,250,R003,Paid
+L00546,2026-06-15,CMP0107,Referral,Enterprise,La Pampa,10000,R004,Partner
+L00547,2025-07-03,CMP0040,Events,SMB Producer,La Pampa,600,R002,Partner
+L00548,2025-03-09,CMP0016,Events,Enterprise,La Pampa,1200,R005,Partner
+L00549,2025-04-21,CMP0021,Webinar,Agronomic Advisor,Santa Fe,10000,R001,Owned
+L00550,2026-05-11,CMP0102,Organic,Mid-Market Agribusiness,Entre Ríos,250,R002,Owned
+L00551,2025-02-17,CMP0008,Paid Social,SMB Producer,Córdoba,10000,R002,Paid
+L00552,2025-04-20,CMP0024,Organic,Mid-Market Agribusiness,La Pampa,2500,R003,Owned
+L00553,2025-06-12,CMP0034,Events,Agronomic Advisor,Buenos Aires,1200,R004,Partner
+L00554,2025-05-17,CMP0028,Events,Mid-Market Agribusiness,La Pampa,2500,R001,Partner
+L00555,2025-03-22,CMP0016,Events,SMB Producer,Córdoba,600,R005,Partner
+L00556,2025-06-22,CMP0032,Paid Social,SMB Producer,Santa Fe,600,R002,Paid
+L00557,2025-10-17,CMP0055,Paid Search,Agronomic Advisor,La Pampa,1200,R002,Paid
+L00558,2026-05-19,CMP0097,Paid Search,Enterprise,Buenos Aires,5000,R003,Paid
+L00559,2026-04-02,CMP0091,Paid Search,Mid-Market Agribusiness,La Pampa,1200,R003,Paid
+L00560,2025-04-02,CMP0024,Organic,Enterprise,Buenos Aires,2500,R001,Owned
+L00561,2026-02-04,CMP0082,Events,SMB Producer,Entre Ríos,250,R001,Partner
+L00562,2025-11-22,CMP0062,Paid Social,SMB Producer,Buenos Aires,1200,R001,Paid
+L00563,2025-02-22,CMP0007,Paid Search,SMB Producer,Entre Ríos,20000,R001,Paid
+L00564,2026-06-02,CMP0103,Paid Search,Mid-Market Agribusiness,La Pampa,2500,R002,Paid
+L00565,2025-02-15,CMP0007,Paid Search,Mid-Market Agribusiness,Buenos Aires,20000,R004,Paid
+L00566,2026-01-16,CMP0076,Events,Mid-Market Agribusiness,Entre Ríos,250,R001,Partner
+L00567,2026-04-19,CMP0092,Paid Social,Mid-Market Agribusiness,Buenos Aires,10000,R004,Paid
+L00568,2025-05-23,CMP0027,Webinar,SMB Producer,Buenos Aires,250,R005,Owned
+L00569,2026-02-04,CMP0084,Organic,SMB Producer,Buenos Aires,600,R004,Owned
+L00570,2025-01-14,CMP0003,Webinar,Mid-Market Agribusiness,La Pampa,1200,R002,Owned
+L00571,2025-10-16,CMP0055,Paid Search,Agronomic Advisor,Buenos Aires,5000,R002,Paid
+L00572,2026-05-21,CMP0102,Organic,Agronomic Advisor,La Pampa,1200,R001,Owned
+L00573,2025-01-06,CMP0001,Paid Search,SMB Producer,Buenos Aires,1200,R001,Paid
+L00574,2026-01-27,CMP0077,Referral,SMB Producer,Santa Fe,5000,R002,Partner
+L00575,2025-07-23,CMP0037,Paid Search,SMB Producer,Córdoba,600,R003,Paid
+L00576,2026-03-08,CMP0089,Referral,SMB Producer,La Pampa,5000,R005,Partner
+L00577,2026-01-08,CMP0073,Paid Search,Mid-Market Agribusiness,La Pampa,1200,R002,Paid
+L00578,2025-03-10,CMP0015,Webinar,SMB Producer,Buenos Aires,600,R003,Owned
+L00579,2026-06-07,CMP0104,Paid Social,SMB Producer,Córdoba,10000,R005,Paid
+L00580,2025-11-22,CMP0066,Organic,SMB Producer,Córdoba,2500,R002,Owned
+L00581,2025-07-17,CMP0041,Referral,Mid-Market Agribusiness,Entre Ríos,20000,R003,Partner
+L00582,2025-10-26,CMP0056,Paid Social,SMB Producer,Santa Fe,5000,R001,Paid
+L00583,2025-02-08,CMP0008,Paid Social,SMB Producer,Santa Fe,250,R001,Paid
+L00584,2026-01-01,CMP0073,Paid Search,SMB Producer,Santa Fe,600,R003,Paid
+L00585,2025-04-10,CMP0023,Referral,SMB Producer,Entre Ríos,10000,R002,Partner
+L00586,2025-11-19,CMP0064,Events,Enterprise,La Pampa,5000,R001,Partner
+L00587,2025-09-04,CMP0051,Webinar,SMB Producer,Córdoba,2500,R003,Owned
+L00588,2025-01-03,CMP0002,Paid Social,SMB Producer,Buenos Aires,2500,R001,Paid
+L00589,2025-12-02,CMP0069,Webinar,Mid-Market Agribusiness,Buenos Aires,1200,R004,Owned
+L00590,2026-01-15,CMP0076,Events,Mid-Market Agribusiness,Santa Fe,20000,R002,Partner
+L00591,2026-02-24,CMP0081,Webinar,SMB Producer,Santa Fe,10000,R003,Owned
+L00592,2025-06-24,CMP0032,Paid Social,Enterprise,Entre Ríos,250,R005,Paid
+L00593,2025-02-13,CMP0007,Paid Search,SMB Producer,Santa Fe,10000,R005,Paid
+L00594,2026-05-22,CMP0099,Webinar,SMB Producer,La Pampa,250,R001,Owned
+L00595,2026-02-03,CMP0079,Paid Search,SMB Producer,Buenos Aires,250,R005,Paid
+L00596,2025-08-04,CMP0046,Events,Mid-Market Agribusiness,Entre Ríos,5000,R005,Partner
+L00597,2025-08-24,CMP0047,Referral,SMB Producer,Santa Fe,10000,R003,Partner
+L00598,2025-05-03,CMP0025,Paid Search,Mid-Market Agribusiness,Córdoba,1200,R002,Paid
+L00599,2025-10-22,CMP0060,Organic,Mid-Market Agribusiness,Córdoba,1200,R004,Owned
+L00600,2026-03-06,CMP0085,Paid Search,Mid-Market Agribusiness,Buenos Aires,2500,R005,Paid
+L00601,2026-03-24,CMP0088,Events,Mid-Market Agribusiness,La Pampa,250,R003,Partner
+L00602,2025-03-01,CMP0013,Paid Search,Mid-Market Agribusiness,Córdoba,1200,R003,Paid
+L00603,2025-11-16,CMP0063,Webinar,Mid-Market Agribusiness,La Pampa,1200,R001,Owned
+L00604,2025-07-24,CMP0040,Events,SMB Producer,Santa Fe,1200,R003,Partner
+L00605,2026-01-11,CMP0076,Events,Mid-Market Agribusiness,Buenos Aires,10000,R003,Partner
+L00606,2025-01-01,CMP0006,Organic,Mid-Market Agribusiness,Buenos Aires,1200,R004,Owned
+L00607,2025-01-15,CMP0006,Organic,Agronomic Advisor,Santa Fe,600,R001,Owned
+L00608,2026-04-18,CMP0096,Organic,SMB Producer,Santa Fe,2500,R005,Owned
+L00609,2025-10-15,CMP0060,Organic,SMB Producer,Santa Fe,600,R002,Owned
+L00610,2026-01-18,CMP0078,Organic,Enterprise,Buenos Aires,10000,R005,Owned
+L00611,2025-02-03,CMP0007,Paid Search,Mid-Market Agribusiness,La Pampa,250,R003,Paid
+L00612,2026-04-14,CMP0093,Webinar,Enterprise,Entre Ríos,5000,R003,Owned
+L00613,2025-10-24,CMP0056,Paid Social,SMB Producer,Santa Fe,2500,R005,Paid
+L00614,2025-03-15,CMP0015,Webinar,SMB Producer,Buenos Aires,600,R003,Owned
+L00615,2025-12-20,CMP0071,Referral,Enterprise,Buenos Aires,5000,R003,Partner
+L00616,2025-07-03,CMP0040,Events,SMB Producer,Santa Fe,2500,R004,Partner
+L00617,2025-02-19,CMP0012,Organic,Enterprise,Entre Ríos,2500,R001,Owned
+L00618,2025-11-13,CMP0066,Organic,SMB Producer,Córdoba,2500,R005,Owned
+L00619,2025-06-12,CMP0032,Paid Social,Mid-Market Agribusiness,Buenos Aires,600,R004,Paid
+L00620,2025-04-24,CMP0019,Paid Search,Enterprise,Córdoba,1200,R001,Paid
+L00621,2026-01-08,CMP0077,Referral,Enterprise,Córdoba,2500,R005,Partner
+L00622,2025-11-01,CMP0061,Paid Search,Agronomic Advisor,Buenos Aires,5000,R002,Paid
+L00623,2026-05-01,CMP0102,Organic,Enterprise,Buenos Aires,1200,R003,Owned
+L00624,2026-03-11,CMP0085,Paid Search,Enterprise,Córdoba,5000,R001,Paid
+L00625,2025-12-14,CMP0068,Paid Social,Agronomic Advisor,Córdoba,1200,R003,Paid
+L00626,2025-09-13,CMP0051,Webinar,Mid-Market Agribusiness,Santa Fe,1200,R005,Owned
+L00627,2026-03-05,CMP0090,Organic,Mid-Market Agribusiness,Entre Ríos,1200,R002,Owned
+L00628,2026-01-25,CMP0077,Referral,Enterprise,Santa Fe,5000,R002,Partner
+L00629,2026-01-22,CMP0077,Referral,Mid-Market Agribusiness,Córdoba,2500,R005,Partner
+L00630,2025-01-15,CMP0006,Organic,SMB Producer,La Pampa,5000,R002,Owned
+L00631,2026-01-10,CMP0077,Referral,Enterprise,Córdoba,1200,R005,Partner
+L00632,2025-11-17,CMP0061,Paid Search,Enterprise,La Pampa,2500,R004,Paid
+L00633,2025-09-17,CMP0053,Referral,SMB Producer,La Pampa,10000,R004,Partner
+L00634,2026-01-07,CMP0078,Organic,Agronomic Advisor,Entre Ríos,5000,R005,Owned
+L00635,2025-11-02,CMP0061,Paid Search,Enterprise,Santa Fe,2500,R004,Paid
+L00636,2026-04-17,CMP0091,Paid Search,Mid-Market Agribusiness,Córdoba,1200,R004,Paid
+L00637,2025-02-11,CMP0007,Paid Search,Mid-Market Agribusiness,Entre Ríos,250,R005,Paid
+L00638,2025-01-01,CMP0003,Webinar,Enterprise,Buenos Aires,5000,R004,Owned
+L00639,2025-05-22,CMP0028,Events,SMB Producer,Buenos Aires,10000,R004,Partner
+L00640,2025-10-13,CMP0060,Organic,SMB Producer,Córdoba,1200,R003,Owned
+L00641,2025-09-05,CMP0054,Organic,Enterprise,Buenos Aires,5000,R004,Owned
+L00642,2025-10-04,CMP0056,Paid Social,SMB Producer,Santa Fe,5000,R005,Paid
+L00643,2025-09-14,CMP0054,Organic,Mid-Market Agribusiness,La Pampa,2500,R004,Owned
+L00644,2025-10-24,CMP0060,Organic,Agronomic Advisor,Buenos Aires,5000,R004,Owned
+L00645,2026-04-16,CMP0093,Webinar,SMB Producer,Entre Ríos,5000,R005,Owned
+L00646,2025-03-25,CMP0014,Paid Social,SMB Producer,Santa Fe,1200,R001,Paid
+L00647,2026-03-20,CMP0086,Paid Social,SMB Producer,La Pampa,5000,R004,Paid
+L00648,2026-03-16,CMP0086,Paid Social,Agronomic Advisor,La Pampa,5000,R005,Paid
+L00649,2025-08-21,CMP0045,Webinar,SMB Producer,La Pampa,5000,R001,Owned
+L00650,2025-06-13,CMP0035,Referral,SMB Producer,Buenos Aires,20000,R003,Partner
+L00651,2026-04-09,CMP0096,Organic,Mid-Market Agribusiness,Entre Ríos,600,R002,Owned
+L00652,2025-03-27,CMP0015,Webinar,Agronomic Advisor,Córdoba,250,R003,Owned
+L00653,2025-03-17,CMP0014,Paid Social,SMB Producer,Buenos Aires,2500,R002,Paid
+L00654,2025-06-01,CMP0034,Events,Mid-Market Agribusiness,Entre Ríos,2500,R003,Partner
+L00655,2025-07-23,CMP0037,Paid Search,Agronomic Advisor,Córdoba,2500,R002,Paid
+L00656,2025-05-04,CMP0027,Webinar,Mid-Market Agribusiness,Entre Ríos,2500,R004,Owned
+L00657,2026-04-25,CMP0094,Events,SMB Producer,La Pampa,250,R004,Partner
+L00658,2026-06-21,CMP0106,Events,Mid-Market Agribusiness,Santa Fe,250,R003,Partner
+L00659,2026-03-08,CMP0085,Paid Search,Mid-Market Agribusiness,Entre Ríos,600,R004,Paid
+L00660,2025-01-18,CMP0005,Referral,SMB Producer,Buenos Aires,5000,R002,Partner
+L00661,2025-07-08,CMP0038,Paid Social,Enterprise,Córdoba,600,R005,Paid
+L00662,2025-04-15,CMP0020,Paid Social,SMB Producer,Córdoba,250,R003,Paid
+L00663,2025-03-19,CMP0014,Paid Social,SMB Producer,Entre Ríos,600,R005,Paid
+L00664,2026-05-07,CMP0102,Organic,SMB Producer,La Pampa,1200,R002,Owned
+L00665,2025-04-27,CMP0019,Paid Search,Mid-Market Agribusiness,Córdoba,1200,R005,Paid
+L00666,2025-11-01,CMP0062,Paid Social,Enterprise,Córdoba,10000,R002,Paid
+L00667,2025-06-09,CMP0034,Events,SMB Producer,Córdoba,5000,R001,Partner
+L00668,2025-04-20,CMP0021,Webinar,SMB Producer,Santa Fe,250,R003,Owned
+L00669,2025-07-17,CMP0042,Organic,Mid-Market Agribusiness,La Pampa,250,R002,Owned
+L00670,2025-11-22,CMP0061,Paid Search,Enterprise,Santa Fe,1200,R002,Paid
+L00671,2025-06-14,CMP0031,Paid Search,Mid-Market Agribusiness,Buenos Aires,10000,R001,Paid
+L00672,2025-05-27,CMP0028,Events,SMB Producer,La Pampa,600,R004,Partner
+L00673,2025-06-23,CMP0034,Events,Enterprise,Santa Fe,5000,R001,Partner
+L00674,2026-02-16,CMP0084,Organic,Enterprise,La Pampa,5000,R002,Owned
+L00675,2026-02-22,CMP0083,Referral,Mid-Market Agribusiness,Entre Ríos,2500,R003,Partner
+L00676,2025-10-05,CMP0060,Organic,Enterprise,Santa Fe,5000,R005,Owned
+L00677,2026-06-16,CMP0104,Paid Social,Enterprise,La Pampa,10000,R002,Paid
+L00678,2026-05-18,CMP0100,Events,SMB Producer,Santa Fe,20000,R002,Partner
+L00679,2025-05-26,CMP0028,Events,Mid-Market Agribusiness,La Pampa,600,R003,Partner
+L00680,2025-04-22,CMP0024,Organic,SMB Producer,Santa Fe,2500,R002,Owned
+L00681,2025-05-21,CMP0030,Organic,SMB Producer,Córdoba,250,R004,Owned
+L00682,2025-10-05,CMP0057,Webinar,Mid-Market Agribusiness,La Pampa,1200,R003,Owned
+L00683,2025-05-01,CMP0026,Paid Social,SMB Producer,Entre Ríos,20000,R003,Paid
+L00684,2025-06-09,CMP0031,Paid Search,SMB Producer,Córdoba,5000,R005,Paid
+L00685,2025-10-07,CMP0056,Paid Social,Mid-Market Agribusiness,La Pampa,10000,R002,Paid
+L00686,2026-06-18,CMP0106,Events,Enterprise,Entre Ríos,1200,R003,Partner
+L00687,2026-01-22,CMP0073,Paid Search,Agronomic Advisor,La Pampa,250,R003,Paid
+L00688,2026-04-12,CMP0096,Organic,Mid-Market Agribusiness,Córdoba,10000,R001,Owned
+L00689,2026-06-26,CMP0103,Paid Search,Enterprise,Córdoba,600,R004,Paid
+L00690,2025-06-23,CMP0031,Paid Search,Mid-Market Agribusiness,Buenos Aires,2500,R003,Paid
+L00691,2025-12-18,CMP0071,Referral,SMB Producer,Santa Fe,250,R002,Partner
+L00692,2025-04-14,CMP0020,Paid Social,SMB Producer,Buenos Aires,600,R003,Paid
+L00693,2025-12-17,CMP0070,Events,Enterprise,Entre Ríos,2500,R005,Partner
+L00694,2025-03-06,CMP0015,Webinar,Mid-Market Agribusiness,Buenos Aires,1200,R005,Owned
+L00695,2025-08-04,CMP0044,Paid Social,Enterprise,La Pampa,5000,R003,Paid
+L00696,2025-12-16,CMP0069,Webinar,Enterprise,Buenos Aires,2500,R002,Owned
+L00697,2025-05-22,CMP0026,Paid Social,Mid-Market Agribusiness,Entre Ríos,1200,R003,Paid
+L00698,2025-12-16,CMP0068,Paid Social,SMB Producer,Santa Fe,1200,R004,Paid
+L00699,2026-01-21,CMP0073,Paid Search,SMB Producer,La Pampa,2500,R005,Paid
+L00700,2025-12-02,CMP0070,Events,Agronomic Advisor,La Pampa,1200,R002,Partner
+L00701,2026-02-14,CMP0082,Events,SMB Producer,Córdoba,1200,R003,Partner
+L00702,2025-05-23,CMP0026,Paid Social,Mid-Market Agribusiness,Córdoba,600,R002,Paid
+L00703,2026-03-19,CMP0087,Webinar,SMB Producer,La Pampa,1200,R005,Owned
+L00704,2025-01-01,CMP0004,Events,Agronomic Advisor,Córdoba,1200,R002,Partner
+L00705,2025-11-05,CMP0062,Paid Social,Mid-Market Agribusiness,La Pampa,1200,R005,Paid
+L00706,2025-04-23,CMP0019,Paid Search,Agronomic Advisor,Buenos Aires,1200,R002,Paid
+L00707,2025-01-04,CMP0006,Organic,Mid-Market Agribusiness,Buenos Aires,2500,R003,Owned
+L00708,2026-05-24,CMP0100,Events,Agronomic Advisor,Santa Fe,250,R003,Partner
+L00709,2026-06-23,CMP0107,Referral,SMB Producer,Entre Ríos,600,R005,Partner
+L00710,2025-12-20,CMP0069,Webinar,Agronomic Advisor,Santa Fe,2500,R004,Owned
+L00711,2025-06-24,CMP0032,Paid Social,SMB Producer,Buenos Aires,600,R004,Paid
+L00712,2026-03-07,CMP0088,Events,Mid-Market Agribusiness,Santa Fe,2500,R001,Partner
+L00713,2026-03-15,CMP0090,Organic,Enterprise,Santa Fe,1200,R001,Owned
+L00714,2025-09-08,CMP0054,Organic,Mid-Market Agribusiness,Córdoba,1200,R003,Owned
+L00715,2025-10-11,CMP0057,Webinar,Mid-Market Agribusiness,La Pampa,600,R005,Owned
+L00716,2026-04-08,CMP0092,Paid Social,SMB Producer,Entre Ríos,2500,R002,Paid
+L00717,2025-10-03,CMP0059,Referral,Agronomic Advisor,Buenos Aires,2500,R004,Partner
+L00718,2025-11-19,CMP0063,Webinar,Mid-Market Agribusiness,Buenos Aires,600,R003,Owned
+L00719,2025-07-11,CMP0040,Events,SMB Producer,Santa Fe,250,R005,Partner
+L00720,2025-04-09,CMP0019,Paid Search,SMB Producer,La Pampa,10000,R002,Paid
+L00721,2025-04-24,CMP0019,Paid Search,SMB Producer,Entre Ríos,1200,R002,Paid
+L00722,2026-06-21,CMP0108,Organic,SMB Producer,La Pampa,2500,R002,Owned
+L00723,2026-06-19,CMP0108,Organic,Mid-Market Agribusiness,Buenos Aires,1200,R003,Owned
+L00724,2025-03-27,CMP0016,Events,Mid-Market Agribusiness,Córdoba,250,R003,Partner
+L00725,2025-09-06,CMP0049,Paid Search,SMB Producer,Santa Fe,10000,R003,Paid
+L00726,2025-03-20,CMP0015,Webinar,SMB Producer,Buenos Aires,600,R005,Owned
+L00727,2025-01-19,CMP0001,Paid Search,Mid-Market Agribusiness,Santa Fe,250,R003,Paid
+L00728,2025-08-06,CMP0046,Events,Mid-Market Agribusiness,Córdoba,250,R003,Partner
+L00729,2025-04-02,CMP0021,Webinar,Agronomic Advisor,Entre Ríos,20000,R003,Owned
+L00730,2025-08-23,CMP0043,Paid Search,SMB Producer,Córdoba,250,R004,Paid
+L00731,2025-02-20,CMP0009,Webinar,SMB Producer,Córdoba,2500,R002,Owned
+L00732,2025-07-12,CMP0042,Organic,Mid-Market Agribusiness,Córdoba,600,R001,Owned
+L00733,2025-09-12,CMP0049,Paid Search,Mid-Market Agribusiness,Buenos Aires,600,R005,Paid
+L00734,2025-04-15,CMP0024,Organic,Mid-Market Agribusiness,Buenos Aires,2500,R004,Owned
+L00735,2025-05-27,CMP0027,Webinar,Enterprise,Buenos Aires,600,R005,Owned
+L00736,2025-04-12,CMP0020,Paid Social,Enterprise,Entre Ríos,10000,R003,Paid
+L00737,2025-12-17,CMP0070,Events,Agronomic Advisor,Santa Fe,1200,R001,Partner
+L00738,2025-07-06,CMP0040,Events,SMB Producer,Santa Fe,1200,R004,Partner
+L00739,2025-06-15,CMP0035,Referral,Enterprise,Córdoba,1200,R003,Partner
+L00740,2026-02-19,CMP0079,Paid Search,Mid-Market Agribusiness,Entre Ríos,600,R004,Paid
+L00741,2025-05-10,CMP0026,Paid Social,Enterprise,Córdoba,10000,R001,Paid
+L00742,2026-01-14,CMP0075,Webinar,Enterprise,Santa Fe,5000,R001,Owned
+L00743,2025-06-04,CMP0036,Organic,Enterprise,Córdoba,20000,R004,Owned
+L00744,2026-01-13,CMP0073,Paid Search,SMB Producer,Santa Fe,5000,R004,Paid
+L00745,2025-06-23,CMP0034,Events,SMB Producer,Entre Ríos,1200,R003,Partner
+L00746,2025-12-27,CMP0068,Paid Social,SMB Producer,Buenos Aires,1200,R003,Paid
+L00747,2025-12-02,CMP0070,Events,Mid-Market Agribusiness,Buenos Aires,1200,R002,Partner
+L00748,2025-05-03,CMP0028,Events,Mid-Market Agribusiness,Córdoba,10000,R002,Partner
+L00749,2025-10-05,CMP0058,Events,SMB Producer,Buenos Aires,250,R004,Partner
+L00750,2026-02-12,CMP0083,Referral,SMB Producer,Buenos Aires,1200,R002,Partner
+L00751,2025-11-10,CMP0064,Events,Agronomic Advisor,La Pampa,600,R003,Partner
+L00752,2025-12-13,CMP0069,Webinar,Agronomic Advisor,Córdoba,250,R005,Owned
+L00753,2026-01-16,CMP0076,Events,Mid-Market Agribusiness,Entre Ríos,1200,R004,Partner
+L00754,2026-03-17,CMP0089,Referral,Enterprise,Santa Fe,600,R005,Partner
+L00755,2025-11-26,CMP0066,Organic,Mid-Market Agribusiness,Córdoba,10000,R003,Owned
+L00756,2026-03-11,CMP0090,Organic,Agronomic Advisor,Córdoba,600,R001,Owned
+L00757,2025-10-16,CMP0057,Webinar,Agronomic Advisor,La Pampa,5000,R004,Owned
+L00758,2025-12-04,CMP0069,Webinar,Mid-Market Agribusiness,Santa Fe,250,R001,Owned
+L00759,2025-10-21,CMP0060,Organic,Enterprise,La Pampa,1200,R001,Owned
+L00760,2025-10-02,CMP0055,Paid Search,Mid-Market Agribusiness,Córdoba,600,R001,Paid
+L00761,2025-01-22,CMP0004,Events,Mid-Market Agribusiness,Santa Fe,600,R003,Partner
+L00762,2025-10-13,CMP0057,Webinar,Mid-Market Agribusiness,Santa Fe,250,R003,Owned
+L00763,2026-05-19,CMP0097,Paid Search,SMB Producer,Santa Fe,2500,R004,Paid
+L00764,2025-06-09,CMP0036,Organic,Mid-Market Agribusiness,Córdoba,600,R004,Owned
+L00765,2025-01-11,CMP0002,Paid Social,Mid-Market Agribusiness,Santa Fe,20000,R002,Paid
+L00766,2026-01-07,CMP0078,Organic,Enterprise,Córdoba,2500,R002,Owned
+L00767,2025-12-26,CMP0072,Organic,Agronomic Advisor,La Pampa,5000,R004,Owned
+L00768,2025-03-10,CMP0016,Events,Agronomic Advisor,Santa Fe,5000,R004,Partner
+L00769,2025-02-05,CMP0007,Paid Search,Mid-Market Agribusiness,Buenos Aires,250,R003,Paid
+L00770,2026-02-17,CMP0081,Webinar,SMB Producer,Entre Ríos,1200,R005,Owned
+L00771,2025-03-19,CMP0018,Organic,SMB Producer,Buenos Aires,600,R001,Owned
+L00772,2026-03-03,CMP0085,Paid Search,Enterprise,La Pampa,5000,R002,Paid
+L00773,2025-04-15,CMP0019,Paid Search,SMB Producer,Santa Fe,2500,R002,Paid
+L00774,2025-07-08,CMP0039,Webinar,Mid-Market Agribusiness,Buenos Aires,600,R001,Owned
+L00775,2026-01-06,CMP0073,Paid Search,Enterprise,Entre Ríos,600,R002,Paid
+L00776,2025-01-14,CMP0002,Paid Social,SMB Producer,Buenos Aires,10000,R004,Paid
+L00777,2025-11-27,CMP0061,Paid Search,SMB Producer,Santa Fe,20000,R004,Paid
+L00778,2025-01-11,CMP0005,Referral,SMB Producer,La Pampa,600,R003,Partner
+L00779,2025-07-13,CMP0042,Organic,Mid-Market Agribusiness,Santa Fe,5000,R005,Owned
+L00780,2026-03-13,CMP0087,Webinar,Enterprise,Santa Fe,600,R003,Owned
+L00781,2026-04-27,CMP0091,Paid Search,Enterprise,Buenos Aires,1200,R002,Paid
+L00782,2025-03-13,CMP0013,Paid Search,Enterprise,Santa Fe,250,R005,Paid
+L00783,2025-01-14,CMP0003,Webinar,SMB Producer,Entre Ríos,10000,R004,Owned
+L00784,2026-04-14,CMP0092,Paid Social,Enterprise,Entre Ríos,1200,R002,Paid
+L00785,2025-08-15,CMP0047,Referral,Enterprise,La Pampa,20000,R003,Partner
+L00786,2025-09-19,CMP0053,Referral,SMB Producer,Entre Ríos,250,R003,Partner
+L00787,2025-08-25,CMP0048,Organic,Enterprise,Córdoba,250,R005,Owned
+L00788,2025-07-22,CMP0040,Events,Agronomic Advisor,Buenos Aires,600,R005,Partner
+L00789,2026-05-16,CMP0097,Paid Search,Mid-Market Agribusiness,Entre Ríos,250,R002,Paid
+L00790,2025-02-21,CMP0007,Paid Search,Enterprise,Santa Fe,1200,R002,Paid
+L00791,2025-09-27,CMP0052,Events,Enterprise,Santa Fe,1200,R002,Partner
+L00792,2026-01-09,CMP0078,Organic,SMB Producer,Córdoba,600,R002,Owned
+L00793,2025-10-21,CMP0056,Paid Social,Mid-Market Agribusiness,Entre Ríos,2500,R005,Paid
+L00794,2026-03-22,CMP0086,Paid Social,SMB Producer,Entre Ríos,2500,R003,Paid
+L00795,2026-05-01,CMP0101,Referral,Mid-Market Agribusiness,Entre Ríos,5000,R005,Partner
+L00796,2025-10-19,CMP0058,Events,SMB Producer,Buenos Aires,2500,R002,Partner
+L00797,2025-02-11,CMP0011,Referral,Agronomic Advisor,Entre Ríos,250,R004,Partner
+L00798,2026-05-24,CMP0097,Paid Search,Enterprise,Santa Fe,250,R002,Paid
+L00799,2025-01-22,CMP0001,Paid Search,Enterprise,Santa Fe,600,R001,Paid
+L00800,2025-03-03,CMP0015,Webinar,Enterprise,Córdoba,10000,R005,Owned
+L00801,2026-02-20,CMP0084,Organic,Enterprise,Santa Fe,600,R005,Owned
+L00802,2025-02-16,CMP0010,Events,Agronomic Advisor,Buenos Aires,2500,R005,Partner
+L00803,2026-06-19,CMP0104,Paid Social,Enterprise,Santa Fe,600,R004,Paid
+L00804,2025-10-25,CMP0058,Events,Enterprise,Entre Ríos,250,R002,Partner
+L00805,2025-09-12,CMP0052,Events,Mid-Market Agribusiness,Buenos Aires,600,R005,Partner
+L00806,2025-03-03,CMP0015,Webinar,Mid-Market Agribusiness,Buenos Aires,600,R003,Owned
+L00807,2026-02-20,CMP0079,Paid Search,SMB Producer,Entre Ríos,2500,R004,Paid
+L00808,2025-06-06,CMP0031,Paid Search,Enterprise,Santa Fe,10000,R003,Paid
+L00809,2025-06-23,CMP0031,Paid Search,Mid-Market Agribusiness,La Pampa,600,R001,Paid
+L00810,2026-02-07,CMP0081,Webinar,Mid-Market Agribusiness,La Pampa,1200,R004,Owned
+L00811,2025-04-10,CMP0023,Referral,Enterprise,Buenos Aires,5000,R004,Partner
+L00812,2026-02-17,CMP0079,Paid Search,Mid-Market Agribusiness,Córdoba,2500,R003,Paid
+L00813,2026-05-11,CMP0098,Paid Social,SMB Producer,Entre Ríos,1200,R004,Paid
+L00814,2025-01-07,CMP0005,Referral,SMB Producer,Buenos Aires,5000,R005,Partner
+L00815,2025-10-08,CMP0055,Paid Search,Mid-Market Agribusiness,Buenos Aires,1200,R004,Paid
+L00816,2025-04-07,CMP0022,Events,Mid-Market Agribusiness,Córdoba,1200,R003,Partner
+L00817,2025-04-04,CMP0019,Paid Search,SMB Producer,Córdoba,1200,R005,Paid
+L00818,2026-05-03,CMP0101,Referral,Mid-Market Agribusiness,Córdoba,2500,R005,Partner
+L00819,2026-03-09,CMP0085,Paid Search,SMB Producer,Córdoba,250,R002,Paid
+L00820,2025-06-19,CMP0036,Organic,SMB Producer,Entre Ríos,1200,R004,Owned
+L00821,2025-07-08,CMP0039,Webinar,SMB Producer,Santa Fe,5000,R003,Owned
+L00822,2026-06-25,CMP0106,Events,Mid-Market Agribusiness,La Pampa,1200,R004,Partner
+L00823,2025-03-09,CMP0016,Events,Enterprise,Buenos Aires,1200,R004,Partner
+L00824,2025-08-06,CMP0044,Paid Social,SMB Producer,Entre Ríos,600,R003,Paid
+L00825,2025-03-27,CMP0016,Events,SMB Producer,Entre Ríos,10000,R005,Partner
+L00826,2025-06-03,CMP0034,Events,Mid-Market Agribusiness,Buenos Aires,2500,R002,Partner
+L00827,2025-10-18,CMP0055,Paid Search,Agronomic Advisor,Entre Ríos,1200,R005,Paid
+L00828,2025-12-20,CMP0071,Referral,Enterprise,Córdoba,600,R002,Partner
+L00829,2026-02-21,CMP0079,Paid Search,Mid-Market Agribusiness,Córdoba,2500,R005,Paid
+L00830,2026-04-21,CMP0096,Organic,SMB Producer,Buenos Aires,1200,R005,Owned
+L00831,2025-09-06,CMP0051,Webinar,Enterprise,Entre Ríos,250,R004,Owned
+L00832,2025-09-22,CMP0052,Events,SMB Producer,Santa Fe,1200,R004,Partner
+L00833,2025-08-11,CMP0043,Paid Search,SMB Producer,La Pampa,2500,R004,Paid
+L00834,2025-10-27,CMP0060,Organic,SMB Producer,Buenos Aires,1200,R004,Owned
+L00835,2025-08-17,CMP0044,Paid Social,SMB Producer,La Pampa,250,R003,Paid
+L00836,2025-08-26,CMP0047,Referral,Enterprise,Entre Ríos,2500,R001,Partner
+L00837,2026-02-23,CMP0082,Events,Mid-Market Agribusiness,Córdoba,5000,R004,Partner
+L00838,2025-06-24,CMP0034,Events,Mid-Market Agribusiness,Santa Fe,250,R001,Partner
+L00839,2025-12-19,CMP0072,Organic,Mid-Market Agribusiness,Buenos Aires,250,R001,Owned
+L00840,2025-01-19,CMP0006,Organic,Mid-Market Agribusiness,Santa Fe,600,R004,Owned
+L00841,2026-06-04,CMP0104,Paid Social,SMB Producer,La Pampa,250,R003,Paid
+L00842,2026-01-13,CMP0073,Paid Search,SMB Producer,La Pampa,5000,R005,Paid
+L00843,2026-02-11,CMP0082,Events,Enterprise,Buenos Aires,20000,R005,Partner
+L00844,2025-05-24,CMP0026,Paid Social,SMB Producer,Entre Ríos,2500,R005,Paid
+L00845,2026-02-18,CMP0079,Paid Search,Mid-Market Agribusiness,Santa Fe,1200,R001,Paid
+L00846,2026-04-20,CMP0091,Paid Search,Enterprise,Córdoba,600,R002,Paid
+L00847,2026-03-23,CMP0085,Paid Search,SMB Producer,Santa Fe,2500,R004,Paid
+L00848,2026-03-21,CMP0089,Referral,Mid-Market Agribusiness,Entre Ríos,5000,R001,Partner
+L00849,2025-10-02,CMP0060,Organic,Agronomic Advisor,La Pampa,600,R005,Owned
+L00850,2025-09-01,CMP0052,Events,SMB Producer,Córdoba,20000,R005,Partner
+L00851,2025-08-25,CMP0043,Paid Search,Mid-Market Agribusiness,Córdoba,2500,R002,Paid
+L00852,2026-05-10,CMP0102,Organic,Enterprise,La Pampa,1200,R005,Owned
+L00853,2026-04-20,CMP0091,Paid Search,Agronomic Advisor,Buenos Aires,5000,R003,Paid
+L00854,2025-06-20,CMP0034,Events,SMB Producer,Santa Fe,600,R003,Partner
+L00855,2025-03-16,CMP0015,Webinar,Mid-Market Agribusiness,Santa Fe,600,R004,Owned
+L00856,2026-05-25,CMP0100,Events,SMB Producer,Entre Ríos,2500,R002,Partner
+L00857,2026-04-13,CMP0092,Paid Social,SMB Producer,Buenos Aires,600,R001,Paid
+L00858,2025-09-15,CMP0050,Paid Social,Mid-Market Agribusiness,Córdoba,250,R005,Paid
+L00859,2025-07-05,CMP0040,Events,SMB Producer,Buenos Aires,600,R001,Partner
+L00860,2025-01-12,CMP0003,Webinar,SMB Producer,Buenos Aires,20000,R004,Owned
+L00861,2026-05-21,CMP0097,Paid Search,Mid-Market Agribusiness,Córdoba,5000,R003,Paid
+L00862,2026-03-19,CMP0085,Paid Search,Mid-Market Agribusiness,Buenos Aires,10000,R003,Paid
+L00863,2026-04-27,CMP0091,Paid Search,SMB Producer,Santa Fe,2500,R005,Paid
+L00864,2026-05-05,CMP0099,Webinar,Mid-Market Agribusiness,Buenos Aires,1200,R004,Owned
+L00865,2026-03-11,CMP0086,Paid Social,SMB Producer,Entre Ríos,600,R003,Paid
+L00866,2025-06-24,CMP0031,Paid Search,Mid-Market Agribusiness,Córdoba,600,R001,Paid
+L00867,2025-03-19,CMP0013,Paid Search,Enterprise,Buenos Aires,10000,R005,Paid
+L00868,2025-01-10,CMP0005,Referral,Agronomic Advisor,La Pampa,1200,R001,Partner
+L00869,2025-06-12,CMP0033,Webinar,Enterprise,Entre Ríos,1200,R004,Owned
+L00870,2025-05-22,CMP0028,Events,Mid-Market Agribusiness,Entre Ríos,2500,R003,Partner
+L00871,2025-08-07,CMP0045,Webinar,Enterprise,Santa Fe,20000,R005,Owned
+L00872,2025-08-24,CMP0044,Paid Social,SMB Producer,Córdoba,600,R005,Paid
+L00873,2025-02-12,CMP0009,Webinar,Mid-Market Agribusiness,Buenos Aires,5000,R003,Owned
+L00874,2025-05-12,CMP0028,Events,Mid-Market Agribusiness,Entre Ríos,600,R005,Partner
+L00875,2025-07-02,CMP0040,Events,SMB Producer,Santa Fe,1200,R001,Partner
+L00876,2025-10-27,CMP0056,Paid Social,SMB Producer,La Pampa,1200,R004,Paid
+L00877,2026-03-02,CMP0086,Paid Social,Mid-Market Agribusiness,La Pampa,1200,R003,Paid
+L00878,2026-05-18,CMP0098,Paid Social,Agronomic Advisor,Córdoba,5000,R004,Paid
+L00879,2026-01-10,CMP0073,Paid Search,Mid-Market Agribusiness,Buenos Aires,600,R001,Paid
+L00880,2025-05-10,CMP0029,Referral,SMB Producer,Córdoba,250,R003,Partner
+L00881,2025-08-11,CMP0046,Events,SMB Producer,Entre Ríos,600,R002,Partner
+L00882,2025-10-06,CMP0056,Paid Social,Agronomic Advisor,Santa Fe,2500,R003,Paid
+L00883,2025-08-11,CMP0048,Organic,Agronomic Advisor,Buenos Aires,1200,R005,Owned
+L00884,2025-10-23,CMP0060,Organic,Mid-Market Agribusiness,Santa Fe,600,R003,Owned
+L00885,2025-12-20,CMP0069,Webinar,Enterprise,Córdoba,2500,R002,Owned
+L00886,2025-08-01,CMP0043,Paid Search,SMB Producer,Santa Fe,250,R003,Paid
+L00887,2025-08-21,CMP0043,Paid Search,Mid-Market Agribusiness,Córdoba,1200,R004,Paid
+L00888,2026-06-06,CMP0108,Organic,Agronomic Advisor,Santa Fe,5000,R001,Owned
+L00889,2025-06-10,CMP0035,Referral,Enterprise,Buenos Aires,1200,R005,Partner
+L00890,2025-01-26,CMP0002,Paid Social,SMB Producer,Entre Ríos,600,R005,Paid
+L00891,2025-04-19,CMP0021,Webinar,Enterprise,Entre Ríos,1200,R001,Owned
+L00892,2025-04-09,CMP0019,Paid Search,Enterprise,Santa Fe,5000,R001,Paid
+L00893,2025-08-13,CMP0046,Events,Mid-Market Agribusiness,Santa Fe,1200,R002,Partner
+L00894,2026-01-11,CMP0075,Webinar,Mid-Market Agribusiness,Entre Ríos,250,R002,Owned
+L00895,2025-05-27,CMP0027,Webinar,Mid-Market Agribusiness,Santa Fe,2500,R003,Owned
+L00896,2025-05-11,CMP0028,Events,Mid-Market Agribusiness,La Pampa,1200,R005,Partner
+L00897,2025-04-23,CMP0020,Paid Social,Agronomic Advisor,La Pampa,2500,R001,Paid
+L00898,2025-06-17,CMP0034,Events,SMB Producer,La Pampa,5000,R005,Partner
+L00899,2025-02-23,CMP0007,Paid Search,SMB Producer,Buenos Aires,10000,R003,Paid
+L00900,2025-08-19,CMP0044,Paid Social,Mid-Market Agribusiness,Santa Fe,1200,R003,Paid
+L00901,2025-03-12,CMP0016,Events,Enterprise,Buenos Aires,600,R002,Partner
+L00902,2026-02-09,CMP0083,Referral,SMB Producer,Buenos Aires,10000,R003,Partner
+L00903,2025-09-17,CMP0052,Events,SMB Producer,Buenos Aires,1200,R001,Partner
+L00904,2026-04-26,CMP0092,Paid Social,Mid-Market Agribusiness,La Pampa,250,R003,Paid
+L00905,2025-06-06,CMP0031,Paid Search,Mid-Market Agribusiness,Santa Fe,1200,R003,Paid
+L00906,2025-05-07,CMP0028,Events,Mid-Market Agribusiness,Santa Fe,2500,R004,Partner
+L00907,2025-04-09,CMP0022,Events,Mid-Market Agribusiness,Córdoba,600,R005,Partner
+L00908,2025-11-10,CMP0064,Events,Enterprise,Córdoba,5000,R005,Partner
+L00909,2025-02-23,CMP0010,Events,Agronomic Advisor,Córdoba,600,R005,Partner
+L00910,2025-06-15,CMP0033,Webinar,Enterprise,Córdoba,1200,R001,Owned
+L00911,2025-04-17,CMP0021,Webinar,Enterprise,Entre Ríos,1200,R004,Owned
+L00912,2025-06-24,CMP0031,Paid Search,Enterprise,Entre Ríos,2500,R002,Paid
+L00913,2026-04-07,CMP0091,Paid Search,SMB Producer,La Pampa,600,R002,Paid
+L00914,2025-09-25,CMP0050,Paid Social,SMB Producer,Entre Ríos,5000,R002,Paid
+L00915,2026-02-16,CMP0082,Events,Mid-Market Agribusiness,Entre Ríos,1200,R004,Partner
+L00916,2025-03-16,CMP0014,Paid Social,Mid-Market Agribusiness,Entre Ríos,1200,R005,Paid
+L00917,2025-04-09,CMP0021,Webinar,SMB Producer,La Pampa,5000,R005,Owned
+L00918,2025-12-08,CMP0071,Referral,Mid-Market Agribusiness,Córdoba,600,R004,Partner
+L00919,2025-07-27,CMP0040,Events,SMB Producer,La Pampa,5000,R002,Partner
+L00920,2025-01-17,CMP0004,Events,Mid-Market Agribusiness,Entre Ríos,5000,R001,Partner
+L00921,2025-11-22,CMP0065,Referral,Enterprise,La Pampa,600,R002,Partner
+L00922,2026-02-24,CMP0079,Paid Search,SMB Producer,Entre Ríos,600,R003,Paid
+L00923,2026-04-03,CMP0092,Paid Social,Enterprise,Córdoba,600,R004,Paid
+L00924,2025-03-16,CMP0015,Webinar,SMB Producer,Córdoba,250,R001,Owned
+L00925,2025-07-16,CMP0038,Paid Social,Mid-Market Agribusiness,Buenos Aires,2500,R005,Paid
+L00926,2025-02-19,CMP0008,Paid Social,Mid-Market Agribusiness,Entre Ríos,1200,R001,Paid
+L00927,2025-09-21,CMP0049,Paid Search,Agronomic Advisor,Entre Ríos,10000,R004,Paid
+L00928,2025-05-22,CMP0026,Paid Social,SMB Producer,Buenos Aires,1200,R004,Paid
+L00929,2025-12-06,CMP0067,Paid Search,SMB Producer,Entre Ríos,250,R002,Paid
+L00930,2026-04-14,CMP0094,Events,Mid-Market Agribusiness,Córdoba,600,R005,Partner
+L00931,2025-04-27,CMP0021,Webinar,Mid-Market Agribusiness,Córdoba,600,R003,Owned
+L00932,2025-12-18,CMP0071,Referral,SMB Producer,Buenos Aires,1200,R004,Partner
+L00933,2026-02-23,CMP0082,Events,Mid-Market Agribusiness,La Pampa,600,R004,Partner
+L00934,2025-10-27,CMP0055,Paid Search,SMB Producer,La Pampa,600,R005,Paid
+L00935,2025-10-14,CMP0057,Webinar,Mid-Market Agribusiness,La Pampa,10000,R002,Owned
+L00936,2026-04-13,CMP0096,Organic,Mid-Market Agribusiness,La Pampa,2500,R004,Owned
+L00937,2025-08-20,CMP0044,Paid Social,SMB Producer,Santa Fe,250,R005,Paid
+L00938,2026-04-22,CMP0091,Paid Search,Mid-Market Agribusiness,Santa Fe,600,R002,Paid
+L00939,2026-05-16,CMP0097,Paid Search,Enterprise,Entre Ríos,600,R002,Paid
+L00940,2025-03-15,CMP0014,Paid Social,SMB Producer,Córdoba,20000,R003,Paid
+L00941,2025-05-27,CMP0029,Referral,Agronomic Advisor,Buenos Aires,600,R005,Partner
+L00942,2025-08-21,CMP0045,Webinar,Enterprise,Buenos Aires,600,R001,Owned
+L00943,2025-10-27,CMP0057,Webinar,SMB Producer,La Pampa,600,R004,Owned
+L00944,2025-03-12,CMP0014,Paid Social,Agronomic Advisor,Buenos Aires,1200,R005,Paid
+L00945,2025-12-11,CMP0068,Paid Social,Mid-Market Agribusiness,Córdoba,600,R003,Paid
+L00946,2025-07-26,CMP0039,Webinar,Agronomic Advisor,Santa Fe,600,R002,Owned
+L00947,2025-09-03,CMP0049,Paid Search,Enterprise,Córdoba,600,R003,Paid
+L00948,2025-11-10,CMP0062,Paid Social,Agronomic Advisor,Buenos Aires,1200,R003,Paid
+L00949,2026-03-21,CMP0086,Paid Social,SMB Producer,Entre Ríos,1200,R001,Paid
+L00950,2026-02-13,CMP0080,Paid Social,Agronomic Advisor,Córdoba,2500,R001,Paid
+L00951,2026-01-17,CMP0076,Events,Enterprise,Entre Ríos,2500,R005,Partner
+L00952,2025-06-24,CMP0031,Paid Search,Enterprise,La Pampa,1200,R005,Paid
+L00953,2025-03-16,CMP0014,Paid Social,Enterprise,Santa Fe,600,R003,Paid
+L00954,2025-12-10,CMP0071,Referral,SMB Producer,Entre Ríos,10000,R001,Partner
+L00955,2025-11-26,CMP0065,Referral,Mid-Market Agribusiness,Buenos Aires,2500,R003,Partner
+L00956,2025-06-08,CMP0033,Webinar,Mid-Market Agribusiness,Santa Fe,250,R004,Owned
+L00957,2025-08-22,CMP0043,Paid Search,Agronomic Advisor,Entre Ríos,600,R005,Paid
+L00958,2025-04-09,CMP0019,Paid Search,Enterprise,Santa Fe,1200,R003,Paid
+L00959,2025-01-24,CMP0001,Paid Search,Enterprise,Córdoba,2500,R001,Paid
+L00960,2025-11-21,CMP0062,Paid Social,SMB Producer,Entre Ríos,5000,R001,Paid
+L00961,2026-05-16,CMP0099,Webinar,SMB Producer,Entre Ríos,2500,R001,Owned
+L00962,2025-02-18,CMP0009,Webinar,SMB Producer,Córdoba,250,R003,Owned
+L00963,2025-06-09,CMP0034,Events,SMB Producer,Santa Fe,20000,R003,Partner
+L00964,2026-05-24,CMP0097,Paid Search,Mid-Market Agribusiness,Santa Fe,5000,R003,Paid
+L00965,2025-07-07,CMP0041,Referral,SMB Producer,Buenos Aires,2500,R005,Partner
+L00966,2025-12-26,CMP0071,Referral,SMB Producer,Buenos Aires,250,R002,Partner
+L00967,2025-04-01,CMP0019,Paid Search,Mid-Market Agribusiness,Santa Fe,2500,R003,Paid
+L00968,2025-07-07,CMP0037,Paid Search,SMB Producer,La Pampa,5000,R002,Paid
+L00969,2025-01-13,CMP0003,Webinar,Mid-Market Agribusiness,Entre Ríos,2500,R002,Owned
+L00970,2026-01-05,CMP0073,Paid Search,Agronomic Advisor,La Pampa,20000,R004,Paid
+L00971,2025-08-21,CMP0044,Paid Social,Mid-Market Agribusiness,La Pampa,600,R004,Paid
+L00972,2025-04-09,CMP0019,Paid Search,SMB Producer,Santa Fe,250,R005,Paid
+L00973,2025-01-05,CMP0006,Organic,SMB Producer,Buenos Aires,1200,R005,Owned
+L00974,2025-05-21,CMP0030,Organic,Mid-Market Agribusiness,Entre Ríos,1200,R002,Owned
+L00975,2025-07-10,CMP0037,Paid Search,SMB Producer,Córdoba,250,R002,Paid
+L00976,2025-11-12,CMP0061,Paid Search,Mid-Market Agribusiness,Buenos Aires,1200,R005,Paid
+L00977,2025-03-10,CMP0013,Paid Search,SMB Producer,Buenos Aires,5000,R001,Paid
+L00978,2026-05-09,CMP0098,Paid Social,Enterprise,Santa Fe,2500,R004,Paid
+L00979,2025-04-20,CMP0019,Paid Search,Mid-Market Agribusiness,Santa Fe,600,R005,Paid
+L00980,2025-06-25,CMP0032,Paid Social,Mid-Market Agribusiness,Córdoba,2500,R001,Paid
+L00981,2025-10-15,CMP0055,Paid Search,Enterprise,Buenos Aires,1200,R004,Paid
+L00982,2025-02-02,CMP0008,Paid Social,Enterprise,Entre Ríos,10000,R005,Paid
+L00983,2025-11-23,CMP0063,Webinar,SMB Producer,Santa Fe,2500,R002,Owned
+L00984,2025-11-24,CMP0061,Paid Search,Mid-Market Agribusiness,Entre Ríos,250,R004,Paid
+L00985,2025-06-04,CMP0036,Organic,Mid-Market Agribusiness,Entre Ríos,10000,R004,Owned
+L00986,2026-04-24,CMP0095,Referral,Mid-Market Agribusiness,Entre Ríos,5000,R005,Partner
+L00987,2025-11-21,CMP0064,Events,Enterprise,Buenos Aires,10000,R002,Partner
+L00988,2025-06-05,CMP0036,Organic,SMB Producer,Córdoba,250,R001,Owned
+L00989,2026-03-24,CMP0087,Webinar,Mid-Market Agribusiness,Córdoba,1200,R004,Owned
+L00990,2025-09-11,CMP0054,Organic,Enterprise,La Pampa,2500,R002,Owned
+L00991,2026-06-09,CMP0104,Paid Social,SMB Producer,Córdoba,2500,R001,Paid
+L00992,2025-12-15,CMP0070,Events,SMB Producer,Córdoba,2500,R001,Partner
+L00993,2026-06-26,CMP0104,Paid Social,SMB Producer,Buenos Aires,1200,R005,Paid
+L00994,2025-05-08,CMP0026,Paid Social,Mid-Market Agribusiness,La Pampa,1200,R003,Paid
+L00995,2025-01-01,CMP0006,Organic,SMB Producer,Santa Fe,250,R004,Owned
+L00996,2025-12-10,CMP0072,Organic,SMB Producer,Buenos Aires,600,R005,Owned
+L00997,2025-11-21,CMP0066,Organic,Mid-Market Agribusiness,Santa Fe,5000,R002,Owned
+L00998,2026-02-13,CMP0080,Paid Social,Mid-Market Agribusiness,Buenos Aires,5000,R002,Paid
+L00999,2026-01-08,CMP0076,Events,SMB Producer,Entre Ríos,1200,R004,Partner
+L01000,2025-01-20,CMP0006,Organic,SMB Producer,Santa Fe,250,R004,Owned
+L01001,2026-02-04,CMP0083,Referral,SMB Producer,La Pampa,10000,R003,Partner
+L01002,2026-02-17,CMP0082,Events,Agronomic Advisor,La Pampa,10000,R004,Partner
+L01003,2025-11-18,CMP0062,Paid Social,Enterprise,Córdoba,2500,R001,Paid
+L01004,2025-02-22,CMP0007,Paid Search,Agronomic Advisor,Entre Ríos,10000,R002,Paid
+L01005,2025-08-02,CMP0047,Referral,SMB Producer,Entre Ríos,600,R003,Partner
+L01006,2026-06-16,CMP0103,Paid Search,Mid-Market Agribusiness,Santa Fe,2500,R002,Paid
+L01007,2025-05-05,CMP0028,Events,Enterprise,Córdoba,600,R005,Partner
+L01008,2026-01-26,CMP0077,Referral,SMB Producer,Buenos Aires,5000,R004,Partner
+L01009,2025-02-11,CMP0007,Paid Search,Agronomic Advisor,Santa Fe,2500,R003,Paid
+L01010,2025-07-01,CMP0042,Organic,Mid-Market Agribusiness,Santa Fe,1200,R002,Owned
+L01011,2025-06-11,CMP0032,Paid Social,SMB Producer,La Pampa,2500,R002,Paid
+L01012,2025-04-20,CMP0020,Paid Social,Mid-Market Agribusiness,Buenos Aires,5000,R003,Paid
+L01013,2025-07-21,CMP0037,Paid Search,Enterprise,Córdoba,600,R001,Paid
+L01014,2026-02-17,CMP0080,Paid Social,Enterprise,Buenos Aires,1200,R002,Paid
+L01015,2025-01-13,CMP0006,Organic,Mid-Market Agribusiness,Buenos Aires,1200,R005,Owned
+L01016,2025-09-01,CMP0053,Referral,Agronomic Advisor,Buenos Aires,2500,R005,Partner
+L01017,2026-06-18,CMP0107,Referral,Mid-Market Agribusiness,Entre Ríos,1200,R001,Partner
+L01018,2025-08-09,CMP0046,Events,Enterprise,Santa Fe,250,R003,Partner
+L01019,2026-03-02,CMP0085,Paid Search,SMB Producer,Entre Ríos,600,R002,Paid
+L01020,2026-03-01,CMP0089,Referral,Agronomic Advisor,La Pampa,600,R002,Partner
+L01021,2026-03-20,CMP0086,Paid Social,Mid-Market Agribusiness,Santa Fe,250,R001,Paid
+L01022,2025-11-25,CMP0065,Referral,Agronomic Advisor,Buenos Aires,2500,R001,Partner
+L01023,2025-04-12,CMP0022,Events,SMB Producer,Buenos Aires,2500,R004,Partner
+L01024,2025-02-21,CMP0007,Paid Search,SMB Producer,La Pampa,5000,R001,Paid
+L01025,2026-03-26,CMP0085,Paid Search,SMB Producer,Santa Fe,2500,R004,Paid
+L01026,2025-02-22,CMP0012,Organic,Enterprise,Córdoba,600,R005,Owned
+L01027,2025-04-15,CMP0021,Webinar,Agronomic Advisor,Santa Fe,250,R001,Owned
+L01028,2025-01-26,CMP0002,Paid Social,Agronomic Advisor,Córdoba,10000,R004,Paid
+L01029,2026-04-17,CMP0091,Paid Search,Enterprise,Santa Fe,1200,R005,Paid
+L01030,2025-12-23,CMP0067,Paid Search,Enterprise,Córdoba,600,R005,Paid
+L01031,2026-06-07,CMP0104,Paid Social,SMB Producer,Buenos Aires,600,R004,Paid
+L01032,2025-10-13,CMP0055,Paid Search,Enterprise,La Pampa,1200,R001,Paid
+L01033,2025-04-24,CMP0020,Paid Social,Mid-Market Agribusiness,La Pampa,250,R004,Paid
+L01034,2025-10-20,CMP0057,Webinar,SMB Producer,Córdoba,20000,R004,Owned
+L01035,2025-04-12,CMP0019,Paid Search,Mid-Market Agribusiness,Buenos Aires,1200,R002,Paid
+L01036,2025-05-13,CMP0027,Webinar,SMB Producer,La Pampa,10000,R005,Owned
+L01037,2025-06-04,CMP0031,Paid Search,Enterprise,Entre Ríos,1200,R003,Paid
+L01038,2026-04-23,CMP0093,Webinar,Enterprise,Córdoba,5000,R003,Owned
+L01039,2025-06-13,CMP0034,Events,SMB Producer,Córdoba,20000,R004,Partner
+L01040,2025-10-12,CMP0058,Events,Mid-Market Agribusiness,Santa Fe,600,R001,Partner
+L01041,2026-06-21,CMP0106,Events,Mid-Market Agribusiness,La Pampa,600,R005,Partner
+L01042,2025-02-17,CMP0008,Paid Social,Mid-Market Agribusiness,Buenos Aires,10000,R005,Paid
+L01043,2025-06-10,CMP0032,Paid Social,SMB Producer,La Pampa,10000,R002,Paid
+L01044,2025-07-08,CMP0037,Paid Search,Agronomic Advisor,Buenos Aires,600,R004,Paid
+L01045,2025-12-20,CMP0067,Paid Search,Enterprise,Buenos Aires,600,R005,Paid
+L01046,2025-01-10,CMP0003,Webinar,SMB Producer,Entre Ríos,600,R001,Owned
+L01047,2026-06-07,CMP0106,Events,Enterprise,Entre Ríos,2500,R003,Partner
+L01048,2025-07-26,CMP0038,Paid Social,Enterprise,La Pampa,10000,R002,Paid
+L01049,2025-11-16,CMP0062,Paid Social,Mid-Market Agribusiness,Santa Fe,1200,R004,Paid
+L01050,2026-03-16,CMP0088,Events,Mid-Market Agribusiness,Buenos Aires,2500,R004,Partner
+L01051,2026-05-05,CMP0098,Paid Social,Mid-Market Agribusiness,Santa Fe,2500,R003,Paid
+L01052,2025-02-13,CMP0012,Organic,Mid-Market Agribusiness,Entre Ríos,2500,R001,Owned
+L01053,2025-02-15,CMP0010,Events,Enterprise,Santa Fe,250,R003,Partner
+L01054,2026-01-25,CMP0074,Paid Social,Mid-Market Agribusiness,La Pampa,600,R001,Paid
+L01055,2025-08-27,CMP0047,Referral,SMB Producer,La Pampa,1200,R002,Partner
+L01056,2025-06-05,CMP0034,Events,SMB Producer,La Pampa,2500,R002,Partner
+L01057,2026-02-03,CMP0083,Referral,SMB Producer,Buenos Aires,1200,R004,Partner
+L01058,2025-04-05,CMP0021,Webinar,SMB Producer,Buenos Aires,2500,R003,Owned
+L01059,2025-05-14,CMP0028,Events,Mid-Market Agribusiness,Buenos Aires,1200,R001,Partner
+L01060,2026-03-02,CMP0089,Referral,Mid-Market Agribusiness,Córdoba,600,R004,Partner
+L01061,2025-11-27,CMP0061,Paid Search,SMB Producer,Santa Fe,10000,R001,Paid
+L01062,2025-09-06,CMP0052,Events,SMB Producer,Córdoba,600,R004,Partner
+L01063,2026-05-05,CMP0101,Referral,Enterprise,Buenos Aires,1200,R003,Partner
+L01064,2025-01-04,CMP0003,Webinar,SMB Producer,Buenos Aires,2500,R005,Owned
+L01065,2025-05-10,CMP0030,Organic,Enterprise,La Pampa,2500,R003,Owned
+L01066,2026-04-18,CMP0092,Paid Social,Mid-Market Agribusiness,Santa Fe,10000,R003,Paid
+L01067,2025-03-08,CMP0016,Events,Mid-Market Agribusiness,La Pampa,5000,R003,Partner
+L01068,2025-07-21,CMP0037,Paid Search,Mid-Market Agribusiness,Santa Fe,250,R004,Paid
+L01069,2025-02-27,CMP0007,Paid Search,Agronomic Advisor,La Pampa,2500,R001,Paid
+L01070,2025-02-15,CMP0009,Webinar,Enterprise,Entre Ríos,600,R001,Owned
+L01071,2025-03-19,CMP0018,Organic,SMB Producer,Entre Ríos,5000,R001,Owned
+L01072,2025-02-26,CMP0007,Paid Search,Mid-Market Agribusiness,La Pampa,1200,R005,Paid
+L01073,2026-05-21,CMP0101,Referral,Mid-Market Agribusiness,Buenos Aires,5000,R005,Partner
+L01074,2025-10-27,CMP0060,Organic,SMB Producer,La Pampa,600,R003,Owned
+L01075,2026-03-04,CMP0090,Organic,SMB Producer,Buenos Aires,5000,R002,Owned
+L01076,2025-02-19,CMP0007,Paid Search,Enterprise,Entre Ríos,10000,R004,Paid
+L01077,2025-12-12,CMP0068,Paid Social,SMB Producer,Entre Ríos,600,R003,Paid
+L01078,2026-04-21,CMP0094,Events,SMB Producer,Entre Ríos,10000,R005,Partner
+L01079,2025-12-02,CMP0070,Events,Mid-Market Agribusiness,Entre Ríos,2500,R001,Partner
+L01080,2025-12-09,CMP0071,Referral,Enterprise,Entre Ríos,250,R001,Partner
+L01081,2025-04-12,CMP0024,Organic,Agronomic Advisor,Entre Ríos,250,R004,Owned
+L01082,2025-07-09,CMP0041,Referral,SMB Producer,La Pampa,2500,R002,Partner
+L01083,2025-03-12,CMP0015,Webinar,SMB Producer,Córdoba,250,R002,Owned
+L01084,2026-05-10,CMP0101,Referral,Mid-Market Agribusiness,Entre Ríos,1200,R005,Partner
+L01085,2025-07-18,CMP0040,Events,Enterprise,Córdoba,5000,R001,Partner
+L01086,2026-04-27,CMP0092,Paid Social,SMB Producer,Santa Fe,250,R004,Paid
+L01087,2026-01-10,CMP0075,Webinar,SMB Producer,La Pampa,20000,R005,Owned
+L01088,2026-06-04,CMP0105,Webinar,SMB Producer,Entre Ríos,5000,R005,Owned
+L01089,2026-04-22,CMP0095,Referral,Mid-Market Agribusiness,Entre Ríos,5000,R001,Partner
+L01090,2026-01-05,CMP0073,Paid Search,Enterprise,Buenos Aires,2500,R004,Paid
+L01091,2025-10-15,CMP0060,Organic,Mid-Market Agribusiness,La Pampa,1200,R004,Owned
+L01092,2025-11-20,CMP0065,Referral,Mid-Market Agribusiness,Santa Fe,5000,R005,Partner
+L01093,2026-01-10,CMP0077,Referral,Enterprise,Buenos Aires,1200,R004,Partner
+L01094,2025-02-14,CMP0010,Events,Mid-Market Agribusiness,La Pampa,5000,R002,Partner
+L01095,2025-06-10,CMP0031,Paid Search,Mid-Market Agribusiness,Córdoba,2500,R002,Paid
+L01096,2026-04-04,CMP0094,Events,Mid-Market Agribusiness,Buenos Aires,600,R003,Partner
+L01097,2026-01-10,CMP0074,Paid Social,Enterprise,Santa Fe,2500,R005,Paid
+L01098,2025-06-10,CMP0032,Paid Social,Mid-Market Agribusiness,La Pampa,250,R005,Paid
+L01099,2026-04-24,CMP0093,Webinar,SMB Producer,Santa Fe,1200,R005,Owned
+L01100,2025-06-18,CMP0032,Paid Social,Mid-Market Agribusiness,Santa Fe,10000,R004,Paid
+L01101,2026-05-20,CMP0097,Paid Search,Enterprise,Buenos Aires,20000,R005,Paid
+L01102,2026-04-26,CMP0091,Paid Search,SMB Producer,Córdoba,5000,R005,Paid
+L01103,2025-11-13,CMP0063,Webinar,SMB Producer,Santa Fe,2500,R003,Owned
+L01104,2025-01-19,CMP0004,Events,Mid-Market Agribusiness,La Pampa,1200,R002,Partner
+L01105,2026-03-04,CMP0088,Events,SMB Producer,Buenos Aires,2500,R003,Partner
+L01106,2025-06-13,CMP0031,Paid Search,SMB Producer,Buenos Aires,1200,R003,Paid
+L01107,2025-11-01,CMP0061,Paid Search,SMB Producer,La Pampa,1200,R002,Paid
+L01108,2025-05-20,CMP0029,Referral,Mid-Market Agribusiness,Entre Ríos,250,R002,Partner
+L01109,2025-05-21,CMP0025,Paid Search,SMB Producer,Entre Ríos,20000,R005,Paid
+L01110,2025-11-15,CMP0063,Webinar,SMB Producer,Entre Ríos,5000,R002,Owned
+L01111,2025-03-13,CMP0017,Referral,SMB Producer,Santa Fe,5000,R003,Partner
+L01112,2025-01-22,CMP0001,Paid Search,Mid-Market Agribusiness,La Pampa,10000,R003,Paid
+L01113,2025-12-16,CMP0070,Events,SMB Producer,Córdoba,20000,R003,Partner
+L01114,2025-02-15,CMP0009,Webinar,SMB Producer,Córdoba,2500,R004,Owned
+L01115,2026-03-22,CMP0089,Referral,SMB Producer,Entre Ríos,1200,R004,Partner
+L01116,2025-01-23,CMP0005,Referral,Mid-Market Agribusiness,Córdoba,600,R003,Partner
+L01117,2026-03-18,CMP0089,Referral,SMB Producer,Entre Ríos,20000,R004,Partner
+L01118,2025-05-17,CMP0026,Paid Social,SMB Producer,Córdoba,2500,R001,Paid
+L01119,2025-05-18,CMP0026,Paid Social,Enterprise,La Pampa,2500,R004,Paid
+L01120,2025-11-11,CMP0061,Paid Search,SMB Producer,Entre Ríos,600,R001,Paid
+L01121,2025-02-15,CMP0010,Events,Mid-Market Agribusiness,Córdoba,1200,R002,Partner
+L01122,2025-09-23,CMP0051,Webinar,Mid-Market Agribusiness,Buenos Aires,2500,R005,Owned
+L01123,2025-10-12,CMP0055,Paid Search,SMB Producer,La Pampa,250,R001,Paid
+L01124,2025-03-05,CMP0015,Webinar,Enterprise,Córdoba,600,R001,Owned
+L01125,2026-02-10,CMP0080,Paid Social,Enterprise,La Pampa,1200,R002,Paid
+L01126,2025-01-13,CMP0003,Webinar,Agronomic Advisor,Entre Ríos,600,R004,Owned
+L01127,2026-02-23,CMP0080,Paid Social,Mid-Market Agribusiness,Buenos Aires,1200,R001,Paid
+L01128,2025-10-17,CMP0059,Referral,Mid-Market Agribusiness,Córdoba,1200,R003,Partner
+L01129,2025-01-15,CMP0002,Paid Social,Mid-Market Agribusiness,Entre Ríos,250,R003,Paid
+L01130,2026-01-13,CMP0078,Organic,Mid-Market Agribusiness,Entre Ríos,1200,R004,Owned
+L01131,2025-11-02,CMP0065,Referral,Enterprise,Entre Ríos,1200,R001,Partner
+L01132,2025-03-15,CMP0015,Webinar,SMB Producer,Buenos Aires,1200,R004,Owned
+L01133,2025-12-11,CMP0072,Organic,Enterprise,La Pampa,5000,R005,Owned
+L01134,2026-01-05,CMP0073,Paid Search,SMB Producer,La Pampa,250,R005,Paid
+L01135,2025-03-14,CMP0017,Referral,Agronomic Advisor,La Pampa,20000,R003,Partner
+L01136,2026-05-18,CMP0097,Paid Search,Enterprise,Entre Ríos,10000,R004,Paid
+L01137,2025-03-16,CMP0013,Paid Search,SMB Producer,Entre Ríos,1200,R001,Paid
+L01138,2025-09-08,CMP0049,Paid Search,Agronomic Advisor,Buenos Aires,10000,R003,Paid
+L01139,2026-05-20,CMP0098,Paid Social,Mid-Market Agribusiness,Córdoba,1200,R004,Paid
+L01140,2025-01-23,CMP0005,Referral,Mid-Market Agribusiness,Entre Ríos,1200,R005,Partner
+L01141,2025-08-09,CMP0043,Paid Search,Mid-Market Agribusiness,Córdoba,1200,R001,Paid
+L01142,2025-10-21,CMP0059,Referral,SMB Producer,Córdoba,250,R005,Partner
+L01143,2025-03-07,CMP0016,Events,Agronomic Advisor,Entre Ríos,2500,R005,Partner
+L01144,2025-08-25,CMP0043,Paid Search,SMB Producer,Santa Fe,10000,R002,Paid
+L01145,2025-09-01,CMP0049,Paid Search,SMB Producer,Córdoba,10000,R001,Paid
+L01146,2025-01-01,CMP0001,Paid Search,Enterprise,Buenos Aires,2500,R004,Paid
+L01147,2025-12-24,CMP0068,Paid Social,Enterprise,Buenos Aires,600,R001,Paid
+L01148,2025-01-18,CMP0004,Events,SMB Producer,Buenos Aires,5000,R003,Partner
+L01149,2025-09-23,CMP0050,Paid Social,Enterprise,Córdoba,250,R001,Paid
+L01150,2025-03-04,CMP0016,Events,Agronomic Advisor,La Pampa,1200,R003,Partner
+L01151,2025-02-01,CMP0009,Webinar,SMB Producer,La Pampa,2500,R004,Owned
+L01152,2025-04-08,CMP0023,Referral,Mid-Market Agribusiness,Entre Ríos,20000,R002,Partner
+L01153,2026-06-02,CMP0103,Paid Search,Mid-Market Agribusiness,Córdoba,250,R003,Paid
+L01154,2025-07-06,CMP0038,Paid Social,Mid-Market Agribusiness,Entre Ríos,5000,R003,Paid
+L01155,2025-07-15,CMP0037,Paid Search,SMB Producer,Entre Ríos,250,R003,Paid
+L01156,2025-07-05,CMP0040,Events,SMB Producer,Córdoba,1200,R003,Partner
+L01157,2025-05-26,CMP0025,Paid Search,SMB Producer,Santa Fe,600,R002,Paid
+L01158,2025-12-08,CMP0070,Events,SMB Producer,Córdoba,600,R002,Partner
+L01159,2026-06-24,CMP0103,Paid Search,Mid-Market Agribusiness,Buenos Aires,600,R004,Paid
+L01160,2025-03-13,CMP0013,Paid Search,Mid-Market Agribusiness,La Pampa,2500,R002,Paid
+L01161,2026-02-20,CMP0080,Paid Social,Enterprise,Entre Ríos,5000,R002,Paid
+L01162,2026-01-26,CMP0074,Paid Social,Mid-Market Agribusiness,Córdoba,250,R003,Paid
+L01163,2025-09-08,CMP0049,Paid Search,Agronomic Advisor,Buenos Aires,2500,R001,Paid
+L01164,2025-11-06,CMP0062,Paid Social,Agronomic Advisor,Santa Fe,2500,R004,Paid
+L01165,2025-11-27,CMP0063,Webinar,Enterprise,Córdoba,20000,R002,Owned
+L01166,2025-08-22,CMP0044,Paid Social,Mid-Market Agribusiness,Santa Fe,20000,R003,Paid
+L01167,2026-01-27,CMP0074,Paid Social,Mid-Market Agribusiness,Córdoba,250,R005,Paid
+L01168,2025-10-17,CMP0059,Referral,SMB Producer,La Pampa,5000,R001,Partner
+L01169,2026-01-20,CMP0074,Paid Social,Mid-Market Agribusiness,La Pampa,5000,R002,Paid
+L01170,2025-03-15,CMP0013,Paid Search,SMB Producer,Santa Fe,1200,R003,Paid
+L01171,2026-03-27,CMP0085,Paid Search,Agronomic Advisor,Santa Fe,1200,R003,Paid
+L01172,2025-09-14,CMP0051,Webinar,SMB Producer,Buenos Aires,2500,R002,Owned
+L01173,2025-08-25,CMP0044,Paid Social,Enterprise,Buenos Aires,250,R003,Paid
+L01174,2026-02-18,CMP0080,Paid Social,SMB Producer,Santa Fe,600,R004,Paid
+L01175,2025-10-11,CMP0058,Events,Mid-Market Agribusiness,Buenos Aires,1200,R005,Partner
+L01176,2025-04-02,CMP0021,Webinar,Mid-Market Agribusiness,Buenos Aires,250,R005,Owned
+L01177,2025-09-07,CMP0050,Paid Social,Mid-Market Agribusiness,Santa Fe,10000,R005,Paid
+L01178,2025-09-23,CMP0053,Referral,Mid-Market Agribusiness,Córdoba,250,R004,Partner
+L01179,2025-08-03,CMP0046,Events,Mid-Market Agribusiness,Entre Ríos,2500,R001,Partner
+L01180,2025-04-05,CMP0019,Paid Search,SMB Producer,La Pampa,250,R002,Paid
+L01181,2026-05-10,CMP0102,Organic,Mid-Market Agribusiness,La Pampa,5000,R001,Owned
+L01182,2025-04-09,CMP0021,Webinar,Agronomic Advisor,Córdoba,10000,R005,Owned
+L01183,2025-12-26,CMP0067,Paid Search,SMB Producer,Santa Fe,10000,R003,Paid
+L01184,2025-03-13,CMP0013,Paid Search,Mid-Market Agribusiness,La Pampa,5000,R001,Paid
+L01185,2025-02-13,CMP0011,Referral,SMB Producer,Buenos Aires,1200,R001,Partner
+L01186,2025-04-23,CMP0022,Events,SMB Producer,Buenos Aires,5000,R004,Partner
+L01187,2025-04-06,CMP0022,Events,SMB Producer,La Pampa,5000,R004,Partner
+L01188,2025-05-13,CMP0026,Paid Social,Enterprise,Buenos Aires,2500,R004,Paid
+L01189,2025-10-08,CMP0060,Organic,Agronomic Advisor,Córdoba,2500,R005,Owned
+L01190,2026-05-26,CMP0102,Organic,SMB Producer,Entre Ríos,5000,R002,Owned
+L01191,2026-03-21,CMP0088,Events,Agronomic Advisor,Córdoba,600,R005,Partner
+L01192,2025-09-17,CMP0051,Webinar,Enterprise,Buenos Aires,250,R001,Owned
+L01193,2026-01-02,CMP0077,Referral,Enterprise,Córdoba,600,R002,Partner
+L01194,2026-04-24,CMP0096,Organic,Enterprise,Buenos Aires,1200,R001,Owned
+L01195,2025-10-24,CMP0058,Events,Mid-Market Agribusiness,Santa Fe,600,R002,Partner
+L01196,2025-07-08,CMP0042,Organic,Mid-Market Agribusiness,Buenos Aires,600,R005,Owned
+L01197,2026-04-08,CMP0094,Events,SMB Producer,Santa Fe,1200,R001,Partner
+L01198,2026-06-13,CMP0105,Webinar,Enterprise,Santa Fe,1200,R002,Owned
+L01199,2025-08-13,CMP0044,Paid Social,Enterprise,Buenos Aires,10000,R005,Paid
+L01200,2026-05-10,CMP0102,Organic,SMB Producer,Santa Fe,2500,R005,Owned
+L01201,2026-06-14,CMP0106,Events,Enterprise,Santa Fe,5000,R004,Partner
+L01202,2026-05-11,CMP0101,Referral,SMB Producer,Santa Fe,1200,R002,Partner
+L01203,2025-06-03,CMP0036,Organic,Mid-Market Agribusiness,Santa Fe,1200,R001,Owned
+L01204,2025-12-12,CMP0069,Webinar,Enterprise,Buenos Aires,1200,R004,Owned
+L01205,2025-08-11,CMP0043,Paid Search,Enterprise,Santa Fe,10000,R002,Paid
+L01206,2025-01-09,CMP0006,Organic,SMB Producer,La Pampa,600,R002,Owned
+L01207,2025-06-07,CMP0036,Organic,Mid-Market Agribusiness,Córdoba,2500,R001,Owned
+L01208,2026-04-12,CMP0094,Events,SMB Producer,La Pampa,10000,R003,Partner
+L01209,2025-05-25,CMP0025,Paid Search,SMB Producer,Entre Ríos,600,R003,Paid
+L01210,2025-12-06,CMP0068,Paid Social,Mid-Market Agribusiness,Buenos Aires,5000,R003,Paid
+L01211,2026-03-01,CMP0085,Paid Search,Enterprise,Santa Fe,600,R002,Paid
+L01212,2025-04-03,CMP0019,Paid Search,SMB Producer,Santa Fe,5000,R004,Paid
+L01213,2026-06-13,CMP0103,Paid Search,SMB Producer,La Pampa,250,R002,Paid
+L01214,2026-02-14,CMP0081,Webinar,Mid-Market Agribusiness,Entre Ríos,600,R001,Owned
+L01215,2025-09-04,CMP0049,Paid Search,Enterprise,Entre Ríos,1200,R004,Paid
+L01216,2025-10-12,CMP0058,Events,SMB Producer,La Pampa,250,R002,Partner
+L01217,2025-03-04,CMP0014,Paid Social,SMB Producer,Santa Fe,1200,R003,Paid
+L01218,2025-08-17,CMP0043,Paid Search,Mid-Market Agribusiness,Entre Ríos,1200,R001,Paid
+L01219,2025-10-24,CMP0056,Paid Social,Mid-Market Agribusiness,Entre Ríos,1200,R004,Paid
+L01220,2026-05-22,CMP0101,Referral,SMB Producer,Entre Ríos,600,R002,Partner
+L01221,2026-01-01,CMP0075,Webinar,Enterprise,La Pampa,600,R001,Owned
+L01222,2025-06-12,CMP0033,Webinar,Mid-Market Agribusiness,Córdoba,5000,R004,Owned
+L01223,2025-09-22,CMP0052,Events,Enterprise,Santa Fe,600,R001,Partner
+L01224,2026-02-19,CMP0082,Events,Mid-Market Agribusiness,Córdoba,5000,R002,Partner
+L01225,2025-05-17,CMP0029,Referral,Enterprise,Entre Ríos,1200,R001,Partner
+L01226,2025-11-19,CMP0066,Organic,SMB Producer,Santa Fe,250,R005,Owned
+L01227,2026-03-14,CMP0087,Webinar,Mid-Market Agribusiness,Córdoba,5000,R001,Owned
+L01228,2025-09-22,CMP0054,Organic,Agronomic Advisor,La Pampa,10000,R005,Owned
+L01229,2025-05-13,CMP0028,Events,Agronomic Advisor,Buenos Aires,600,R004,Partner
+L01230,2025-12-16,CMP0071,Referral,Enterprise,Buenos Aires,250,R004,Partner
+L01231,2025-08-05,CMP0045,Webinar,Mid-Market Agribusiness,Córdoba,10000,R001,Owned
+L01232,2025-06-15,CMP0034,Events,Enterprise,Entre Ríos,250,R005,Partner
+L01233,2026-05-19,CMP0097,Paid Search,Mid-Market Agribusiness,Santa Fe,5000,R001,Paid
+L01234,2025-03-06,CMP0013,Paid Search,SMB Producer,La Pampa,1200,R004,Paid
+L01235,2026-02-21,CMP0082,Events,SMB Producer,Córdoba,20000,R002,Partner
+L01236,2025-09-25,CMP0049,Paid Search,Mid-Market Agribusiness,Córdoba,20000,R001,Paid
+L01237,2025-06-01,CMP0031,Paid Search,SMB Producer,Santa Fe,600,R003,Paid
+L01238,2026-06-21,CMP0106,Events,Mid-Market Agribusiness,Buenos Aires,600,R003,Partner
+L01239,2025-03-01,CMP0016,Events,Enterprise,Santa Fe,10000,R001,Partner
+L01240,2025-05-20,CMP0030,Organic,SMB Producer,Santa Fe,5000,R005,Owned
+L01241,2025-01-02,CMP0003,Webinar,SMB Producer,La Pampa,5000,R002,Owned
+L01242,2025-05-25,CMP0029,Referral,SMB Producer,Buenos Aires,1200,R003,Partner
+L01243,2026-04-16,CMP0091,Paid Search,SMB Producer,Entre Ríos,1200,R003,Paid
+L01244,2025-07-15,CMP0037,Paid Search,Mid-Market Agribusiness,Entre Ríos,2500,R004,Paid
+L01245,2025-11-17,CMP0063,Webinar,Agronomic Advisor,La Pampa,2500,R001,Owned
+L01246,2025-10-08,CMP0058,Events,Mid-Market Agribusiness,La Pampa,2500,R001,Partner
+L01247,2025-08-12,CMP0047,Referral,Agronomic Advisor,Entre Ríos,5000,R005,Partner
+L01248,2025-11-07,CMP0065,Referral,Mid-Market Agribusiness,Buenos Aires,600,R003,Partner
+L01249,2025-01-23,CMP0006,Organic,Mid-Market Agribusiness,Entre Ríos,600,R004,Owned
+L01250,2026-01-09,CMP0075,Webinar,Agronomic Advisor,Entre Ríos,1200,R004,Owned
+L01251,2025-05-11,CMP0026,Paid Social,Mid-Market Agribusiness,Buenos Aires,250,R005,Paid
+L01252,2025-03-11,CMP0014,Paid Social,Enterprise,Buenos Aires,250,R004,Paid
+L01253,2026-04-15,CMP0091,Paid Search,SMB Producer,Buenos Aires,2500,R003,Paid
+L01254,2025-05-05,CMP0027,Webinar,Agronomic Advisor,Buenos Aires,600,R002,Owned
+L01255,2025-08-26,CMP0048,Organic,SMB Producer,Córdoba,5000,R002,Owned
+L01256,2025-05-01,CMP0025,Paid Search,SMB Producer,Santa Fe,10000,R005,Paid
+L01257,2025-12-11,CMP0070,Events,Enterprise,Córdoba,2500,R004,Partner
+L01258,2025-02-18,CMP0012,Organic,Enterprise,Santa Fe,600,R003,Owned
+L01259,2025-03-09,CMP0016,Events,Mid-Market Agribusiness,La Pampa,250,R004,Partner
+L01260,2026-03-21,CMP0085,Paid Search,Mid-Market Agribusiness,Córdoba,250,R001,Paid
+L01261,2025-02-26,CMP0007,Paid Search,SMB Producer,Entre Ríos,2500,R003,Paid
+L01262,2026-06-14,CMP0106,Events,Mid-Market Agribusiness,Santa Fe,1200,R001,Partner
+L01263,2025-11-15,CMP0066,Organic,Mid-Market Agribusiness,La Pampa,1200,R004,Owned
+L01264,2026-04-23,CMP0091,Paid Search,SMB Producer,Entre Ríos,2500,R004,Paid
+L01265,2026-03-03,CMP0087,Webinar,Enterprise,Buenos Aires,1200,R002,Owned
+L01266,2025-06-13,CMP0033,Webinar,Enterprise,Santa Fe,600,R002,Owned
+L01267,2025-08-18,CMP0048,Organic,Mid-Market Agribusiness,Buenos Aires,2500,R001,Owned
+L01268,2026-04-02,CMP0094,Events,SMB Producer,Entre Ríos,1200,R001,Partner
+L01269,2026-05-10,CMP0102,Organic,Mid-Market Agribusiness,Santa Fe,1200,R004,Owned
+L01270,2025-02-24,CMP0012,Organic,Mid-Market Agribusiness,Entre Ríos,600,R004,Owned
+L01271,2025-07-14,CMP0037,Paid Search,Mid-Market Agribusiness,La Pampa,600,R002,Paid
+L01272,2025-12-02,CMP0072,Organic,Mid-Market Agribusiness,Buenos Aires,1200,R003,Owned
+L01273,2025-04-16,CMP0021,Webinar,SMB Producer,La Pampa,600,R004,Owned
+L01274,2026-04-03,CMP0092,Paid Social,Mid-Market Agribusiness,La Pampa,5000,R004,Paid
+L01275,2026-02-15,CMP0083,Referral,Mid-Market Agribusiness,La Pampa,1200,R001,Partner
+L01276,2025-07-02,CMP0038,Paid Social,Mid-Market Agribusiness,Buenos Aires,1200,R002,Paid
+L01277,2025-01-04,CMP0002,Paid Social,Mid-Market Agribusiness,La Pampa,5000,R003,Paid
+L01278,2025-10-06,CMP0060,Organic,SMB Producer,La Pampa,20000,R001,Owned
+L01279,2025-01-06,CMP0004,Events,SMB Producer,La Pampa,2500,R001,Partner
+L01280,2025-07-21,CMP0037,Paid Search,SMB Producer,Buenos Aires,250,R002,Paid
+L01281,2025-11-21,CMP0063,Webinar,Enterprise,Santa Fe,250,R003,Owned
+L01282,2025-05-17,CMP0029,Referral,Mid-Market Agribusiness,Entre Ríos,250,R002,Partner
+L01283,2026-03-08,CMP0090,Organic,SMB Producer,Santa Fe,250,R002,Owned
+L01284,2025-11-26,CMP0066,Organic,SMB Producer,La Pampa,2500,R001,Owned
+L01285,2026-03-14,CMP0087,Webinar,Mid-Market Agribusiness,Entre Ríos,1200,R001,Owned
+L01286,2025-11-25,CMP0063,Webinar,Mid-Market Agribusiness,Entre Ríos,1200,R005,Owned
+L01287,2025-08-06,CMP0045,Webinar,Enterprise,Córdoba,1200,R001,Owned
+L01288,2025-07-08,CMP0040,Events,Mid-Market Agribusiness,Buenos Aires,1200,R001,Partner
+L01289,2025-09-20,CMP0052,Events,Enterprise,La Pampa,1200,R004,Partner
+L01290,2025-06-18,CMP0034,Events,Mid-Market Agribusiness,Santa Fe,2500,R003,Partner
+L01291,2026-02-04,CMP0079,Paid Search,SMB Producer,Santa Fe,1200,R002,Paid
+L01292,2025-12-23,CMP0069,Webinar,Agronomic Advisor,Córdoba,5000,R004,Owned
+L01293,2025-10-19,CMP0060,Organic,Enterprise,Santa Fe,600,R004,Owned
+L01294,2025-06-03,CMP0032,Paid Social,Mid-Market Agribusiness,Buenos Aires,600,R004,Paid
+L01295,2025-12-04,CMP0067,Paid Search,Agronomic Advisor,Buenos Aires,2500,R005,Paid
+L01296,2026-05-13,CMP0099,Webinar,Mid-Market Agribusiness,Buenos Aires,2500,R004,Owned
+L01297,2025-01-20,CMP0006,Organic,Enterprise,La Pampa,1200,R003,Owned
+L01298,2025-12-22,CMP0068,Paid Social,Mid-Market Agribusiness,Entre Ríos,600,R002,Paid
+L01299,2025-02-10,CMP0010,Events,Agronomic Advisor,Entre Ríos,2500,R003,Partner
+L01300,2026-06-04,CMP0106,Events,Mid-Market Agribusiness,Córdoba,250,R004,Partner
+L01301,2025-04-16,CMP0020,Paid Social,Agronomic Advisor,Córdoba,20000,R005,Paid
+L01302,2025-07-13,CMP0040,Events,SMB Producer,Santa Fe,1200,R004,Partner
+L01303,2025-05-17,CMP0026,Paid Social,SMB Producer,Córdoba,600,R005,Paid
+L01304,2026-05-03,CMP0097,Paid Search,Mid-Market Agribusiness,Córdoba,1200,R002,Paid
+L01305,2025-10-13,CMP0055,Paid Search,Mid-Market Agribusiness,La Pampa,2500,R002,Paid
+L01306,2025-11-04,CMP0063,Webinar,SMB Producer,Córdoba,1200,R005,Owned
+L01307,2025-01-20,CMP0002,Paid Social,SMB Producer,La Pampa,250,R005,Paid
+L01308,2025-12-03,CMP0068,Paid Social,Agronomic Advisor,Entre Ríos,10000,R005,Paid
+L01309,2025-08-22,CMP0044,Paid Social,Mid-Market Agribusiness,La Pampa,2500,R003,Paid
+L01310,2025-06-21,CMP0031,Paid Search,SMB Producer,Córdoba,600,R005,Paid
+L01311,2026-05-24,CMP0097,Paid Search,Agronomic Advisor,La Pampa,1200,R004,Paid
+L01312,2025-10-23,CMP0058,Events,Mid-Market Agribusiness,Córdoba,5000,R002,Partner
+L01313,2026-02-22,CMP0083,Referral,Mid-Market Agribusiness,Entre Ríos,5000,R002,Partner
+L01314,2025-11-12,CMP0064,Events,Enterprise,La Pampa,10000,R005,Partner
+L01315,2025-07-03,CMP0040,Events,Mid-Market Agribusiness,Córdoba,5000,R001,Partner
+L01316,2026-03-13,CMP0087,Webinar,SMB Producer,Santa Fe,600,R002,Owned
+L01317,2025-05-03,CMP0030,Organic,Agronomic Advisor,Córdoba,600,R003,Owned
+L01318,2026-02-08,CMP0082,Events,Mid-Market Agribusiness,La Pampa,2500,R001,Partner
+L01319,2026-05-18,CMP0099,Webinar,SMB Producer,Buenos Aires,2500,R005,Owned
+L01320,2025-09-08,CMP0051,Webinar,Mid-Market Agribusiness,Santa Fe,5000,R005,Owned
+L01321,2026-02-27,CMP0082,Events,Agronomic Advisor,La Pampa,2500,R004,Partner
+L01322,2026-06-24,CMP0103,Paid Search,Enterprise,La Pampa,1200,R002,Paid
+L01323,2025-06-04,CMP0033,Webinar,Agronomic Advisor,Córdoba,1200,R002,Owned
+L01324,2025-04-12,CMP0022,Events,SMB Producer,Córdoba,2500,R002,Partner
+L01325,2025-10-15,CMP0055,Paid Search,Mid-Market Agribusiness,Santa Fe,5000,R005,Paid
+L01326,2025-07-23,CMP0038,Paid Social,Mid-Market Agribusiness,Entre Ríos,250,R004,Paid
+L01327,2026-03-21,CMP0085,Paid Search,Enterprise,La Pampa,20000,R001,Paid
+L01328,2026-06-11,CMP0104,Paid Social,SMB Producer,La Pampa,2500,R001,Paid
+L01329,2025-11-03,CMP0061,Paid Search,SMB Producer,Buenos Aires,600,R001,Paid
+L01330,2025-05-07,CMP0030,Organic,Enterprise,Santa Fe,5000,R005,Owned
+L01331,2026-02-25,CMP0080,Paid Social,Enterprise,Entre Ríos,5000,R001,Paid
+L01332,2026-05-06,CMP0100,Events,Agronomic Advisor,Santa Fe,1200,R005,Partner
+L01333,2026-03-07,CMP0085,Paid Search,Mid-Market Agribusiness,Buenos Aires,250,R005,Paid
+L01334,2026-06-11,CMP0103,Paid Search,SMB Producer,La Pampa,20000,R003,Paid
+L01335,2025-07-15,CMP0037,Paid Search,Mid-Market Agribusiness,Buenos Aires,20000,R003,Paid
+L01336,2026-06-26,CMP0104,Paid Social,SMB Producer,Santa Fe,2500,R002,Paid
+L01337,2025-11-18,CMP0062,Paid Social,Agronomic Advisor,La Pampa,250,R004,Paid
+L01338,2025-05-13,CMP0025,Paid Search,SMB Producer,Buenos Aires,2500,R001,Paid
+L01339,2025-02-08,CMP0011,Referral,Agronomic Advisor,Entre Ríos,2500,R001,Partner
+L01340,2025-04-13,CMP0019,Paid Search,Agronomic Advisor,Córdoba,20000,R001,Paid
+L01341,2025-07-12,CMP0038,Paid Social,SMB Producer,Santa Fe,20000,R002,Paid
+L01342,2025-04-27,CMP0020,Paid Social,SMB Producer,Santa Fe,1200,R002,Paid
+L01343,2026-04-26,CMP0091,Paid Search,Mid-Market Agribusiness,Santa Fe,600,R005,Paid
+L01344,2025-01-04,CMP0002,Paid Social,Mid-Market Agribusiness,Buenos Aires,5000,R005,Paid
+L01345,2026-01-10,CMP0078,Organic,Enterprise,Santa Fe,2500,R004,Owned
+L01346,2025-04-11,CMP0020,Paid Social,Enterprise,Santa Fe,1200,R005,Paid
+L01347,2025-05-11,CMP0030,Organic,Agronomic Advisor,Buenos Aires,5000,R002,Owned
+L01348,2026-04-24,CMP0095,Referral,Mid-Market Agribusiness,Córdoba,5000,R001,Partner
+L01349,2026-02-04,CMP0080,Paid Social,SMB Producer,Buenos Aires,1200,R004,Paid
+L01350,2025-11-14,CMP0065,Referral,Mid-Market Agribusiness,La Pampa,600,R004,Partner
+L01351,2025-09-03,CMP0050,Paid Social,SMB Producer,Córdoba,1200,R005,Paid
+L01352,2025-05-23,CMP0028,Events,SMB Producer,Buenos Aires,250,R005,Partner
+L01353,2025-12-05,CMP0069,Webinar,SMB Producer,Córdoba,10000,R003,Owned
+L01354,2025-11-02,CMP0064,Events,Enterprise,Santa Fe,10000,R003,Partner
+L01355,2025-07-24,CMP0040,Events,Mid-Market Agribusiness,Córdoba,1200,R004,Partner
+L01356,2025-01-16,CMP0006,Organic,SMB Producer,Entre Ríos,20000,R005,Owned
+L01357,2025-06-23,CMP0033,Webinar,SMB Producer,Entre Ríos,1200,R003,Owned
+L01358,2025-12-27,CMP0067,Paid Search,SMB Producer,Santa Fe,2500,R003,Paid
+L01359,2025-03-08,CMP0013,Paid Search,SMB Producer,La Pampa,1200,R002,Paid
+L01360,2026-01-11,CMP0077,Referral,Enterprise,Buenos Aires,5000,R001,Partner
+L01361,2025-07-10,CMP0041,Referral,Mid-Market Agribusiness,La Pampa,2500,R001,Partner
+L01362,2026-02-23,CMP0084,Organic,Enterprise,Santa Fe,5000,R002,Owned
+L01363,2026-04-13,CMP0096,Organic,SMB Producer,Buenos Aires,2500,R002,Owned
+L01364,2025-09-12,CMP0052,Events,Agronomic Advisor,La Pampa,1200,R002,Partner
+L01365,2026-01-14,CMP0073,Paid Search,SMB Producer,Santa Fe,1200,R002,Paid
+L01366,2025-10-06,CMP0059,Referral,Mid-Market Agribusiness,La Pampa,250,R002,Partner
+L01367,2025-03-27,CMP0018,Organic,SMB Producer,Entre Ríos,600,R005,Owned
+L01368,2025-08-11,CMP0046,Events,SMB Producer,Córdoba,1200,R005,Partner
+L01369,2025-05-09,CMP0026,Paid Social,Mid-Market Agribusiness,Buenos Aires,2500,R003,Paid
+L01370,2025-05-02,CMP0027,Webinar,Enterprise,Santa Fe,10000,R004,Owned
+L01371,2025-03-07,CMP0018,Organic,Enterprise,La Pampa,1200,R002,Owned
+L01372,2025-07-15,CMP0037,Paid Search,Mid-Market Agribusiness,Entre Ríos,1200,R004,Paid
+L01373,2025-10-25,CMP0055,Paid Search,Mid-Market Agribusiness,Buenos Aires,1200,R005,Paid
+L01374,2026-03-27,CMP0088,Events,Enterprise,La Pampa,250,R005,Partner
+L01375,2026-01-26,CMP0076,Events,SMB Producer,Córdoba,600,R003,Partner
+L01376,2025-04-22,CMP0021,Webinar,Mid-Market Agribusiness,Buenos Aires,250,R004,Owned
+L01377,2025-01-24,CMP0002,Paid Social,Agronomic Advisor,Buenos Aires,1200,R001,Paid
+L01378,2025-04-18,CMP0019,Paid Search,Mid-Market Agribusiness,Córdoba,5000,R005,Paid
+L01379,2025-07-23,CMP0040,Events,Enterprise,Santa Fe,2500,R001,Partner
+L01380,2025-06-19,CMP0034,Events,Mid-Market Agribusiness,Entre Ríos,20000,R001,Partner
+L01381,2026-04-23,CMP0091,Paid Search,Mid-Market Agribusiness,La Pampa,2500,R003,Paid
+L01382,2025-10-10,CMP0060,Organic,Mid-Market Agribusiness,La Pampa,250,R002,Owned
+L01383,2025-09-25,CMP0054,Organic,SMB Producer,La Pampa,10000,R003,Owned
+L01384,2026-03-06,CMP0087,Webinar,Mid-Market Agribusiness,Buenos Aires,250,R005,Owned
+L01385,2025-06-10,CMP0034,Events,Mid-Market Agribusiness,Entre Ríos,5000,R003,Partner
+L01386,2026-05-25,CMP0097,Paid Search,Enterprise,Córdoba,5000,R001,Paid
+L01387,2025-08-15,CMP0046,Events,Enterprise,La Pampa,2500,R001,Partner
+L01388,2025-02-21,CMP0007,Paid Search,Agronomic Advisor,Buenos Aires,10000,R002,Paid
+L01389,2026-03-09,CMP0085,Paid Search,SMB Producer,Santa Fe,1200,R002,Paid
+L01390,2025-05-22,CMP0029,Referral,Mid-Market Agribusiness,Buenos Aires,20000,R004,Partner
+L01391,2026-01-17,CMP0073,Paid Search,Mid-Market Agribusiness,Entre Ríos,1200,R004,Paid
+L01392,2025-12-26,CMP0072,Organic,Mid-Market Agribusiness,Santa Fe,1200,R001,Owned
+L01393,2025-02-21,CMP0011,Referral,Mid-Market Agribusiness,Buenos Aires,1200,R003,Partner
+L01394,2025-06-20,CMP0032,Paid Social,SMB Producer,La Pampa,600,R005,Paid
+L01395,2026-04-01,CMP0096,Organic,SMB Producer,Santa Fe,250,R004,Owned
+L01396,2025-01-27,CMP0002,Paid Social,Enterprise,Entre Ríos,1200,R001,Paid
+L01397,2026-06-04,CMP0105,Webinar,Mid-Market Agribusiness,Córdoba,600,R001,Owned
+L01398,2026-04-08,CMP0092,Paid Social,Mid-Market Agribusiness,La Pampa,10000,R001,Paid
+L01399,2025-12-01,CMP0069,Webinar,Agronomic Advisor,Buenos Aires,2500,R003,Owned
+L01400,2025-06-07,CMP0036,Organic,SMB Producer,Buenos Aires,2500,R001,Owned
+L01401,2025-07-16,CMP0039,Webinar,SMB Producer,Córdoba,250,R004,Owned
+L01402,2025-03-19,CMP0018,Organic,Mid-Market Agribusiness,Santa Fe,1200,R005,Owned
+L01403,2026-01-01,CMP0073,Paid Search,Mid-Market Agribusiness,Córdoba,1200,R004,Paid
+L01404,2026-02-10,CMP0084,Organic,SMB Producer,Entre Ríos,250,R005,Owned
+L01405,2025-04-12,CMP0023,Referral,Agronomic Advisor,Entre Ríos,600,R001,Partner
+L01406,2026-04-02,CMP0093,Webinar,Mid-Market Agribusiness,Entre Ríos,600,R001,Owned
+L01407,2025-02-12,CMP0012,Organic,Mid-Market Agribusiness,Santa Fe,1200,R004,Owned
+L01408,2025-07-06,CMP0042,Organic,SMB Producer,Buenos Aires,5000,R003,Owned
+L01409,2025-10-13,CMP0055,Paid Search,SMB Producer,Buenos Aires,600,R002,Paid
+L01410,2025-01-07,CMP0001,Paid Search,Enterprise,La Pampa,10000,R003,Paid
+L01411,2025-08-17,CMP0044,Paid Social,Enterprise,Entre Ríos,2500,R002,Paid
+L01412,2025-05-21,CMP0026,Paid Social,Mid-Market Agribusiness,Santa Fe,250,R001,Paid
+L01413,2026-06-25,CMP0106,Events,SMB Producer,Santa Fe,5000,R002,Partner
+L01414,2026-02-05,CMP0079,Paid Search,Mid-Market Agribusiness,Santa Fe,5000,R003,Paid
+L01415,2025-04-20,CMP0024,Organic,SMB Producer,Santa Fe,250,R003,Owned
+L01416,2025-04-19,CMP0020,Paid Social,Enterprise,Santa Fe,600,R004,Paid
+L01417,2026-06-09,CMP0103,Paid Search,Agronomic Advisor,Santa Fe,5000,R003,Paid
+L01418,2025-12-18,CMP0070,Events,SMB Producer,Buenos Aires,1200,R005,Partner
+L01419,2025-02-03,CMP0008,Paid Social,Agronomic Advisor,Córdoba,10000,R004,Paid
+L01420,2026-03-20,CMP0088,Events,SMB Producer,Buenos Aires,2500,R004,Partner
+L01421,2025-12-17,CMP0068,Paid Social,Mid-Market Agribusiness,Santa Fe,600,R004,Paid
+L01422,2025-06-03,CMP0032,Paid Social,Agronomic Advisor,La Pampa,2500,R003,Paid
+L01423,2026-02-23,CMP0083,Referral,Mid-Market Agribusiness,Buenos Aires,1200,R001,Partner
+L01424,2025-11-16,CMP0061,Paid Search,Agronomic Advisor,Entre Ríos,250,R004,Paid
+L01425,2025-04-26,CMP0019,Paid Search,Mid-Market Agribusiness,La Pampa,600,R005,Paid
+L01426,2026-03-23,CMP0086,Paid Social,Mid-Market Agribusiness,Santa Fe,2500,R001,Paid
+L01427,2025-09-10,CMP0050,Paid Social,Agronomic Advisor,Santa Fe,1200,R002,Paid
+L01428,2026-05-05,CMP0099,Webinar,SMB Producer,La Pampa,5000,R002,Owned
+L01429,2025-05-13,CMP0025,Paid Search,SMB Producer,Buenos Aires,10000,R003,Paid
+L01430,2026-06-03,CMP0107,Referral,Agronomic Advisor,Buenos Aires,5000,R005,Partner
+L01431,2025-06-15,CMP0033,Webinar,SMB Producer,La Pampa,1200,R003,Owned
+L01432,2026-02-10,CMP0079,Paid Search,Mid-Market Agribusiness,Santa Fe,5000,R002,Paid
+L01433,2026-06-21,CMP0107,Referral,Mid-Market Agribusiness,La Pampa,2500,R004,Partner
+L01434,2025-10-19,CMP0055,Paid Search,Enterprise,La Pampa,1200,R001,Paid
+L01435,2026-04-25,CMP0094,Events,SMB Producer,Córdoba,250,R003,Partner
+L01436,2025-07-26,CMP0039,Webinar,SMB Producer,Buenos Aires,600,R003,Owned
+L01437,2026-03-20,CMP0089,Referral,SMB Producer,Córdoba,250,R004,Partner
+L01438,2025-02-19,CMP0008,Paid Social,SMB Producer,Buenos Aires,20000,R004,Paid
+L01439,2025-10-03,CMP0059,Referral,SMB Producer,Buenos Aires,10000,R004,Partner
+L01440,2025-07-07,CMP0040,Events,Mid-Market Agribusiness,Entre Ríos,1200,R003,Partner
+L01441,2025-10-08,CMP0055,Paid Search,SMB Producer,Buenos Aires,10000,R003,Paid
+L01442,2026-01-18,CMP0074,Paid Social,Enterprise,Córdoba,10000,R001,Paid
+L01443,2025-06-17,CMP0032,Paid Social,Agronomic Advisor,Entre Ríos,10000,R001,Paid
+L01444,2025-06-02,CMP0031,Paid Search,SMB Producer,Santa Fe,10000,R005,Paid
+L01445,2025-01-04,CMP0004,Events,Agronomic Advisor,Entre Ríos,2500,R001,Partner
+L01446,2026-06-06,CMP0103,Paid Search,SMB Producer,Córdoba,20000,R003,Paid
+L01447,2026-05-20,CMP0097,Paid Search,Mid-Market Agribusiness,Buenos Aires,600,R004,Paid
+L01448,2026-04-25,CMP0091,Paid Search,Mid-Market Agribusiness,La Pampa,1200,R001,Paid
+L01449,2025-03-20,CMP0018,Organic,Mid-Market Agribusiness,La Pampa,1200,R004,Owned
+L01450,2026-05-01,CMP0101,Referral,Mid-Market Agribusiness,Entre Ríos,10000,R004,Partner
+L01451,2025-06-14,CMP0034,Events,Mid-Market Agribusiness,Santa Fe,20000,R001,Partner
+L01452,2026-06-12,CMP0105,Webinar,Agronomic Advisor,Santa Fe,20000,R004,Owned
+L01453,2026-03-11,CMP0085,Paid Search,Agronomic Advisor,Córdoba,5000,R001,Paid
+L01454,2026-02-11,CMP0082,Events,Mid-Market Agribusiness,Santa Fe,5000,R002,Partner
+L01455,2025-06-05,CMP0034,Events,Enterprise,La Pampa,1200,R002,Partner
+L01456,2026-02-19,CMP0079,Paid Search,Mid-Market Agribusiness,Buenos Aires,250,R001,Paid
+L01457,2026-06-26,CMP0108,Organic,Enterprise,Buenos Aires,1200,R003,Owned
+L01458,2026-01-17,CMP0078,Organic,SMB Producer,Santa Fe,250,R004,Owned
+L01459,2025-09-15,CMP0054,Organic,Mid-Market Agribusiness,Santa Fe,250,R004,Owned
+L01460,2026-05-17,CMP0098,Paid Social,Enterprise,La Pampa,600,R003,Paid
+L01461,2025-02-27,CMP0008,Paid Social,Enterprise,Córdoba,5000,R005,Paid
+L01462,2025-05-27,CMP0027,Webinar,SMB Producer,Buenos Aires,5000,R002,Owned
+L01463,2026-03-05,CMP0089,Referral,Mid-Market Agribusiness,Buenos Aires,1200,R001,Partner
+L01464,2026-06-19,CMP0106,Events,SMB Producer,Entre Ríos,1200,R004,Partner
+L01465,2026-02-12,CMP0080,Paid Social,Mid-Market Agribusiness,La Pampa,20000,R002,Paid
+L01466,2025-04-17,CMP0024,Organic,Mid-Market Agribusiness,Santa Fe,2500,R002,Owned
+L01467,2025-05-06,CMP0030,Organic,Agronomic Advisor,Entre Ríos,20000,R004,Owned
+L01468,2026-01-15,CMP0075,Webinar,SMB Producer,Entre Ríos,5000,R004,Owned
+L01469,2025-09-18,CMP0052,Events,Mid-Market Agribusiness,Córdoba,250,R001,Partner
+L01470,2025-08-26,CMP0044,Paid Social,SMB Producer,Córdoba,2500,R002,Paid
+L01471,2025-06-06,CMP0035,Referral,Mid-Market Agribusiness,Buenos Aires,600,R001,Partner
+L01472,2025-10-25,CMP0057,Webinar,Mid-Market Agribusiness,La Pampa,1200,R001,Owned
+L01473,2025-04-16,CMP0021,Webinar,Mid-Market Agribusiness,Córdoba,1200,R002,Owned
+L01474,2026-03-08,CMP0087,Webinar,SMB Producer,Córdoba,250,R001,Owned
+L01475,2025-10-21,CMP0059,Referral,Mid-Market Agribusiness,La Pampa,600,R003,Partner
+L01476,2026-04-16,CMP0091,Paid Search,Enterprise,Córdoba,1200,R005,Paid
+L01477,2025-03-25,CMP0014,Paid Social,SMB Producer,La Pampa,2500,R005,Paid
+L01478,2025-08-17,CMP0044,Paid Social,Enterprise,Córdoba,1200,R003,Paid
+L01479,2026-02-07,CMP0081,Webinar,Mid-Market Agribusiness,Buenos Aires,1200,R004,Owned
+L01480,2025-09-18,CMP0053,Referral,Enterprise,Entre Ríos,2500,R001,Partner
+L01481,2025-10-01,CMP0058,Events,Enterprise,Córdoba,5000,R004,Partner
+L01482,2025-05-16,CMP0030,Organic,Mid-Market Agribusiness,Entre Ríos,10000,R003,Owned
+L01483,2025-03-08,CMP0013,Paid Search,Mid-Market Agribusiness,Córdoba,1200,R004,Paid
+L01484,2026-05-19,CMP0098,Paid Social,Mid-Market Agribusiness,Córdoba,250,R005,Paid
+L01485,2026-02-08,CMP0080,Paid Social,Enterprise,Entre Ríos,250,R002,Paid
+L01486,2025-02-19,CMP0007,Paid Search,Enterprise,Entre Ríos,1200,R003,Paid
+L01487,2025-04-18,CMP0024,Organic,Enterprise,Córdoba,5000,R002,Owned
+L01488,2025-06-25,CMP0033,Webinar,Mid-Market Agribusiness,Córdoba,20000,R003,Owned
+L01489,2026-01-19,CMP0077,Referral,SMB Producer,Santa Fe,2500,R001,Partner
+L01490,2025-10-22,CMP0055,Paid Search,Mid-Market Agribusiness,Santa Fe,5000,R001,Paid
+L01491,2025-05-02,CMP0030,Organic,SMB Producer,Córdoba,600,R004,Owned
+L01492,2026-03-19,CMP0086,Paid Social,SMB Producer,Santa Fe,2500,R003,Paid
+L01493,2026-03-08,CMP0086,Paid Social,SMB Producer,Entre Ríos,600,R005,Paid
+L01494,2025-11-17,CMP0064,Events,Mid-Market Agribusiness,Córdoba,1200,R001,Partner
+L01495,2025-10-10,CMP0058,Events,Mid-Market Agribusiness,Entre Ríos,2500,R004,Partner
+L01496,2025-11-12,CMP0062,Paid Social,Agronomic Advisor,Córdoba,600,R005,Paid
+L01497,2026-03-11,CMP0085,Paid Search,SMB Producer,Entre Ríos,20000,R003,Paid
+L01498,2026-01-12,CMP0073,Paid Search,Mid-Market Agribusiness,La Pampa,1200,R002,Paid
+L01499,2025-05-10,CMP0028,Events,SMB Producer,La Pampa,10000,R003,Partner
+L01500,2025-05-13,CMP0025,Paid Search,SMB Producer,Santa Fe,600,R001,Paid
+L01501,2025-10-13,CMP0056,Paid Social,Enterprise,Córdoba,2500,R004,Paid
+L01502,2026-04-25,CMP0094,Events,SMB Producer,Santa Fe,5000,R002,Partner
+L01503,2025-04-21,CMP0020,Paid Social,Enterprise,Entre Ríos,2500,R005,Paid
+L01504,2025-01-25,CMP0001,Paid Search,Enterprise,Santa Fe,1200,R002,Paid
+L01505,2025-01-23,CMP0001,Paid Search,Enterprise,Santa Fe,250,R005,Paid
+L01506,2025-01-23,CMP0002,Paid Social,Mid-Market Agribusiness,Buenos Aires,600,R001,Paid
+L01507,2025-12-02,CMP0071,Referral,Agronomic Advisor,Entre Ríos,600,R003,Partner
+L01508,2025-01-20,CMP0002,Paid Social,SMB Producer,La Pampa,1200,R004,Paid
+L01509,2025-06-08,CMP0031,Paid Search,Mid-Market Agribusiness,La Pampa,2500,R003,Paid
+L01510,2026-05-19,CMP0097,Paid Search,Mid-Market Agribusiness,Buenos Aires,2500,R003,Paid
+L01511,2025-11-21,CMP0061,Paid Search,SMB Producer,Entre Ríos,1200,R004,Paid
+L01512,2025-12-11,CMP0072,Organic,Agronomic Advisor,La Pampa,600,R002,Owned
+L01513,2025-12-01,CMP0071,Referral,Mid-Market Agribusiness,Santa Fe,20000,R001,Partner
+L01514,2025-03-12,CMP0014,Paid Social,Agronomic Advisor,Entre Ríos,20000,R004,Paid
+L01515,2026-04-23,CMP0091,Paid Search,Mid-Market Agribusiness,Entre Ríos,2500,R004,Paid
+L01516,2025-08-26,CMP0047,Referral,Enterprise,Santa Fe,600,R002,Partner
+L01517,2025-04-06,CMP0021,Webinar,Enterprise,Buenos Aires,600,R001,Owned
+L01518,2025-11-22,CMP0061,Paid Search,Mid-Market Agribusiness,Buenos Aires,1200,R001,Paid
+L01519,2025-04-02,CMP0019,Paid Search,Mid-Market Agribusiness,Córdoba,600,R004,Paid
+L01520,2025-07-06,CMP0040,Events,Mid-Market Agribusiness,Santa Fe,600,R004,Partner
+L01521,2026-05-24,CMP0098,Paid Social,Agronomic Advisor,Córdoba,2500,R004,Paid
+L01522,2025-12-01,CMP0072,Organic,Enterprise,Buenos Aires,2500,R002,Owned
+L01523,2025-07-12,CMP0038,Paid Social,Agronomic Advisor,Buenos Aires,600,R002,Paid
+L01524,2025-05-25,CMP0028,Events,SMB Producer,La Pampa,5000,R004,Partner
+L01525,2025-10-22,CMP0059,Referral,SMB Producer,Buenos Aires,2500,R002,Partner
+L01526,2025-03-20,CMP0015,Webinar,Enterprise,Buenos Aires,10000,R005,Owned
+L01527,2026-04-12,CMP0096,Organic,Mid-Market Agribusiness,Entre Ríos,1200,R001,Owned
+L01528,2026-05-11,CMP0102,Organic,Enterprise,Entre Ríos,600,R005,Owned
+L01529,2026-06-23,CMP0108,Organic,Enterprise,La Pampa,2500,R005,Owned
+L01530,2026-05-10,CMP0097,Paid Search,SMB Producer,Entre Ríos,1200,R002,Paid
+L01531,2025-03-06,CMP0015,Webinar,Agronomic Advisor,Córdoba,2500,R001,Owned
+L01532,2026-05-11,CMP0098,Paid Social,Enterprise,Buenos Aires,2500,R003,Paid
+L01533,2025-10-11,CMP0059,Referral,Mid-Market Agribusiness,Entre Ríos,20000,R003,Partner
+L01534,2026-01-03,CMP0076,Events,SMB Producer,Córdoba,600,R003,Partner
+L01535,2026-02-09,CMP0082,Events,Mid-Market Agribusiness,Córdoba,600,R003,Partner
+L01536,2025-05-03,CMP0030,Organic,SMB Producer,Santa Fe,1200,R004,Owned
+L01537,2025-07-09,CMP0040,Events,Mid-Market Agribusiness,Entre Ríos,2500,R004,Partner
+L01538,2025-07-22,CMP0039,Webinar,SMB Producer,Córdoba,5000,R004,Owned
+L01539,2025-08-26,CMP0045,Webinar,Enterprise,Buenos Aires,600,R001,Owned
+L01540,2025-08-24,CMP0047,Referral,Agronomic Advisor,Santa Fe,600,R004,Partner
+L01541,2026-01-09,CMP0078,Organic,Enterprise,Santa Fe,1200,R002,Owned
+L01542,2026-02-21,CMP0084,Organic,Agronomic Advisor,La Pampa,2500,R001,Owned
+L01543,2025-11-25,CMP0062,Paid Social,Agronomic Advisor,La Pampa,2500,R001,Paid
+L01544,2025-05-17,CMP0027,Webinar,Agronomic Advisor,La Pampa,600,R001,Owned
+L01545,2025-03-24,CMP0014,Paid Social,Agronomic Advisor,Buenos Aires,1200,R001,Paid
+L01546,2025-10-10,CMP0055,Paid Search,Agronomic Advisor,Santa Fe,1200,R004,Paid
+L01547,2025-01-14,CMP0002,Paid Social,Agronomic Advisor,Entre Ríos,600,R004,Paid
+L01548,2025-12-18,CMP0067,Paid Search,SMB Producer,Santa Fe,5000,R005,Paid
+L01549,2026-05-16,CMP0097,Paid Search,SMB Producer,Santa Fe,1200,R004,Paid
+L01550,2025-02-24,CMP0008,Paid Social,SMB Producer,Entre Ríos,5000,R003,Paid
+L01551,2025-02-10,CMP0009,Webinar,Agronomic Advisor,Santa Fe,600,R004,Owned
+L01552,2025-04-01,CMP0023,Referral,Enterprise,La Pampa,250,R004,Partner
+L01553,2025-05-06,CMP0029,Referral,Mid-Market Agribusiness,La Pampa,600,R004,Partner
+L01554,2025-05-05,CMP0030,Organic,SMB Producer,La Pampa,10000,R002,Owned
+L01555,2025-11-07,CMP0062,Paid Social,Enterprise,Córdoba,1200,R005,Paid
+L01556,2025-11-24,CMP0064,Events,Agronomic Advisor,Buenos Aires,1200,R003,Partner
+L01557,2025-08-06,CMP0046,Events,Mid-Market Agribusiness,La Pampa,2500,R005,Partner
+L01558,2026-05-06,CMP0101,Referral,SMB Producer,Entre Ríos,1200,R002,Partner
+L01559,2025-10-12,CMP0055,Paid Search,SMB Producer,La Pampa,600,R002,Paid
+L01560,2025-05-19,CMP0026,Paid Social,Mid-Market Agribusiness,Córdoba,2500,R005,Paid
+L01561,2025-05-04,CMP0025,Paid Search,SMB Producer,Entre Ríos,1200,R002,Paid
+L01562,2025-10-15,CMP0058,Events,Mid-Market Agribusiness,Entre Ríos,20000,R002,Partner
+L01563,2026-04-21,CMP0091,Paid Search,Mid-Market Agribusiness,Córdoba,1200,R003,Paid
+L01564,2025-10-09,CMP0055,Paid Search,Mid-Market Agribusiness,Córdoba,2500,R004,Paid
+L01565,2026-01-25,CMP0078,Organic,Mid-Market Agribusiness,Córdoba,20000,R004,Owned
+L01566,2026-01-05,CMP0076,Events,SMB Producer,Santa Fe,10000,R004,Partner
+L01567,2025-12-21,CMP0070,Events,Mid-Market Agribusiness,Santa Fe,600,R005,Partner
+L01568,2026-02-07,CMP0081,Webinar,Mid-Market Agribusiness,Buenos Aires,10000,R005,Owned
+L01569,2025-07-14,CMP0038,Paid Social,Enterprise,La Pampa,2500,R005,Paid
+L01570,2026-04-17,CMP0091,Paid Search,Agronomic Advisor,Entre Ríos,1200,R004,Paid
+L01571,2025-12-13,CMP0067,Paid Search,SMB Producer,Santa Fe,250,R001,Paid
+L01572,2026-06-19,CMP0104,Paid Social,SMB Producer,Santa Fe,1200,R004,Paid
+L01573,2025-08-23,CMP0044,Paid Social,Agronomic Advisor,La Pampa,1200,R001,Paid
+L01574,2026-06-23,CMP0106,Events,SMB Producer,La Pampa,250,R004,Partner
+L01575,2026-04-04,CMP0094,Events,Enterprise,Santa Fe,1200,R005,Partner
+L01576,2026-03-03,CMP0086,Paid Social,SMB Producer,Entre Ríos,600,R005,Paid
+L01577,2026-01-01,CMP0073,Paid Search,Mid-Market Agribusiness,Entre Ríos,600,R003,Paid
+L01578,2025-04-09,CMP0024,Organic,Agronomic Advisor,La Pampa,250,R005,Owned
+L01579,2026-05-16,CMP0099,Webinar,Mid-Market Agribusiness,La Pampa,250,R001,Owned
+L01580,2026-06-08,CMP0108,Organic,Agronomic Advisor,Córdoba,600,R003,Owned
+L01581,2025-03-14,CMP0013,Paid Search,SMB Producer,Córdoba,1200,R001,Paid
+L01582,2025-03-17,CMP0017,Referral,Enterprise,Entre Ríos,600,R003,Partner
+L01583,2026-02-18,CMP0080,Paid Social,Mid-Market Agribusiness,La Pampa,1200,R001,Paid
+L01584,2025-02-12,CMP0011,Referral,Mid-Market Agribusiness,Entre Ríos,20000,R004,Partner
+L01585,2026-05-18,CMP0097,Paid Search,Mid-Market Agribusiness,La Pampa,1200,R002,Paid
+L01586,2025-03-20,CMP0018,Organic,SMB Producer,La Pampa,1200,R005,Owned
+L01587,2025-08-21,CMP0047,Referral,SMB Producer,Entre Ríos,1200,R001,Partner
+L01588,2025-11-03,CMP0062,Paid Social,SMB Producer,Santa Fe,600,R001,Paid
+L01589,2025-08-02,CMP0048,Organic,SMB Producer,Córdoba,5000,R005,Owned
+L01590,2026-06-21,CMP0105,Webinar,Enterprise,Buenos Aires,1200,R005,Owned
+L01591,2026-01-26,CMP0074,Paid Social,Mid-Market Agribusiness,Buenos Aires,2500,R001,Paid
+L01592,2025-08-16,CMP0043,Paid Search,Enterprise,Santa Fe,250,R003,Paid
+L01593,2026-01-18,CMP0076,Events,Agronomic Advisor,Córdoba,10000,R002,Partner
+L01594,2025-06-05,CMP0031,Paid Search,SMB Producer,Córdoba,2500,R002,Paid
+L01595,2026-05-21,CMP0102,Organic,Mid-Market Agribusiness,Córdoba,250,R001,Owned
+L01596,2025-10-22,CMP0055,Paid Search,Enterprise,Entre Ríos,600,R005,Paid
+L01597,2026-01-18,CMP0075,Webinar,Mid-Market Agribusiness,Entre Ríos,600,R001,Owned
+L01598,2025-12-19,CMP0067,Paid Search,SMB Producer,Santa Fe,2500,R002,Paid
+L01599,2026-03-03,CMP0085,Paid Search,Enterprise,Santa Fe,600,R002,Paid
+L01600,2025-11-25,CMP0064,Events,Enterprise,Córdoba,1200,R002,Partner
+L01601,2025-12-06,CMP0067,Paid Search,SMB Producer,Buenos Aires,10000,R003,Paid
+L01602,2026-04-20,CMP0095,Referral,Mid-Market Agribusiness,Buenos Aires,5000,R001,Partner
+L01603,2026-01-12,CMP0073,Paid Search,SMB Producer,Entre Ríos,600,R004,Paid
+L01604,2026-05-12,CMP0099,Webinar,Mid-Market Agribusiness,Córdoba,20000,R005,Owned
+L01605,2025-03-15,CMP0017,Referral,SMB Producer,Córdoba,1200,R003,Partner
+L01606,2025-10-24,CMP0055,Paid Search,Mid-Market Agribusiness,Santa Fe,2500,R002,Paid
+L01607,2026-02-12,CMP0083,Referral,Mid-Market Agribusiness,Santa Fe,1200,R001,Partner
+L01608,2025-11-23,CMP0061,Paid Search,SMB Producer,Córdoba,1200,R001,Paid
+L01609,2026-06-16,CMP0106,Events,Mid-Market Agribusiness,Santa Fe,2500,R001,Partner
+L01610,2025-08-02,CMP0045,Webinar,SMB Producer,La Pampa,2500,R004,Owned
+L01611,2025-10-24,CMP0059,Referral,Enterprise,Entre Ríos,1200,R004,Partner
+L01612,2025-04-15,CMP0022,Events,Agronomic Advisor,Entre Ríos,5000,R002,Partner
+L01613,2025-04-24,CMP0022,Events,Enterprise,Entre Ríos,2500,R001,Partner
+L01614,2025-10-18,CMP0058,Events,SMB Producer,Córdoba,5000,R004,Partner
+L01615,2026-05-05,CMP0102,Organic,SMB Producer,Córdoba,600,R001,Owned
+L01616,2026-04-18,CMP0094,Events,Mid-Market Agribusiness,Entre Ríos,2500,R003,Partner
+L01617,2026-03-16,CMP0085,Paid Search,Mid-Market Agribusiness,Entre Ríos,250,R002,Paid
+L01618,2025-01-13,CMP0006,Organic,Enterprise,La Pampa,5000,R002,Owned
+L01619,2025-08-12,CMP0047,Referral,SMB Producer,Entre Ríos,5000,R004,Partner
+L01620,2025-06-13,CMP0032,Paid Social,Enterprise,Santa Fe,250,R001,Paid
+L01621,2025-08-08,CMP0046,Events,Enterprise,Buenos Aires,10000,R003,Partner
+L01622,2025-02-08,CMP0007,Paid Search,SMB Producer,Entre Ríos,250,R002,Paid
+L01623,2026-06-15,CMP0108,Organic,Mid-Market Agribusiness,La Pampa,10000,R003,Owned
+L01624,2025-12-10,CMP0070,Events,Mid-Market Agribusiness,Entre Ríos,1200,R001,Partner
+L01625,2025-08-19,CMP0045,Webinar,Mid-Market Agribusiness,Santa Fe,1200,R002,Owned
+L01626,2026-03-22,CMP0086,Paid Social,SMB Producer,Buenos Aires,600,R003,Paid
+L01627,2026-03-02,CMP0087,Webinar,Enterprise,Córdoba,250,R005,Owned
+L01628,2025-04-22,CMP0023,Referral,Enterprise,Santa Fe,5000,R003,Partner
+L01629,2026-05-08,CMP0097,Paid Search,Enterprise,La Pampa,600,R003,Paid
+L01630,2026-05-01,CMP0098,Paid Social,Mid-Market Agribusiness,Entre Ríos,2500,R001,Paid
+L01631,2025-03-02,CMP0018,Organic,SMB Producer,Santa Fe,250,R005,Owned
+L01632,2026-02-24,CMP0079,Paid Search,Enterprise,Santa Fe,600,R002,Paid
+L01633,2025-11-07,CMP0062,Paid Social,Enterprise,Entre Ríos,600,R002,Paid
+L01634,2025-10-08,CMP0057,Webinar,Mid-Market Agribusiness,Entre Ríos,2500,R004,Owned
+L01635,2026-05-27,CMP0097,Paid Search,SMB Producer,Santa Fe,2500,R002,Paid
+L01636,2025-07-14,CMP0042,Organic,SMB Producer,Santa Fe,5000,R001,Owned
+L01637,2026-03-26,CMP0088,Events,SMB Producer,La Pampa,2500,R003,Partner
+L01638,2025-01-27,CMP0001,Paid Search,Enterprise,Entre Ríos,600,R005,Paid
+L01639,2025-03-21,CMP0018,Organic,SMB Producer,Buenos Aires,600,R003,Owned
+L01640,2025-01-27,CMP0002,Paid Social,Mid-Market Agribusiness,Entre Ríos,1200,R005,Paid
+L01641,2026-02-25,CMP0081,Webinar,Mid-Market Agribusiness,La Pampa,2500,R002,Owned
+L01642,2025-12-16,CMP0071,Referral,Enterprise,La Pampa,600,R002,Partner
+L01643,2026-01-13,CMP0077,Referral,Enterprise,Córdoba,1200,R003,Partner
+L01644,2025-05-05,CMP0030,Organic,Mid-Market Agribusiness,Córdoba,1200,R004,Owned
+L01645,2026-05-23,CMP0099,Webinar,Enterprise,La Pampa,2500,R004,Owned
+L01646,2026-05-14,CMP0101,Referral,Agronomic Advisor,Santa Fe,2500,R004,Partner
+L01647,2025-01-08,CMP0002,Paid Social,SMB Producer,La Pampa,2500,R001,Paid
+L01648,2025-07-09,CMP0039,Webinar,Enterprise,Buenos Aires,1200,R003,Owned
+L01649,2025-03-16,CMP0015,Webinar,Mid-Market Agribusiness,Santa Fe,2500,R003,Owned
+L01650,2025-01-10,CMP0006,Organic,SMB Producer,Santa Fe,5000,R005,Owned
+L01651,2025-12-18,CMP0070,Events,Mid-Market Agribusiness,Santa Fe,2500,R004,Partner
+L01652,2025-01-10,CMP0002,Paid Social,Mid-Market Agribusiness,Entre Ríos,1200,R005,Paid
+L01653,2025-05-18,CMP0029,Referral,SMB Producer,Córdoba,600,R001,Partner
+L01654,2026-02-24,CMP0082,Events,SMB Producer,Buenos Aires,2500,R004,Partner
+L01655,2025-11-23,CMP0064,Events,Enterprise,Buenos Aires,10000,R001,Partner
+L01656,2025-11-18,CMP0061,Paid Search,Mid-Market Agribusiness,La Pampa,250,R005,Paid
+L01657,2025-06-07,CMP0036,Organic,Enterprise,Santa Fe,1200,R002,Owned
+L01658,2025-10-25,CMP0055,Paid Search,SMB Producer,La Pampa,1200,R004,Paid
+L01659,2025-05-01,CMP0026,Paid Social,SMB Producer,Santa Fe,600,R003,Paid
+L01660,2026-06-06,CMP0103,Paid Search,SMB Producer,Córdoba,1200,R004,Paid
+L01661,2026-01-12,CMP0074,Paid Social,Mid-Market Agribusiness,Santa Fe,1200,R004,Paid
+L01662,2026-06-12,CMP0108,Organic,Mid-Market Agribusiness,Buenos Aires,600,R001,Owned
+L01663,2025-04-02,CMP0021,Webinar,Mid-Market Agribusiness,Santa Fe,600,R002,Owned
+L01664,2025-06-10,CMP0036,Organic,SMB Producer,Entre Ríos,2500,R003,Owned
+L01665,2025-09-08,CMP0052,Events,Agronomic Advisor,Santa Fe,250,R001,Partner
+L01666,2025-07-13,CMP0042,Organic,SMB Producer,Buenos Aires,5000,R001,Owned
+L01667,2026-02-23,CMP0082,Events,Enterprise,La Pampa,600,R002,Partner
+L01668,2025-11-09,CMP0065,Referral,SMB Producer,Entre Ríos,600,R003,Partner
+L01669,2026-03-05,CMP0086,Paid Social,Enterprise,Buenos Aires,1200,R003,Paid
+L01670,2025-06-19,CMP0031,Paid Search,Enterprise,Buenos Aires,1200,R002,Paid
+L01671,2025-03-15,CMP0014,Paid Social,SMB Producer,Buenos Aires,600,R002,Paid
+L01672,2025-10-19,CMP0055,Paid Search,Mid-Market Agribusiness,Córdoba,1200,R003,Paid
+L01673,2025-03-17,CMP0013,Paid Search,Mid-Market Agribusiness,Buenos Aires,2500,R003,Paid
+L01674,2025-03-03,CMP0017,Referral,SMB Producer,La Pampa,250,R002,Partner
+L01675,2025-04-03,CMP0019,Paid Search,SMB Producer,Santa Fe,5000,R002,Paid
+L01676,2025-09-08,CMP0052,Events,Mid-Market Agribusiness,La Pampa,10000,R005,Partner
+L01677,2026-06-03,CMP0104,Paid Social,Mid-Market Agribusiness,Buenos Aires,600,R001,Paid
+L01678,2025-10-21,CMP0056,Paid Social,Enterprise,Santa Fe,600,R004,Paid
+L01679,2025-10-02,CMP0056,Paid Social,Mid-Market Agribusiness,La Pampa,250,R004,Paid
+L01680,2025-12-20,CMP0067,Paid Search,Mid-Market Agribusiness,La Pampa,1200,R004,Paid
+L01681,2026-01-01,CMP0078,Organic,Mid-Market Agribusiness,La Pampa,5000,R003,Owned
+L01682,2025-08-06,CMP0047,Referral,SMB Producer,Entre Ríos,600,R002,Partner
+L01683,2025-05-05,CMP0025,Paid Search,SMB Producer,Córdoba,2500,R001,Paid
+L01684,2025-02-05,CMP0008,Paid Social,Mid-Market Agribusiness,La Pampa,1200,R001,Paid
+L01685,2026-03-03,CMP0090,Organic,SMB Producer,Santa Fe,250,R002,Owned
+L01686,2026-06-14,CMP0106,Events,Mid-Market Agribusiness,La Pampa,600,R003,Partner
+L01687,2025-09-09,CMP0053,Referral,SMB Producer,Entre Ríos,2500,R003,Partner
+L01688,2025-03-04,CMP0018,Organic,Enterprise,Córdoba,600,R002,Owned
+L01689,2025-12-12,CMP0070,Events,Enterprise,Córdoba,10000,R002,Partner
+L01690,2026-04-15,CMP0092,Paid Social,Mid-Market Agribusiness,La Pampa,2500,R003,Paid
+L01691,2025-09-09,CMP0052,Events,Mid-Market Agribusiness,Buenos Aires,600,R005,Partner
+L01692,2025-06-27,CMP0031,Paid Search,Enterprise,Córdoba,2500,R004,Paid
+L01693,2025-01-08,CMP0005,Referral,Agronomic Advisor,Entre Ríos,5000,R002,Partner
+L01694,2026-06-01,CMP0106,Events,Agronomic Advisor,Entre Ríos,1200,R003,Partner
+L01695,2026-04-06,CMP0095,Referral,Agronomic Advisor,La Pampa,1200,R001,Partner
+L01696,2025-08-21,CMP0046,Events,Enterprise,La Pampa,10000,R001,Partner
+L01697,2026-01-14,CMP0078,Organic,Agronomic Advisor,Buenos Aires,250,R004,Owned
+L01698,2025-11-16,CMP0061,Paid Search,Mid-Market Agribusiness,Santa Fe,250,R003,Paid
+L01699,2025-12-26,CMP0071,Referral,Enterprise,Buenos Aires,600,R002,Partner
+L01700,2025-03-25,CMP0013,Paid Search,Enterprise,Santa Fe,2500,R004,Paid
+L01701,2026-03-21,CMP0088,Events,Agronomic Advisor,La Pampa,1200,R001,Partner
+L01702,2025-03-20,CMP0013,Paid Search,Mid-Market Agribusiness,Santa Fe,600,R002,Paid
+L01703,2026-04-27,CMP0096,Organic,SMB Producer,Córdoba,600,R004,Owned
+L01704,2025-07-11,CMP0042,Organic,SMB Producer,Santa Fe,1200,R002,Owned
+L01705,2025-02-13,CMP0008,Paid Social,Mid-Market Agribusiness,Santa Fe,2500,R001,Paid
+L01706,2026-04-02,CMP0091,Paid Search,SMB Producer,La Pampa,1200,R005,Paid
+L01707,2026-04-17,CMP0094,Events,Mid-Market Agribusiness,Buenos Aires,5000,R002,Partner
+L01708,2026-05-04,CMP0100,Events,Mid-Market Agribusiness,Buenos Aires,600,R004,Partner
+L01709,2025-01-23,CMP0004,Events,SMB Producer,La Pampa,5000,R001,Partner
+L01710,2026-01-06,CMP0077,Referral,Mid-Market Agribusiness,Córdoba,250,R003,Partner
+L01711,2025-05-26,CMP0026,Paid Social,SMB Producer,Córdoba,600,R003,Paid
+L01712,2026-05-19,CMP0101,Referral,Agronomic Advisor,Córdoba,600,R005,Partner
+L01713,2025-08-24,CMP0047,Referral,SMB Producer,Santa Fe,1200,R002,Partner
+L01714,2025-10-21,CMP0058,Events,Mid-Market Agribusiness,Santa Fe,600,R004,Partner
+L01715,2025-10-06,CMP0055,Paid Search,Enterprise,Entre Ríos,1200,R004,Paid
+L01716,2026-02-02,CMP0079,Paid Search,Mid-Market Agribusiness,Córdoba,1200,R002,Paid
+L01717,2026-02-23,CMP0084,Organic,Mid-Market Agribusiness,Córdoba,2500,R005,Owned
+L01718,2025-06-15,CMP0031,Paid Search,Enterprise,Entre Ríos,10000,R005,Paid
+L01719,2025-04-17,CMP0019,Paid Search,Agronomic Advisor,Santa Fe,600,R001,Paid
+L01720,2025-03-08,CMP0013,Paid Search,Enterprise,La Pampa,2500,R005,Paid
+L01721,2025-01-11,CMP0004,Events,SMB Producer,Santa Fe,600,R001,Partner
+L01722,2025-10-05,CMP0056,Paid Social,Mid-Market Agribusiness,Entre Ríos,1200,R002,Paid
+L01723,2026-01-16,CMP0076,Events,Mid-Market Agribusiness,Buenos Aires,600,R005,Partner
+L01724,2025-07-14,CMP0040,Events,Mid-Market Agribusiness,Santa Fe,600,R005,Partner
+L01725,2025-10-20,CMP0056,Paid Social,Mid-Market Agribusiness,Entre Ríos,5000,R005,Paid
+L01726,2025-08-23,CMP0047,Referral,SMB Producer,Buenos Aires,250,R001,Partner
+L01727,2025-01-20,CMP0006,Organic,Mid-Market Agribusiness,La Pampa,2500,R005,Owned
+L01728,2025-11-26,CMP0064,Events,Mid-Market Agribusiness,Entre Ríos,5000,R003,Partner
+L01729,2025-06-02,CMP0036,Organic,Mid-Market Agribusiness,Buenos Aires,10000,R005,Owned
+L01730,2025-04-22,CMP0019,Paid Search,Mid-Market Agribusiness,Córdoba,10000,R001,Paid
+L01731,2026-04-03,CMP0093,Webinar,Mid-Market Agribusiness,Entre Ríos,10000,R001,Owned
+L01732,2025-05-14,CMP0027,Webinar,SMB Producer,Buenos Aires,2500,R005,Owned
+L01733,2025-03-24,CMP0015,Webinar,SMB Producer,La Pampa,1200,R005,Owned
+L01734,2026-01-02,CMP0078,Organic,Agronomic Advisor,Córdoba,5000,R002,Owned
+L01735,2025-12-17,CMP0068,Paid Social,Enterprise,La Pampa,1200,R002,Paid
+L01736,2026-06-12,CMP0108,Organic,Enterprise,Santa Fe,2500,R002,Owned
+L01737,2026-02-26,CMP0083,Referral,SMB Producer,Buenos Aires,1200,R003,Partner
+L01738,2026-05-03,CMP0098,Paid Social,Mid-Market Agribusiness,Entre Ríos,600,R003,Paid
+L01739,2026-05-24,CMP0099,Webinar,SMB Producer,Córdoba,250,R002,Owned
+L01740,2025-03-20,CMP0014,Paid Social,SMB Producer,La Pampa,250,R003,Paid
+L01741,2025-05-13,CMP0026,Paid Social,Mid-Market Agribusiness,Entre Ríos,250,R002,Paid
+L01742,2025-11-14,CMP0066,Organic,Enterprise,La Pampa,10000,R003,Owned
+L01743,2025-12-06,CMP0072,Organic,Enterprise,Buenos Aires,5000,R003,Owned
+L01744,2026-05-05,CMP0099,Webinar,SMB Producer,La Pampa,2500,R002,Owned
+L01745,2025-07-20,CMP0040,Events,Mid-Market Agribusiness,La Pampa,600,R001,Partner
+L01746,2025-06-04,CMP0034,Events,Enterprise,La Pampa,600,R002,Partner
+L01747,2026-03-21,CMP0088,Events,SMB Producer,Buenos Aires,1200,R003,Partner
+L01748,2025-07-25,CMP0037,Paid Search,SMB Producer,Córdoba,250,R003,Paid
+L01749,2025-05-01,CMP0029,Referral,Mid-Market Agribusiness,Santa Fe,2500,R001,Partner
+L01750,2025-10-26,CMP0055,Paid Search,SMB Producer,Córdoba,2500,R005,Paid
+L01751,2025-09-06,CMP0050,Paid Social,Agronomic Advisor,Santa Fe,1200,R005,Paid
+L01752,2025-10-07,CMP0057,Webinar,Enterprise,La Pampa,5000,R002,Owned
+L01753,2025-04-09,CMP0021,Webinar,Mid-Market Agribusiness,Entre Ríos,20000,R001,Owned
+L01754,2025-07-22,CMP0039,Webinar,Mid-Market Agribusiness,Santa Fe,5000,R001,Owned
+L01755,2025-03-27,CMP0015,Webinar,Enterprise,La Pampa,2500,R002,Owned
+L01756,2026-06-27,CMP0108,Organic,Enterprise,Córdoba,10000,R004,Owned
+L01757,2025-05-11,CMP0028,Events,Mid-Market Agribusiness,Córdoba,250,R001,Partner
+L01758,2026-02-04,CMP0080,Paid Social,SMB Producer,Santa Fe,2500,R001,Paid
+L01759,2025-09-21,CMP0052,Events,SMB Producer,Córdoba,1200,R001,Partner
+L01760,2026-05-02,CMP0097,Paid Search,SMB Producer,La Pampa,2500,R003,Paid
+L01761,2025-05-02,CMP0027,Webinar,SMB Producer,Córdoba,1200,R002,Owned
+L01762,2025-07-06,CMP0039,Webinar,Mid-Market Agribusiness,Entre Ríos,10000,R004,Owned
+L01763,2025-09-08,CMP0049,Paid Search,Mid-Market Agribusiness,Córdoba,1200,R005,Paid
+L01764,2026-04-27,CMP0094,Events,Mid-Market Agribusiness,Santa Fe,1200,R005,Partner
+L01765,2025-12-25,CMP0067,Paid Search,SMB Producer,Buenos Aires,600,R002,Paid
+L01766,2026-01-08,CMP0073,Paid Search,Agronomic Advisor,Buenos Aires,20000,R001,Paid
+L01767,2025-09-16,CMP0051,Webinar,SMB Producer,La Pampa,1200,R004,Owned
+L01768,2025-02-20,CMP0008,Paid Social,Enterprise,Entre Ríos,20000,R003,Paid
+L01769,2026-02-11,CMP0082,Events,Mid-Market Agribusiness,La Pampa,1200,R001,Partner
+L01770,2025-06-18,CMP0033,Webinar,Mid-Market Agribusiness,Córdoba,600,R002,Owned
+L01771,2025-11-08,CMP0062,Paid Social,Mid-Market Agribusiness,Córdoba,600,R003,Paid
+L01772,2026-06-09,CMP0105,Webinar,SMB Producer,Córdoba,5000,R005,Owned
+L01773,2025-12-07,CMP0068,Paid Social,Enterprise,Córdoba,10000,R004,Paid
+L01774,2025-07-12,CMP0037,Paid Search,SMB Producer,Buenos Aires,5000,R005,Paid
+L01775,2026-06-01,CMP0108,Organic,SMB Producer,La Pampa,20000,R005,Owned
+L01776,2025-06-01,CMP0032,Paid Social,SMB Producer,La Pampa,5000,R005,Paid
+L01777,2026-06-22,CMP0107,Referral,Mid-Market Agribusiness,La Pampa,250,R004,Partner
+L01778,2026-03-21,CMP0088,Events,SMB Producer,Entre Ríos,1200,R002,Partner
+L01779,2025-07-03,CMP0040,Events,Agronomic Advisor,La Pampa,600,R005,Partner
+L01780,2025-09-21,CMP0049,Paid Search,Mid-Market Agribusiness,Córdoba,2500,R003,Paid
+L01781,2025-09-11,CMP0050,Paid Social,Enterprise,La Pampa,600,R001,Paid
+L01782,2025-07-25,CMP0040,Events,Enterprise,La Pampa,600,R002,Partner
+L01783,2025-10-08,CMP0060,Organic,Mid-Market Agribusiness,Córdoba,20000,R003,Owned
+L01784,2025-03-06,CMP0016,Events,SMB Producer,Entre Ríos,2500,R002,Partner
+L01785,2025-09-14,CMP0054,Organic,Enterprise,Entre Ríos,250,R004,Owned
+L01786,2026-02-03,CMP0084,Organic,Mid-Market Agribusiness,La Pampa,250,R004,Owned
+L01787,2026-04-11,CMP0091,Paid Search,Agronomic Advisor,Córdoba,10000,R002,Paid
+L01788,2026-06-02,CMP0105,Webinar,Mid-Market Agribusiness,Buenos Aires,250,R004,Owned
+L01789,2026-04-26,CMP0093,Webinar,SMB Producer,Santa Fe,1200,R001,Owned
+L01790,2026-04-03,CMP0094,Events,SMB Producer,Buenos Aires,1200,R004,Partner
+L01791,2025-02-04,CMP0012,Organic,SMB Producer,La Pampa,5000,R005,Owned
+L01792,2025-07-23,CMP0038,Paid Social,SMB Producer,Santa Fe,1200,R003,Paid
+L01793,2026-04-16,CMP0096,Organic,Mid-Market Agribusiness,Córdoba,600,R004,Owned
+L01794,2025-11-25,CMP0062,Paid Social,SMB Producer,Santa Fe,10000,R003,Paid
+L01795,2026-04-26,CMP0092,Paid Social,SMB Producer,La Pampa,5000,R001,Paid
+L01796,2025-06-09,CMP0031,Paid Search,Mid-Market Agribusiness,La Pampa,2500,R003,Paid
+L01797,2025-10-14,CMP0055,Paid Search,Mid-Market Agribusiness,Buenos Aires,2500,R003,Paid
+L01798,2025-01-01,CMP0002,Paid Social,Mid-Market Agribusiness,La Pampa,5000,R003,Paid
+L01799,2025-08-01,CMP0045,Webinar,SMB Producer,Santa Fe,250,R005,Owned
+L01800,2025-01-10,CMP0005,Referral,Mid-Market Agribusiness,Córdoba,2500,R001,Partner

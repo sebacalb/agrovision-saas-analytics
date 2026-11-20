@@ -1,0 +1,101 @@
+account_id,account_name,customer_segment,region,hectares,created_at,acquisition_channel,primary_contact_count
+A00001,Agro Client A00001,Agronomic Advisor,Córdoba,5000,2026-03-31,Events,4
+A00002,Agro Client A00002,Mid-Market Agribusiness,Buenos Aires,1200,2026-01-07,Organic,4
+A00003,Agro Client A00003,Agronomic Advisor,Córdoba,2500,2025-11-10,Paid Search,3
+A00004,Agro Client A00004,SMB Producer,Entre Ríos,5000,2026-01-16,Organic,1
+A00005,Agro Client A00005,Mid-Market Agribusiness,La Pampa,600,2025-09-21,Organic,2
+A00006,Agro Client A00006,SMB Producer,Entre Ríos,5000,2025-12-10,Events,3
+A00007,Agro Client A00007,Mid-Market Agribusiness,Santa Fe,250,2026-03-26,Organic,3
+A00008,Agro Client A00008,Mid-Market Agribusiness,Córdoba,250,2025-03-30,Paid Search,3
+A00009,Agro Client A00009,Enterprise,Santa Fe,600,2025-04-22,Organic,1
+A00010,Agro Client A00010,Enterprise,Córdoba,2500,2025-06-04,Events,4
+A00011,Agro Client A00011,Mid-Market Agribusiness,Entre Ríos,1200,2025-05-30,Paid Search,1
+A00012,Agro Client A00012,SMB Producer,Buenos Aires,20000,2025-12-26,Paid Search,4
+A00013,Agro Client A00013,Mid-Market Agribusiness,Entre Ríos,250,2026-01-25,Organic,1
+A00014,Agro Client A00014,Mid-Market Agribusiness,Córdoba,250,2025-03-14,Events,4
+A00015,Agro Client A00015,Mid-Market Agribusiness,Córdoba,2500,2026-05-10,Events,1
+A00016,Agro Client A00016,SMB Producer,La Pampa,1200,2025-04-23,Webinar,2
+A00017,Agro Client A00017,SMB Producer,Córdoba,600,2025-06-20,Referral,4
+A00018,Agro Client A00018,Mid-Market Agribusiness,Santa Fe,2500,2026-03-22,Webinar,3
+A00019,Agro Client A00019,SMB Producer,Santa Fe,600,2025-05-14,Organic,3
+A00020,Agro Client A00020,SMB Producer,Buenos Aires,10000,2026-07-18,Webinar,2
+A00021,Agro Client A00021,Mid-Market Agribusiness,La Pampa,5000,2025-02-24,Referral,1
+A00022,Agro Client A00022,Enterprise,La Pampa,2500,2026-03-15,Webinar,2
+A00023,Agro Client A00023,SMB Producer,Entre Ríos,5000,2025-10-21,Webinar,2
+A00024,Agro Client A00024,Agronomic Advisor,Entre Ríos,5000,2026-02-26,Paid Search,1
+A00025,Agro Client A00025,Enterprise,Entre Ríos,2500,2025-09-19,Webinar,1
+A00026,Agro Client A00026,SMB Producer,Buenos Aires,1200,2025-07-09,Referral,2
+A00027,Agro Client A00027,SMB Producer,La Pampa,2500,2026-06-17,Referral,1
+A00028,Agro Client A00028,SMB Producer,Santa Fe,600,2026-03-15,Webinar,2
+A00029,Agro Client A00029,SMB Producer,Entre Ríos,10000,2025-04-29,Referral,3
+A00030,Agro Client A00030,Mid-Market Agribusiness,Córdoba,1200,2025-12-02,Organic,2
+A00031,Agro Client A00031,Mid-Market Agribusiness,Buenos Aires,1200,2025-02-01,Organic,4
+A00032,Agro Client A00032,Enterprise,Córdoba,1200,2026-01-31,Referral,3
+A00033,Agro Client A00033,SMB Producer,Santa Fe,1200,2025-05-01,Paid Social,1
+A00034,Agro Client A00034,Mid-Market Agribusiness,Entre Ríos,2500,2025-06-01,Webinar,2
+A00035,Agro Client A00035,Mid-Market Agribusiness,Entre Ríos,600,2026-03-30,Paid Search,2
+A00036,Agro Client A00036,SMB Producer,Córdoba,250,2025-05-17,Paid Social,1
+A00037,Agro Client A00037,Enterprise,Córdoba,10000,2025-11-24,Paid Social,4
+A00038,Agro Client A00038,SMB Producer,Córdoba,1200,2026-03-02,Events,3
+A00039,Agro Client A00039,Mid-Market Agribusiness,La Pampa,1200,2025-12-03,Paid Social,3
+A00040,Agro Client A00040,SMB Producer,La Pampa,2500,2026-07-27,Organic,2
+A00041,Agro Client A00041,Mid-Market Agribusiness,Córdoba,250,2025-04-20,Events,2
+A00042,Agro Client A00042,Mid-Market Agribusiness,Buenos Aires,1200,2026-01-06,Events,3
+A00043,Agro Client A00043,Agronomic Advisor,La Pampa,5000,2025-11-24,Webinar,3
+A00044,Agro Client A00044,Mid-Market Agribusiness,Santa Fe,5000,2025-08-08,Organic,1
+A00045,Agro Client A00045,Enterprise,Santa Fe,250,2026-07-01,Paid Search,4
+A00046,Agro Client A00046,Agronomic Advisor,Buenos Aires,2500,2025-03-18,Events,1
+A00047,Agro Client A00047,Mid-Market Agribusiness,Córdoba,2500,2026-06-08,Referral,1
+A00048,Agro Client A00048,Mid-Market Agribusiness,Santa Fe,250,2025-07-30,Events,1
+A00049,Agro Client A00049,SMB Producer,Córdoba,20000,2025-09-22,Events,2
+A00050,Agro Client A00050,Enterprise,Córdoba,5000,2025-11-26,Events,3
+A00051,Agro Client A00051,SMB Producer,Entre Ríos,600,2026-04-10,Paid Search,2
+A00052,Agro Client A00052,Mid-Market Agribusiness,La Pampa,2500,2026-05-15,Organic,3
+A00053,Agro Client A00053,Agronomic Advisor,Buenos Aires,600,2025-07-04,Referral,1
+A00054,Agro Client A00054,Agronomic Advisor,Santa Fe,250,2025-05-27,Webinar,1
+A00055,Agro Client A00055,SMB Producer,Buenos Aires,600,2026-07-05,Paid Social,1
+A00056,Agro Client A00056,Enterprise,Córdoba,5000,2026-06-01,Webinar,3
+A00057,Agro Client A00057,Mid-Market Agribusiness,Buenos Aires,2500,2026-04-02,Events,3
+A00058,Agro Client A00058,Mid-Market Agribusiness,Entre Ríos,2500,2025-03-20,Organic,1
+A00059,Agro Client A00059,SMB Producer,Santa Fe,10000,2026-01-03,Paid Search,1
+A00060,Agro Client A00060,Mid-Market Agribusiness,Entre Ríos,1200,2026-06-19,Referral,3
+A00061,Agro Client A00061,Mid-Market Agribusiness,Córdoba,2500,2025-07-14,Paid Search,1
+A00062,Agro Client A00062,SMB Producer,Santa Fe,2500,2025-12-22,Webinar,1
+A00063,Agro Client A00063,Mid-Market Agribusiness,La Pampa,10000,2025-02-19,Paid Search,1
+A00064,Agro Client A00064,Agronomic Advisor,Entre Ríos,600,2025-02-10,Webinar,3
+A00065,Agro Client A00065,SMB Producer,Entre Ríos,1200,2025-04-07,Paid Search,3
+A00066,Agro Client A00066,Mid-Market Agribusiness,Santa Fe,10000,2025-09-21,Paid Social,2
+A00067,Agro Client A00067,SMB Producer,Santa Fe,10000,2026-02-03,Paid Search,3
+A00068,Agro Client A00068,Agronomic Advisor,Entre Ríos,5000,2025-09-06,Referral,4
+A00069,Agro Client A00069,Enterprise,Buenos Aires,1200,2026-04-09,Webinar,3
+A00070,Agro Client A00070,Mid-Market Agribusiness,Buenos Aires,600,2025-07-05,Paid Social,3
+A00071,Agro Client A00071,SMB Producer,Córdoba,1200,2025-12-05,Webinar,4
+A00072,Agro Client A00072,Mid-Market Agribusiness,Buenos Aires,5000,2025-02-19,Paid Social,2
+A00073,Agro Client A00073,SMB Producer,Santa Fe,2500,2026-02-06,Paid Search,3
+A00074,Agro Client A00074,SMB Producer,Santa Fe,1200,2026-02-28,Paid Search,4
+A00075,Agro Client A00075,Mid-Market Agribusiness,Buenos Aires,1200,2025-11-30,Paid Search,2
+A00076,Agro Client A00076,Mid-Market Agribusiness,Buenos Aires,250,2026-04-20,Webinar,4
+A00077,Agro Client A00077,Mid-Market Agribusiness,Buenos Aires,20000,2025-06-27,Referral,3
+A00078,Agro Client A00078,Mid-Market Agribusiness,Santa Fe,1200,2026-02-03,Organic,2
+A00079,Agro Client A00079,Enterprise,La Pampa,10000,2025-02-06,Paid Search,4
+A00080,Agro Client A00080,Mid-Market Agribusiness,La Pampa,2500,2026-07-22,Referral,1
+A00081,Agro Client A00081,SMB Producer,Buenos Aires,10000,2025-11-13,Paid Search,1
+A00082,Agro Client A00082,SMB Producer,Entre Ríos,5000,2026-03-03,Webinar,4
+A00083,Agro Client A00083,SMB Producer,La Pampa,1200,2025-02-14,Paid Social,4
+A00084,Agro Client A00084,Mid-Market Agribusiness,La Pampa,2500,2025-07-09,Paid Search,2
+A00085,Agro Client A00085,SMB Producer,Entre Ríos,1200,2026-01-05,Paid Search,1
+A00086,Agro Client A00086,Mid-Market Agribusiness,Santa Fe,600,2025-08-07,Events,2
+A00087,Agro Client A00087,SMB Producer,Entre Ríos,1200,2026-06-04,Paid Search,1
+A00088,Agro Client A00088,SMB Producer,Córdoba,600,2026-02-10,Events,1
+A00089,Agro Client A00089,Mid-Market Agribusiness,Córdoba,600,2026-03-10,Events,3
+A00090,Agro Client A00090,Mid-Market Agribusiness,Córdoba,2500,2025-11-13,Paid Search,1
+A00091,Agro Client A00091,Enterprise,Córdoba,1200,2026-02-06,Referral,2
+A00092,Agro Client A00092,Enterprise,Santa Fe,1200,2025-07-12,Organic,4
+A00093,Agro Client A00093,SMB Producer,Buenos Aires,5000,2025-08-17,Organic,3
+A00094,Agro Client A00094,SMB Producer,La Pampa,250,2025-04-03,Referral,1
+A00095,Agro Client A00095,SMB Producer,Santa Fe,250,2026-04-10,Organic,1
+A00096,Agro Client A00096,Mid-Market Agribusiness,La Pampa,600,2026-08-04,Events,1
+A00097,Agro Client A00097,Mid-Market Agribusiness,Buenos Aires,600,2025-10-05,Events,1
+A00098,Agro Client A00098,Agronomic Advisor,Santa Fe,600,2025-05-29,Paid Search,3
+A00099,Agro Client A00099,Mid-Market Agribusiness,Entre Ríos,10000,2026-05-10,Webinar,1
+A00100,Agro Client A00100,SMB Producer,La Pampa,2500,2026-06-13,Webinar,2

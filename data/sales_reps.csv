@@ -1,0 +1,16 @@
+rep_id,rep_name,role,region,monthly_cost_usd,start_date
+R001,BDR_01,BDR,Buenos Aires,1926,2025-04-01
+R002,BDR_02,BDR,Córdoba,1960,2025-01-01
+R003,BDR_03,BDR,Santa Fe,1896,2024-10-01
+R004,BDR_04,BDR,La Pampa,2006,2024-08-01
+R005,BDR_05,BDR,Entre Ríos,1921,2025-05-01
+R006,AccountExecutive_01,Account Executive,Buenos Aires,2413,2025-06-01
+R007,AccountExecutive_02,Account Executive,Córdoba,2597,2025-02-01
+R008,AccountExecutive_03,Account Executive,Santa Fe,2870,2024-12-01
+R009,AccountExecutive_04,Account Executive,La Pampa,2708,2025-01-01
+R010,CustomerSuccess_01,Customer Success,Entre Ríos,2094,2025-07-01
+R011,CustomerSuccess_02,Customer Success,Buenos Aires,1994,2024-08-01
+R012,CustomerSuccess_03,Customer Success,Córdoba,1919,2025-03-01
+R013,AccountManager_01,Account Manager,Santa Fe,2488,2024-11-01
+R014,AccountManager_02,Account Manager,La Pampa,2453,2025-04-01
+R015,AccountManager_03,Account Manager,Entre Ríos,2249,2024-08-01

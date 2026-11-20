@@ -1,0 +1,833 @@
+account_id,month,licensed_users,active_users,sessions,key_actions,modules_used,onboarding_status,support_tickets
+A00001,2026-03,5,2,12,33,Crop Monitoring,Completed,1
+A00001,2026-04,11,6,24,80,Farm Management,Completed,0
+A00001,2026-05,10,4,32,105,Farm Management,Completed,2
+A00001,2026-06,10,4,44,166,Crop Monitoring,Completed,1
+A00002,2026-01,11,6,54,220,Farm Management;Crop Monitoring;Analytics,In Progress,0
+A00002,2026-02,8,5,55,96,Farm Management,Completed,1
+A00002,2026-03,3,2,14,54,Farm Management,Completed,1
+A00002,2026-04,3,2,14,38,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00002,2026-05,11,6,30,86,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00002,2026-06,10,7,49,132,Farm Management,Completed,1
+A00003,2025-11,11,3,18,63,Farm Management;Crop Monitoring,Completed,2
+A00003,2025-12,3,2,18,79,Farm Management,Completed,0
+A00003,2026-01,4,2,20,62,Farm Management;Crop Monitoring,Completed,1
+A00003,2026-02,2,1,9,28,Farm Management,Completed,0
+A00003,2026-03,11,7,49,152,Farm Management,Completed,1
+A00003,2026-04,2,1,5,7,Farm Management;Crop Monitoring,Completed,0
+A00003,2026-05,11,8,80,327,Farm Management,Completed,2
+A00003,2026-06,6,3,12,44,Farm Management;Crop Monitoring,Completed,0
+A00004,2026-01,9,3,21,76,Farm Management;Crop Monitoring,Completed,1
+A00004,2026-02,4,2,14,41,Farm Management,Completed,0
+A00004,2026-03,6,3,27,118,Farm Management;Crop Monitoring,Completed,2
+A00004,2026-04,8,5,35,91,Farm Management;Crop Monitoring,Completed,1
+A00004,2026-05,6,3,12,22,Farm Management;Crop Monitoring,Completed,0
+A00004,2026-06,6,3,9,23,Farm Management;Crop Monitoring,Completed,1
+A00005,2025-09,6,4,44,80,Farm Management,In Progress,1
+A00005,2025-10,8,3,18,45,Crop Monitoring,Completed,0
+A00005,2025-11,8,5,15,39,Crop Monitoring,Completed,1
+A00005,2025-12,3,2,6,18,Crop Monitoring,Completed,0
+A00005,2026-01,4,2,20,62,Crop Monitoring,Completed,0
+A00005,2026-02,11,0,0,0,,Completed,0
+A00005,2026-03,4,0,0,0,,Completed,0
+A00005,2026-04,3,0,0,0,,Completed,0
+A00005,2026-05,2,0,0,0,,Completed,0
+A00005,2026-06,5,0,0,0,,Completed,0
+A00006,2025-12,8,4,44,106,Farm Management,Completed,0
+A00006,2026-01,6,2,16,69,Farm Management,Completed,0
+A00006,2026-02,4,2,10,40,Farm Management,Completed,2
+A00006,2026-03,8,5,15,44,Farm Management,Completed,0
+A00006,2026-04,4,0,0,0,,Completed,0
+A00006,2026-05,9,0,0,0,,Completed,0
+A00006,2026-06,6,0,0,0,,Completed,0
+A00007,2026-03,11,6,54,201,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00007,2026-04,9,6,66,259,Farm Management,Completed,2
+A00007,2026-05,9,5,20,31,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00007,2026-06,5,3,9,24,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00008,2025-03,10,5,15,28,Farm Management,In Progress,0
+A00008,2025-04,8,5,55,99,Farm Management,Completed,0
+A00008,2025-05,11,5,20,32,Farm Management,Completed,0
+A00008,2025-06,6,2,14,33,Farm Management,Completed,1
+A00008,2025-07,10,4,12,51,Farm Management,Completed,0
+A00008,2025-08,10,5,40,84,Farm Management,Completed,0
+A00008,2025-09,9,6,42,92,Farm Management,Completed,1
+A00008,2025-10,5,3,9,34,Farm Management,Completed,0
+A00008,2025-11,6,4,16,27,Farm Management,Completed,0
+A00008,2025-12,9,8,56,200,Farm Management,Completed,1
+A00008,2026-01,8,6,42,68,Farm Management,Completed,0
+A00008,2026-02,6,4,44,158,Farm Management,Completed,0
+A00008,2026-03,9,7,63,129,Farm Management,Completed,0
+A00008,2026-04,4,3,9,26,Farm Management,Completed,0
+A00008,2026-05,5,4,32,121,Farm Management,Completed,1
+A00008,2026-06,8,7,63,177,Farm Management,Completed,0
+A00009,2025-04,25,9,45,86,Farm Management;Crop Monitoring;Analytics,In Progress,0
+A00009,2025-05,49,22,110,223,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00009,2025-06,38,16,96,253,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00009,2025-07,47,18,198,810,Farm Management,Completed,1
+A00009,2025-08,11,8,56,241,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00009,2025-09,49,0,0,0,,Completed,0
+A00009,2025-10,10,0,0,0,,Completed,0
+A00009,2025-11,42,0,0,0,,Completed,0
+A00009,2025-12,13,0,0,0,,Completed,0
+A00009,2026-01,17,0,0,0,,Completed,0
+A00009,2026-02,47,0,0,0,,Completed,0
+A00009,2026-03,39,0,0,0,,Completed,0
+A00009,2026-04,35,0,0,0,,Completed,0
+A00009,2026-05,15,0,0,0,,Completed,0
+A00009,2026-06,20,0,0,0,,Completed,0
+A00010,2025-06,18,9,54,200,Farm Management;Crop Monitoring,In Progress,0
+A00010,2025-07,39,10,110,271,Farm Management;Crop Monitoring,Completed,1
+A00010,2025-08,21,13,91,401,Farm Management;Crop Monitoring,Completed,0
+A00010,2025-09,10,5,45,177,Farm Management;Crop Monitoring,Completed,0
+A00010,2025-10,33,17,170,538,Farm Management;Crop Monitoring,Completed,0
+A00010,2025-11,26,11,121,308,Farm Management;Crop Monitoring,Completed,1
+A00010,2025-12,41,31,124,486,Farm Management;Crop Monitoring,Completed,0
+A00010,2026-01,37,17,187,616,Farm Management;Crop Monitoring,Completed,1
+A00010,2026-02,17,15,120,296,Farm Management,Completed,0
+A00010,2026-03,14,10,80,196,Farm Management;Crop Monitoring,Completed,0
+A00010,2026-04,27,12,120,223,Farm Management;Crop Monitoring,Completed,1
+A00010,2026-05,14,8,56,147,Farm Management;Crop Monitoring,Completed,1
+A00010,2026-06,15,13,52,113,Farm Management;Crop Monitoring,Completed,1
+A00011,2025-05,8,3,21,60,Farm Management;Crop Monitoring,Completed,1
+A00011,2025-06,8,4,12,39,Farm Management,Completed,0
+A00011,2025-07,8,3,21,83,Farm Management;Crop Monitoring,Completed,0
+A00011,2025-08,10,0,0,0,,Completed,0
+A00011,2025-09,2,0,0,0,,Completed,0
+A00011,2025-10,4,0,0,0,,Completed,0
+A00011,2025-11,4,0,0,0,,Completed,0
+A00011,2025-12,11,0,0,0,,Completed,0
+A00011,2026-01,9,0,0,0,,Completed,0
+A00011,2026-02,5,0,0,0,,Completed,0
+A00011,2026-03,11,0,0,0,,Completed,0
+A00011,2026-04,10,0,0,0,,Completed,0
+A00011,2026-05,4,0,0,0,,Completed,0
+A00011,2026-06,6,0,0,0,,Completed,0
+A00012,2025-12,11,5,35,98,Crop Monitoring,Completed,0
+A00012,2026-01,11,8,24,88,Crop Monitoring,Completed,0
+A00012,2026-02,10,8,24,93,Crop Monitoring,Completed,2
+A00012,2026-03,3,2,14,49,Farm Management,Completed,1
+A00012,2026-04,4,0,0,0,,Completed,0
+A00012,2026-05,2,0,0,0,,Completed,0
+A00012,2026-06,5,0,0,0,,Completed,0
+A00013,2026-01,8,4,12,21,Crop Monitoring,Completed,1
+A00013,2026-02,8,4,12,37,Crop Monitoring,Completed,1
+A00013,2026-03,7,2,20,42,Farm Management,Completed,0
+A00013,2026-04,11,4,44,140,Crop Monitoring,Completed,1
+A00013,2026-05,3,2,12,30,Farm Management,Completed,0
+A00013,2026-06,6,4,36,151,Farm Management,Completed,2
+A00014,2025-03,10,5,15,39,Farm Management,In Progress,0
+A00014,2025-04,4,2,20,35,Farm Management;Crop Monitoring,Completed,1
+A00014,2025-05,4,2,10,30,Farm Management,Completed,1
+A00014,2025-06,10,6,54,99,Farm Management;Crop Monitoring,Completed,1
+A00014,2025-07,9,7,77,196,Farm Management;Crop Monitoring,Completed,1
+A00014,2025-08,9,5,50,209,Farm Management,Completed,0
+A00014,2025-09,4,2,6,10,Farm Management;Crop Monitoring,Completed,2
+A00014,2025-10,8,6,54,100,Farm Management,Completed,1
+A00014,2025-11,9,6,54,236,Farm Management;Crop Monitoring,Completed,0
+A00014,2025-12,6,5,35,94,Farm Management,Completed,1
+A00014,2026-01,4,3,24,64,Farm Management,Completed,0
+A00014,2026-02,5,3,12,32,Farm Management;Crop Monitoring,Completed,0
+A00014,2026-03,7,5,25,109,Farm Management,Completed,1
+A00014,2026-04,2,2,18,43,Farm Management;Crop Monitoring,Completed,1
+A00014,2026-05,2,1,5,18,Farm Management,Completed,0
+A00014,2026-06,9,6,60,235,Farm Management;Crop Monitoring,Completed,0
+A00015,2026-05,3,2,8,15,Farm Management,Completed,2
+A00015,2026-06,5,2,10,27,Farm Management,Completed,1
+A00016,2025-04,9,6,60,202,Farm Management,In Progress,1
+A00016,2025-05,8,6,36,127,Farm Management;Crop Monitoring,Completed,0
+A00016,2025-06,6,3,33,139,Farm Management;Crop Monitoring,Completed,0
+A00016,2025-07,2,1,4,17,Farm Management;Crop Monitoring,Completed,0
+A00016,2025-08,4,2,16,28,Farm Management;Crop Monitoring,Completed,0
+A00016,2025-09,2,1,11,24,Farm Management;Crop Monitoring,Completed,0
+A00016,2025-10,6,4,16,31,Farm Management,Completed,0
+A00016,2025-11,5,3,15,52,Farm Management;Crop Monitoring,Completed,0
+A00016,2025-12,3,2,14,62,Farm Management;Crop Monitoring,Completed,1
+A00016,2026-01,9,5,45,142,Farm Management;Crop Monitoring,Completed,0
+A00016,2026-02,10,5,55,216,Farm Management,Completed,0
+A00016,2026-03,7,5,45,121,Farm Management;Crop Monitoring,Completed,0
+A00016,2026-04,7,4,20,78,Farm Management,Completed,0
+A00016,2026-05,3,2,8,33,Farm Management;Crop Monitoring,Completed,2
+A00016,2026-06,2,1,6,10,Farm Management;Crop Monitoring,Completed,1
+A00017,2025-06,3,2,8,33,Farm Management;Crop Monitoring;Analytics,In Progress,0
+A00017,2025-07,5,3,15,32,Farm Management,Completed,1
+A00017,2025-08,10,7,28,86,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00017,2025-09,5,2,18,54,Farm Management,Completed,0
+A00017,2025-10,5,3,9,38,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00017,2025-11,7,5,45,152,Farm Management,Completed,0
+A00017,2025-12,2,1,11,38,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00017,2026-01,11,7,63,110,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00017,2026-02,4,2,16,56,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00017,2026-03,5,4,36,126,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00017,2026-04,4,2,8,34,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00017,2026-05,8,5,20,43,Farm Management;Crop Monitoring;Analytics,Completed,2
+A00017,2026-06,7,5,50,164,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00018,2026-03,7,4,20,86,Farm Management;Crop Monitoring,Completed,2
+A00018,2026-04,3,2,22,65,Farm Management,Completed,2
+A00018,2026-05,4,2,20,30,Farm Management;Crop Monitoring,Completed,0
+A00018,2026-06,11,5,30,113,Farm Management;Crop Monitoring,Completed,0
+A00019,2025-05,2,1,10,42,Farm Management;Crop Monitoring;Analytics,In Progress,1
+A00019,2025-06,6,2,8,34,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00019,2025-07,10,5,25,59,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00019,2025-08,6,3,21,78,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00019,2025-09,2,1,6,24,Farm Management;Crop Monitoring;Analytics,Completed,2
+A00019,2025-10,4,3,33,108,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00019,2025-11,7,4,20,49,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00019,2025-12,2,1,10,19,Farm Management,Completed,1
+A00019,2026-01,4,3,9,38,Farm Management,Completed,2
+A00019,2026-02,6,4,40,172,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00019,2026-03,5,3,15,38,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00019,2026-04,3,2,10,40,Farm Management,Completed,1
+A00019,2026-05,2,2,6,19,Farm Management;Crop Monitoring;Analytics,Completed,2
+A00019,2026-06,2,1,3,10,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00021,2025-02,4,2,20,54,Farm Management,Completed,0
+A00021,2025-03,7,3,24,73,Farm Management,Completed,0
+A00021,2025-04,10,4,12,19,Farm Management;Crop Monitoring,Completed,2
+A00021,2025-05,7,3,9,25,Farm Management;Crop Monitoring,Completed,3
+A00021,2025-06,5,4,16,57,Farm Management;Crop Monitoring,Completed,1
+A00021,2025-07,8,3,30,117,Farm Management,Completed,1
+A00021,2025-08,4,3,15,28,Farm Management;Crop Monitoring,Completed,0
+A00021,2025-09,9,6,42,113,Farm Management,Completed,0
+A00021,2025-10,3,2,10,31,Farm Management;Crop Monitoring,Completed,0
+A00021,2025-11,2,1,9,22,Farm Management;Crop Monitoring,Completed,1
+A00021,2025-12,6,5,55,178,Farm Management;Crop Monitoring,Completed,0
+A00021,2026-01,9,6,42,139,Farm Management,Completed,1
+A00021,2026-02,2,1,5,20,Farm Management;Crop Monitoring,Completed,2
+A00021,2026-03,9,6,66,177,Farm Management;Crop Monitoring,Completed,1
+A00021,2026-04,10,7,28,48,Farm Management,Completed,0
+A00021,2026-05,7,4,12,22,Farm Management;Crop Monitoring,Completed,0
+A00021,2026-06,9,7,77,330,Farm Management,Completed,0
+A00022,2026-03,27,16,144,300,Farm Management,Completed,1
+A00022,2026-04,17,11,33,108,Farm Management,Completed,2
+A00022,2026-05,33,8,32,143,Farm Management,Completed,1
+A00022,2026-06,20,9,36,143,Farm Management,Completed,1
+A00023,2025-10,5,2,6,16,Crop Monitoring,Completed,0
+A00023,2025-11,10,4,12,18,Crop Monitoring,Completed,1
+A00023,2025-12,6,2,6,12,Farm Management,Completed,0
+A00023,2026-01,9,5,50,154,Crop Monitoring,Completed,0
+A00023,2026-02,7,4,28,51,Crop Monitoring,Completed,1
+A00023,2026-03,2,1,10,36,Crop Monitoring,Completed,0
+A00023,2026-04,3,2,6,23,Crop Monitoring,Completed,0
+A00023,2026-05,2,1,10,19,Crop Monitoring,Completed,0
+A00023,2026-06,7,2,18,49,Crop Monitoring,Completed,2
+A00024,2026-02,10,6,18,80,Farm Management,Completed,0
+A00024,2026-03,2,1,7,22,Farm Management,Completed,0
+A00024,2026-04,11,7,28,91,Farm Management,Completed,1
+A00024,2026-05,8,7,63,128,Farm Management,Completed,0
+A00024,2026-06,5,2,12,36,Farm Management,Completed,2
+A00025,2025-09,36,19,152,530,Farm Management;Crop Monitoring;Analytics,Completed,3
+A00025,2025-10,43,28,168,640,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00025,2025-11,33,12,48,113,Farm Management;Crop Monitoring;Analytics,Completed,2
+A00025,2025-12,27,11,121,239,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00025,2026-01,26,15,120,299,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00025,2026-02,33,15,45,130,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00025,2026-03,42,29,290,1207,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00025,2026-04,40,21,63,282,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00025,2026-05,47,34,238,409,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00025,2026-06,39,18,72,157,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00026,2025-07,9,5,25,70,Crop Monitoring,Completed,0
+A00026,2025-08,4,1,3,8,Crop Monitoring,Completed,1
+A00026,2025-09,3,2,6,16,Crop Monitoring,Completed,1
+A00026,2025-10,2,1,6,18,Crop Monitoring,Completed,1
+A00026,2025-11,8,7,28,82,Crop Monitoring,Completed,0
+A00026,2025-12,8,4,44,154,Crop Monitoring,Completed,0
+A00026,2026-01,4,3,15,23,Farm Management,Completed,0
+A00026,2026-02,11,7,77,176,Farm Management,Completed,1
+A00026,2026-03,4,3,18,40,Crop Monitoring,Completed,2
+A00026,2026-04,7,4,20,86,Farm Management,Completed,0
+A00026,2026-05,9,7,42,150,Crop Monitoring,Completed,1
+A00026,2026-06,10,8,32,60,Crop Monitoring,Completed,2
+A00027,2026-06,10,4,44,131,Farm Management,In Progress,1
+A00028,2026-03,3,1,9,36,Farm Management;Crop Monitoring,In Progress,3
+A00028,2026-04,6,3,33,72,Farm Management,Completed,1
+A00028,2026-05,10,3,24,76,Farm Management;Crop Monitoring,Completed,0
+A00028,2026-06,7,4,20,89,Farm Management;Crop Monitoring,Completed,1
+A00029,2025-04,8,3,33,89,Farm Management;Crop Monitoring;Analytics,Completed,2
+A00029,2025-05,7,2,20,74,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00029,2025-06,5,2,8,12,Farm Management,Completed,1
+A00029,2025-07,9,5,15,66,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00029,2025-08,4,2,12,43,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00029,2025-09,11,7,77,254,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00029,2025-10,5,0,0,0,,Completed,0
+A00029,2025-11,3,0,0,0,,Completed,0
+A00029,2025-12,2,0,0,0,,Completed,0
+A00029,2026-01,6,0,0,0,,Completed,0
+A00029,2026-02,5,0,0,0,,Completed,0
+A00029,2026-03,7,0,0,0,,Completed,0
+A00029,2026-04,9,0,0,0,,Completed,0
+A00029,2026-05,8,0,0,0,,Completed,0
+A00029,2026-06,3,0,0,0,,Completed,0
+A00030,2025-12,11,5,45,144,Farm Management;Crop Monitoring,Completed,1
+A00030,2026-01,7,4,20,67,Farm Management,Completed,2
+A00030,2026-02,4,1,8,12,Farm Management;Crop Monitoring,Completed,2
+A00030,2026-03,2,1,5,13,Farm Management;Crop Monitoring,Completed,0
+A00030,2026-04,7,4,20,85,Farm Management;Crop Monitoring,Completed,0
+A00030,2026-05,10,6,48,119,Farm Management,Completed,0
+A00030,2026-06,2,1,11,35,Farm Management;Crop Monitoring,Completed,0
+A00031,2025-02,8,6,18,39,Crop Monitoring,In Progress,0
+A00031,2025-03,8,5,30,97,Crop Monitoring,Completed,0
+A00031,2025-04,11,5,45,99,Crop Monitoring,Completed,2
+A00031,2025-05,5,3,12,48,Crop Monitoring,Completed,1
+A00031,2025-06,10,6,30,94,Farm Management,Completed,0
+A00031,2025-07,7,4,36,147,Crop Monitoring,Completed,2
+A00031,2025-08,7,4,16,56,Farm Management,Completed,0
+A00031,2025-09,3,2,20,56,Crop Monitoring,Completed,0
+A00031,2025-10,10,8,32,77,Crop Monitoring,Completed,0
+A00031,2025-11,6,5,40,175,Farm Management,Completed,0
+A00031,2025-12,3,2,6,26,Farm Management,Completed,1
+A00031,2026-01,5,3,18,35,Crop Monitoring,Completed,3
+A00031,2026-02,4,3,21,86,Farm Management,Completed,1
+A00031,2026-03,3,2,6,23,Crop Monitoring,Completed,0
+A00031,2026-04,10,8,72,323,Crop Monitoring,Completed,0
+A00031,2026-05,8,5,15,48,Crop Monitoring,Completed,2
+A00031,2026-06,4,4,12,26,Crop Monitoring,Completed,2
+A00032,2026-01,29,13,143,507,Crop Monitoring,In Progress,0
+A00032,2026-02,48,25,275,1056,Farm Management,Completed,0
+A00032,2026-03,13,5,30,48,Crop Monitoring,Completed,2
+A00032,2026-04,13,8,40,75,Crop Monitoring,Completed,0
+A00032,2026-05,36,15,90,248,Farm Management,Completed,0
+A00032,2026-06,22,13,78,334,Crop Monitoring,Completed,1
+A00033,2025-05,4,1,10,20,Farm Management;Crop Monitoring,In Progress,2
+A00033,2025-06,2,1,7,24,Farm Management;Crop Monitoring,Completed,0
+A00033,2025-07,9,4,24,98,Farm Management;Crop Monitoring,Completed,3
+A00033,2025-08,10,5,50,132,Farm Management,Completed,1
+A00033,2025-09,7,4,32,130,Farm Management;Crop Monitoring,Completed,1
+A00033,2025-10,3,1,4,6,Farm Management;Crop Monitoring,Completed,0
+A00033,2025-11,11,6,42,133,Farm Management;Crop Monitoring,Completed,0
+A00033,2025-12,4,2,22,86,Farm Management,Completed,0
+A00033,2026-01,10,5,20,83,Farm Management,Completed,0
+A00033,2026-02,10,7,63,112,Farm Management;Crop Monitoring,Completed,1
+A00033,2026-03,5,2,6,13,Farm Management;Crop Monitoring,Completed,2
+A00033,2026-04,3,2,18,31,Farm Management,Completed,0
+A00033,2026-05,8,0,0,0,,Completed,0
+A00033,2026-06,8,0,0,0,,Completed,0
+A00034,2025-06,4,4,28,81,Farm Management,Completed,0
+A00034,2025-07,3,1,10,41,Farm Management,Completed,2
+A00034,2025-08,9,4,28,67,Farm Management,Completed,0
+A00034,2025-09,8,4,28,112,Farm Management,Completed,0
+A00034,2025-10,8,3,33,107,Farm Management;Crop Monitoring,Completed,4
+A00034,2025-11,11,5,40,100,Farm Management,Completed,0
+A00034,2025-12,9,5,25,38,Farm Management,Completed,0
+A00034,2026-01,8,4,24,105,Farm Management;Crop Monitoring,Completed,0
+A00034,2026-02,10,6,60,124,Farm Management;Crop Monitoring,Completed,1
+A00034,2026-03,6,3,15,47,Farm Management;Crop Monitoring,Completed,3
+A00034,2026-04,3,2,6,9,Farm Management;Crop Monitoring,Completed,1
+A00034,2026-05,3,2,8,26,Farm Management;Crop Monitoring,Completed,0
+A00034,2026-06,3,0,0,0,,Completed,0
+A00035,2026-03,2,1,4,12,Farm Management,In Progress,0
+A00035,2026-04,2,1,11,43,Farm Management,Completed,0
+A00035,2026-05,10,4,32,93,Farm Management,Completed,0
+A00035,2026-06,2,1,8,35,Farm Management,Completed,2
+A00036,2025-05,10,2,8,27,Crop Monitoring,In Progress,0
+A00036,2025-06,9,4,44,102,Crop Monitoring,Completed,0
+A00036,2025-07,3,2,8,19,Crop Monitoring,Completed,0
+A00036,2025-08,4,3,33,77,Farm Management,Completed,0
+A00036,2025-09,5,4,32,102,Crop Monitoring,Completed,0
+A00036,2025-10,4,2,12,38,Crop Monitoring,Completed,0
+A00036,2025-11,11,9,63,135,Crop Monitoring,Completed,0
+A00036,2025-12,11,6,18,45,Crop Monitoring,Completed,0
+A00036,2026-01,6,4,16,35,Crop Monitoring,Completed,1
+A00036,2026-02,6,4,20,30,Crop Monitoring,Completed,0
+A00036,2026-03,3,2,10,38,Crop Monitoring,Completed,2
+A00036,2026-04,5,4,20,72,Crop Monitoring,Completed,1
+A00036,2026-05,10,7,42,93,Crop Monitoring,Completed,0
+A00036,2026-06,6,4,16,39,Crop Monitoring,Completed,0
+A00037,2025-11,45,24,264,850,Farm Management;Crop Monitoring,Completed,0
+A00037,2025-12,21,7,56,142,Farm Management;Crop Monitoring,Completed,0
+A00037,2026-01,16,8,88,252,Farm Management;Crop Monitoring,Completed,0
+A00037,2026-02,29,0,0,0,,Completed,0
+A00037,2026-03,29,0,0,0,,Completed,0
+A00037,2026-04,47,0,0,0,,Completed,0
+A00037,2026-05,31,0,0,0,,Completed,0
+A00037,2026-06,22,0,0,0,,Completed,0
+A00038,2026-03,8,4,36,67,Farm Management,In Progress,1
+A00038,2026-04,8,5,20,65,Farm Management,Completed,1
+A00038,2026-05,11,4,40,85,Farm Management,Completed,1
+A00038,2026-06,9,0,0,0,,Completed,0
+A00039,2025-12,6,3,30,102,Farm Management,Completed,1
+A00039,2026-01,6,3,21,31,Farm Management;Crop Monitoring,Completed,0
+A00039,2026-02,8,3,30,102,Farm Management;Crop Monitoring,Completed,0
+A00039,2026-03,8,5,50,200,Farm Management;Crop Monitoring,Completed,0
+A00039,2026-04,5,1,5,9,Farm Management,Completed,0
+A00039,2026-05,4,2,8,19,Farm Management,Completed,0
+A00039,2026-06,11,5,35,77,Farm Management;Crop Monitoring,Completed,0
+A00041,2025-04,5,3,33,122,Farm Management;Crop Monitoring,In Progress,0
+A00041,2025-05,2,1,8,26,Farm Management;Crop Monitoring,Completed,2
+A00041,2025-06,8,4,40,74,Farm Management;Crop Monitoring,Completed,0
+A00041,2025-07,10,5,35,91,Farm Management,Completed,0
+A00041,2025-08,8,5,55,117,Farm Management;Crop Monitoring,Completed,1
+A00041,2025-09,9,2,10,36,Farm Management;Crop Monitoring,Completed,2
+A00041,2025-10,4,3,27,112,Farm Management;Crop Monitoring,Completed,0
+A00041,2025-11,6,4,20,40,Farm Management;Crop Monitoring,Completed,0
+A00041,2025-12,2,1,4,7,Farm Management;Crop Monitoring,Completed,0
+A00041,2026-01,2,1,11,44,Farm Management;Crop Monitoring,Completed,1
+A00041,2026-02,3,1,7,18,Farm Management;Crop Monitoring,Completed,2
+A00041,2026-03,5,4,12,20,Farm Management;Crop Monitoring,Completed,1
+A00041,2026-04,11,8,48,106,Farm Management;Crop Monitoring,Completed,0
+A00041,2026-05,8,7,77,131,Farm Management;Crop Monitoring,Completed,1
+A00041,2026-06,8,0,0,0,,Completed,0
+A00042,2026-01,8,5,20,53,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00042,2026-02,10,5,20,52,Farm Management;Crop Monitoring;Analytics,Completed,3
+A00042,2026-03,6,3,30,97,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00042,2026-04,9,5,50,215,Farm Management,Completed,1
+A00042,2026-05,6,4,36,105,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00042,2026-06,4,2,10,44,Farm Management,Completed,0
+A00043,2025-11,9,5,30,102,Farm Management,Completed,1
+A00043,2025-12,3,2,12,24,Crop Monitoring,Completed,0
+A00043,2026-01,9,4,36,83,Crop Monitoring,Completed,0
+A00043,2026-02,8,6,60,244,Farm Management,Completed,0
+A00043,2026-03,5,3,12,38,Crop Monitoring,Completed,0
+A00043,2026-04,3,1,10,18,Crop Monitoring,Completed,2
+A00043,2026-05,7,3,24,57,Crop Monitoring,Completed,0
+A00043,2026-06,3,1,5,12,Crop Monitoring,Completed,1
+A00044,2025-08,4,2,14,55,Farm Management,In Progress,2
+A00044,2025-09,8,3,9,22,Farm Management,Completed,0
+A00044,2025-10,5,3,12,53,Farm Management,Completed,1
+A00044,2025-11,6,3,18,50,Farm Management,Completed,0
+A00044,2025-12,8,4,16,25,Farm Management,Completed,1
+A00044,2026-01,8,3,9,35,Farm Management,Completed,1
+A00044,2026-02,6,4,32,108,Farm Management,Completed,2
+A00044,2026-03,3,2,8,35,Farm Management,Completed,0
+A00044,2026-04,2,1,6,26,Farm Management,Completed,1
+A00044,2026-05,3,2,6,21,Farm Management,Completed,0
+A00044,2026-06,7,3,33,106,Farm Management,Completed,0
+A00046,2025-03,6,4,36,61,Farm Management,In Progress,0
+A00046,2025-04,8,5,45,199,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00046,2025-05,9,5,45,160,Farm Management,Completed,0
+A00046,2025-06,10,6,60,226,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00046,2025-07,3,1,9,32,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00046,2025-08,11,5,35,106,Farm Management,Completed,1
+A00046,2025-09,9,4,32,89,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00046,2025-10,11,8,72,293,Farm Management,Completed,1
+A00046,2025-11,4,3,27,100,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00046,2025-12,9,6,48,163,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00046,2026-01,6,5,30,77,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00046,2026-02,2,1,5,13,Farm Management,Completed,1
+A00046,2026-03,5,4,40,62,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00046,2026-04,3,2,8,18,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00046,2026-05,5,4,36,131,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00046,2026-06,10,7,42,104,Farm Management,Completed,1
+A00047,2026-06,11,7,21,69,Farm Management;Crop Monitoring,Completed,0
+A00048,2025-07,11,4,32,109,Farm Management,Completed,0
+A00048,2025-08,5,2,6,26,Farm Management;Crop Monitoring,Completed,2
+A00048,2025-09,9,4,12,34,Farm Management;Crop Monitoring,Completed,1
+A00048,2025-10,9,6,42,91,Farm Management;Crop Monitoring,Completed,1
+A00048,2025-11,8,2,8,17,Farm Management;Crop Monitoring,Completed,1
+A00048,2025-12,5,3,27,95,Farm Management,Completed,0
+A00048,2026-01,5,3,24,47,Farm Management;Crop Monitoring,Completed,0
+A00048,2026-02,4,3,27,79,Farm Management;Crop Monitoring,Completed,0
+A00048,2026-03,5,2,6,14,Farm Management;Crop Monitoring,Completed,0
+A00048,2026-04,4,3,9,22,Farm Management;Crop Monitoring,Completed,2
+A00048,2026-05,8,5,45,68,Farm Management;Crop Monitoring,Completed,1
+A00048,2026-06,10,8,48,126,Farm Management;Crop Monitoring,Completed,0
+A00049,2025-09,10,5,30,122,Farm Management,In Progress,2
+A00049,2025-10,2,1,5,8,Farm Management;Crop Monitoring,Completed,0
+A00049,2025-11,10,7,63,142,Farm Management;Crop Monitoring,Completed,1
+A00049,2025-12,8,5,15,44,Farm Management;Crop Monitoring,Completed,0
+A00049,2026-01,10,4,32,54,Farm Management;Crop Monitoring,Completed,1
+A00049,2026-02,8,6,18,52,Farm Management,Completed,0
+A00049,2026-03,8,0,0,0,,Completed,0
+A00049,2026-04,10,0,0,0,,Completed,0
+A00049,2026-05,9,0,0,0,,Completed,0
+A00049,2026-06,9,0,0,0,,Completed,0
+A00050,2025-11,16,10,100,378,Farm Management,In Progress,1
+A00050,2025-12,11,6,36,108,Farm Management,Completed,1
+A00050,2026-01,33,16,128,453,Farm Management,Completed,2
+A00050,2026-02,42,29,319,1247,Farm Management,Completed,0
+A00050,2026-03,24,13,52,96,Farm Management,Completed,1
+A00050,2026-04,42,33,297,748,Farm Management,Completed,1
+A00050,2026-05,29,10,70,189,Farm Management,Completed,0
+A00050,2026-06,49,35,315,605,Farm Management,Completed,2
+A00051,2026-04,3,1,11,24,Farm Management,In Progress,2
+A00051,2026-05,3,2,18,80,Farm Management,Completed,2
+A00051,2026-06,7,3,27,110,Farm Management,Completed,2
+A00052,2026-05,3,1,5,9,Farm Management;Crop Monitoring,Completed,1
+A00052,2026-06,10,7,56,251,Farm Management,Completed,1
+A00053,2025-07,9,4,16,54,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00053,2025-08,2,1,7,19,Farm Management,Completed,0
+A00053,2025-09,3,2,10,15,Farm Management,Completed,0
+A00053,2025-10,6,5,35,150,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00053,2025-11,5,3,30,130,Farm Management,Completed,0
+A00053,2025-12,2,1,3,11,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00053,2026-01,5,3,30,74,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00053,2026-02,3,1,10,31,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00053,2026-03,8,7,42,163,Farm Management,Completed,1
+A00053,2026-04,4,3,24,41,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00053,2026-05,7,5,25,112,Farm Management,Completed,0
+A00053,2026-06,7,2,18,78,Farm Management;Crop Monitoring;Analytics,Completed,2
+A00054,2025-05,8,2,22,35,Farm Management,In Progress,1
+A00054,2025-06,10,5,30,98,Farm Management;Crop Monitoring,Completed,0
+A00054,2025-07,10,3,15,57,Farm Management;Crop Monitoring,Completed,3
+A00054,2025-08,7,5,50,88,Farm Management;Crop Monitoring,Completed,0
+A00054,2025-09,4,3,15,50,Farm Management;Crop Monitoring,Completed,0
+A00054,2025-10,11,5,40,105,Farm Management,Completed,2
+A00054,2025-11,8,6,66,293,Farm Management;Crop Monitoring,Completed,0
+A00054,2025-12,5,4,40,101,Farm Management;Crop Monitoring,Completed,0
+A00054,2026-01,10,7,21,92,Farm Management,Completed,0
+A00054,2026-02,11,9,27,113,Farm Management;Crop Monitoring,Completed,0
+A00054,2026-03,8,4,40,66,Farm Management;Crop Monitoring,Completed,1
+A00054,2026-04,4,2,8,23,Farm Management,Completed,1
+A00054,2026-05,2,1,10,28,Farm Management;Crop Monitoring,Completed,1
+A00054,2026-06,6,6,60,258,Farm Management;Crop Monitoring,Completed,1
+A00056,2026-06,21,9,63,249,Farm Management,In Progress,3
+A00057,2026-04,7,4,16,35,Farm Management,In Progress,0
+A00057,2026-05,7,4,20,65,Farm Management,Completed,1
+A00057,2026-06,11,8,24,69,Farm Management,Completed,1
+A00058,2025-03,3,2,20,47,Farm Management,Completed,1
+A00058,2025-04,7,3,15,51,Farm Management;Crop Monitoring,Completed,2
+A00058,2025-05,9,5,25,104,Farm Management;Crop Monitoring,Completed,0
+A00058,2025-06,11,6,60,157,Farm Management,Completed,0
+A00058,2025-07,8,5,50,156,Farm Management;Crop Monitoring,Completed,0
+A00058,2025-08,10,7,28,113,Farm Management,Completed,0
+A00058,2025-09,8,4,28,72,Farm Management;Crop Monitoring,Completed,0
+A00058,2025-10,10,6,66,253,Farm Management;Crop Monitoring,Completed,2
+A00058,2025-11,7,5,30,108,Farm Management,Completed,1
+A00058,2025-12,10,10,30,132,Farm Management,Completed,0
+A00058,2026-01,10,5,50,218,Farm Management;Crop Monitoring,Completed,1
+A00058,2026-02,10,8,48,83,Farm Management,Completed,0
+A00058,2026-03,2,1,11,23,Farm Management;Crop Monitoring,Completed,0
+A00058,2026-04,6,5,20,51,Farm Management,Completed,1
+A00058,2026-05,10,9,99,212,Farm Management,Completed,0
+A00058,2026-06,2,0,0,0,,Completed,0
+A00059,2026-01,2,1,3,11,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00059,2026-02,11,4,20,41,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00059,2026-03,5,3,33,77,Farm Management,Completed,0
+A00059,2026-04,10,7,63,269,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00059,2026-05,8,6,60,232,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00059,2026-06,6,4,12,28,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00060,2026-06,7,4,40,120,Farm Management;Crop Monitoring,In Progress,0
+A00061,2025-07,6,4,12,49,Farm Management;Crop Monitoring,Completed,0
+A00061,2025-08,5,2,8,28,Farm Management;Crop Monitoring,Completed,1
+A00061,2025-09,6,3,12,24,Farm Management,Completed,1
+A00061,2025-10,7,4,32,142,Farm Management,Completed,1
+A00061,2025-11,5,0,0,0,,Completed,0
+A00061,2025-12,7,0,0,0,,Completed,0
+A00061,2026-01,10,0,0,0,,Completed,0
+A00061,2026-02,9,0,0,0,,Completed,0
+A00061,2026-03,3,0,0,0,,Completed,0
+A00061,2026-04,11,0,0,0,,Completed,0
+A00061,2026-05,7,0,0,0,,Completed,0
+A00061,2026-06,3,0,0,0,,Completed,0
+A00062,2025-12,7,4,20,59,Farm Management,In Progress,0
+A00062,2026-01,11,6,42,101,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00062,2026-02,2,1,9,17,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00062,2026-03,6,3,15,49,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00062,2026-04,3,2,12,37,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00062,2026-05,5,2,16,61,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00062,2026-06,6,4,44,184,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00063,2025-02,2,1,11,18,Farm Management,Completed,1
+A00063,2025-03,4,2,14,30,Farm Management,Completed,0
+A00063,2025-04,5,3,9,22,Farm Management,Completed,1
+A00063,2025-05,6,4,32,55,Farm Management,Completed,3
+A00063,2025-06,2,1,4,9,Farm Management,Completed,1
+A00063,2025-07,11,5,50,201,Farm Management,Completed,2
+A00063,2025-08,7,3,15,56,Farm Management,Completed,1
+A00063,2025-09,10,2,16,54,Farm Management,Completed,1
+A00063,2025-10,11,8,88,310,Farm Management,Completed,0
+A00063,2025-11,2,1,11,46,Farm Management,Completed,3
+A00063,2025-12,4,3,15,67,Farm Management,Completed,0
+A00063,2026-01,2,1,6,20,Farm Management,Completed,1
+A00063,2026-02,11,7,63,157,Farm Management,Completed,1
+A00063,2026-03,2,1,10,19,Farm Management,Completed,0
+A00063,2026-04,11,9,36,96,Farm Management,Completed,0
+A00063,2026-05,7,0,0,0,,Completed,0
+A00063,2026-06,8,0,0,0,,Completed,0
+A00064,2025-02,8,3,30,94,Farm Management,In Progress,1
+A00064,2025-03,11,3,15,52,Farm Management,Completed,2
+A00064,2025-04,11,5,35,95,Farm Management,Completed,2
+A00064,2025-05,2,1,3,4,Farm Management,Completed,2
+A00064,2025-06,4,3,12,46,Farm Management,Completed,0
+A00064,2025-07,6,3,27,93,Farm Management,Completed,1
+A00064,2025-08,4,3,18,80,Farm Management,Completed,0
+A00064,2025-09,6,3,18,35,Farm Management,Completed,0
+A00064,2025-10,11,7,77,342,Farm Management,Completed,0
+A00064,2025-11,7,5,30,125,Farm Management,Completed,0
+A00064,2025-12,5,4,28,117,Farm Management,Completed,0
+A00064,2026-01,3,3,15,60,Farm Management,Completed,0
+A00064,2026-02,11,9,54,123,Farm Management,Completed,2
+A00064,2026-03,2,1,8,20,Farm Management,Completed,1
+A00064,2026-04,9,5,45,151,Farm Management,Completed,0
+A00064,2026-05,6,5,20,53,Farm Management,Completed,1
+A00064,2026-06,11,8,32,82,Farm Management,Completed,1
+A00065,2025-04,2,1,5,22,Farm Management,Completed,1
+A00065,2025-05,2,1,3,4,Farm Management;Crop Monitoring,Completed,0
+A00065,2025-06,11,5,20,49,Farm Management,Completed,2
+A00065,2025-07,3,2,22,66,Farm Management;Crop Monitoring,Completed,0
+A00065,2025-08,10,5,35,81,Farm Management,Completed,2
+A00065,2025-09,6,4,28,55,Farm Management;Crop Monitoring,Completed,0
+A00065,2025-10,3,2,18,56,Farm Management;Crop Monitoring,Completed,2
+A00065,2025-11,9,3,9,24,Farm Management;Crop Monitoring,Completed,2
+A00065,2025-12,8,4,24,95,Farm Management;Crop Monitoring,Completed,1
+A00065,2026-01,5,3,30,63,Farm Management;Crop Monitoring,Completed,0
+A00065,2026-02,2,2,12,22,Farm Management;Crop Monitoring,Completed,0
+A00065,2026-03,9,6,66,101,Farm Management,Completed,0
+A00065,2026-04,4,2,10,29,Farm Management;Crop Monitoring,Completed,0
+A00065,2026-05,4,3,27,115,Farm Management;Crop Monitoring,Completed,1
+A00065,2026-06,10,9,99,157,Farm Management;Crop Monitoring,Completed,1
+A00066,2025-09,9,3,33,116,Crop Monitoring,In Progress,0
+A00066,2025-10,5,3,12,40,Crop Monitoring,Completed,0
+A00066,2025-11,6,3,21,65,Crop Monitoring,Completed,0
+A00066,2025-12,2,1,8,13,Crop Monitoring,Completed,2
+A00066,2026-01,4,0,0,0,,Completed,0
+A00066,2026-02,3,0,0,0,,Completed,0
+A00066,2026-03,2,0,0,0,,Completed,0
+A00066,2026-04,9,0,0,0,,Completed,0
+A00066,2026-05,9,0,0,0,,Completed,0
+A00066,2026-06,2,0,0,0,,Completed,0
+A00067,2026-02,6,3,30,76,Farm Management;Crop Monitoring,Completed,0
+A00067,2026-03,5,2,14,21,Farm Management;Crop Monitoring,Completed,0
+A00067,2026-04,7,4,24,67,Farm Management;Crop Monitoring,Completed,0
+A00067,2026-05,11,8,48,199,Farm Management;Crop Monitoring,Completed,2
+A00067,2026-06,9,4,44,142,Farm Management,Completed,0
+A00068,2025-09,11,7,42,160,Crop Monitoring,Completed,0
+A00068,2025-10,11,5,30,49,Crop Monitoring,Completed,3
+A00068,2025-11,3,2,12,34,Farm Management,Completed,0
+A00068,2025-12,2,1,4,12,Farm Management,Completed,0
+A00068,2026-01,4,3,9,25,Crop Monitoring,Completed,0
+A00068,2026-02,8,5,20,59,Farm Management,Completed,0
+A00068,2026-03,6,4,36,119,Farm Management,Completed,0
+A00068,2026-04,2,1,3,12,Crop Monitoring,Completed,0
+A00068,2026-05,9,6,18,39,Crop Monitoring,Completed,0
+A00068,2026-06,9,8,80,154,Crop Monitoring,Completed,1
+A00069,2026-04,45,26,182,723,Farm Management,In Progress,0
+A00069,2026-05,41,18,126,468,Farm Management;Crop Monitoring,Completed,0
+A00069,2026-06,41,25,100,376,Farm Management,Completed,1
+A00070,2025-07,7,3,21,50,Farm Management;Crop Monitoring,In Progress,1
+A00070,2025-08,10,4,16,30,Farm Management;Crop Monitoring,Completed,1
+A00070,2025-09,11,6,54,240,Farm Management,Completed,1
+A00070,2025-10,9,5,45,149,Farm Management;Crop Monitoring,Completed,1
+A00070,2025-11,2,1,8,33,Farm Management,Completed,0
+A00070,2025-12,6,3,24,74,Farm Management;Crop Monitoring,Completed,0
+A00070,2026-01,6,4,36,141,Farm Management;Crop Monitoring,Completed,1
+A00070,2026-02,4,3,27,98,Farm Management,Completed,0
+A00070,2026-03,4,2,18,57,Farm Management,Completed,0
+A00070,2026-04,6,4,40,82,Farm Management;Crop Monitoring,Completed,1
+A00070,2026-05,3,1,6,10,Farm Management;Crop Monitoring,Completed,0
+A00070,2026-06,10,6,30,90,Farm Management,Completed,0
+A00071,2025-12,9,4,24,83,Farm Management,In Progress,1
+A00071,2026-01,10,5,45,199,Farm Management,Completed,0
+A00071,2026-02,10,7,28,122,Farm Management,Completed,0
+A00071,2026-03,2,1,10,27,Crop Monitoring,Completed,0
+A00071,2026-04,3,2,18,79,Crop Monitoring,Completed,0
+A00071,2026-05,2,1,9,29,Crop Monitoring,Completed,0
+A00071,2026-06,2,1,4,11,Crop Monitoring,Completed,0
+A00072,2025-02,4,2,10,23,Farm Management,In Progress,0
+A00072,2025-03,2,1,6,18,Farm Management,Completed,0
+A00072,2025-04,9,4,24,59,Farm Management,Completed,1
+A00072,2025-05,6,3,12,22,Farm Management,Completed,1
+A00072,2025-06,11,5,45,175,Farm Management,Completed,0
+A00072,2025-07,6,5,45,68,Farm Management,Completed,0
+A00072,2025-08,8,5,20,61,Farm Management,Completed,0
+A00072,2025-09,4,3,21,46,Farm Management,Completed,0
+A00072,2025-10,11,8,72,139,Farm Management,Completed,0
+A00072,2025-11,2,1,10,31,Farm Management,Completed,0
+A00072,2025-12,9,6,54,88,Farm Management,Completed,1
+A00072,2026-01,10,6,48,156,Farm Management,Completed,0
+A00072,2026-02,10,6,24,59,Farm Management,Completed,2
+A00072,2026-03,7,4,40,98,Farm Management,Completed,0
+A00072,2026-04,8,7,77,301,Farm Management,Completed,1
+A00072,2026-05,4,3,15,46,Farm Management,Completed,1
+A00072,2026-06,9,6,42,71,Farm Management,Completed,1
+A00073,2026-02,9,4,20,73,Farm Management;Crop Monitoring,In Progress,2
+A00073,2026-03,8,4,28,122,Farm Management;Crop Monitoring,Completed,1
+A00073,2026-04,3,2,18,44,Farm Management;Crop Monitoring,Completed,0
+A00073,2026-05,2,0,0,0,,Completed,0
+A00073,2026-06,10,0,0,0,,Completed,0
+A00074,2026-02,5,2,14,42,Farm Management,In Progress,1
+A00074,2026-03,6,3,15,31,Farm Management;Crop Monitoring,Completed,0
+A00074,2026-04,7,3,18,53,Farm Management,Completed,0
+A00074,2026-05,11,8,72,290,Farm Management;Crop Monitoring,Completed,0
+A00074,2026-06,7,5,45,200,Farm Management;Crop Monitoring,Completed,0
+A00075,2025-11,2,1,7,12,Farm Management,In Progress,0
+A00075,2025-12,5,2,18,77,Farm Management,Completed,0
+A00075,2026-01,5,3,30,73,Farm Management,Completed,0
+A00075,2026-02,10,7,77,238,Farm Management,Completed,1
+A00075,2026-03,4,3,30,115,Farm Management,Completed,0
+A00075,2026-04,3,2,10,31,Farm Management,Completed,1
+A00075,2026-05,4,0,0,0,,Completed,0
+A00075,2026-06,6,0,0,0,,Completed,0
+A00076,2026-04,2,1,6,16,Farm Management,In Progress,1
+A00076,2026-05,8,4,16,70,Farm Management,Completed,1
+A00076,2026-06,7,3,12,29,Farm Management,Completed,3
+A00077,2025-06,11,7,35,103,Crop Monitoring,In Progress,2
+A00077,2025-07,5,2,6,23,Crop Monitoring,Completed,2
+A00077,2025-08,6,3,24,104,Crop Monitoring,Completed,2
+A00077,2025-09,11,5,25,101,Farm Management,Completed,0
+A00077,2025-10,4,3,18,53,Crop Monitoring,Completed,1
+A00077,2025-11,10,4,20,65,Crop Monitoring,Completed,2
+A00077,2025-12,2,1,5,9,Crop Monitoring,Completed,0
+A00077,2026-01,8,6,36,122,Crop Monitoring,Completed,1
+A00077,2026-02,9,4,20,89,Crop Monitoring,Completed,0
+A00077,2026-03,6,3,24,65,Crop Monitoring,Completed,2
+A00077,2026-04,3,2,22,73,Crop Monitoring,Completed,0
+A00077,2026-05,9,5,20,73,Crop Monitoring,Completed,1
+A00077,2026-06,10,7,42,81,Crop Monitoring,Completed,0
+A00078,2026-02,3,2,22,90,Farm Management;Crop Monitoring;Analytics,In Progress,0
+A00078,2026-03,5,2,8,12,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00078,2026-04,7,3,30,87,Farm Management,Completed,3
+A00078,2026-05,6,4,16,61,Farm Management,Completed,0
+A00078,2026-06,8,5,55,119,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00079,2025-02,33,11,44,192,Crop Monitoring,In Progress,2
+A00079,2025-03,42,22,110,327,Crop Monitoring,Completed,0
+A00079,2025-04,43,12,48,162,Farm Management,Completed,0
+A00079,2025-05,11,8,32,63,Crop Monitoring,Completed,1
+A00079,2025-06,44,24,144,477,Farm Management,Completed,0
+A00079,2025-07,13,10,80,355,Crop Monitoring,Completed,1
+A00079,2025-08,38,24,96,410,Crop Monitoring,Completed,0
+A00079,2025-09,24,16,96,393,Crop Monitoring,Completed,0
+A00079,2025-10,43,25,150,332,Farm Management,Completed,1
+A00079,2025-11,46,30,180,319,Crop Monitoring,Completed,1
+A00079,2025-12,49,33,165,559,Crop Monitoring,Completed,1
+A00079,2026-01,33,19,190,607,Crop Monitoring,Completed,2
+A00079,2026-02,16,7,77,284,Crop Monitoring,Completed,0
+A00079,2026-03,23,18,72,277,Crop Monitoring,Completed,0
+A00079,2026-04,37,35,315,1190,Farm Management,Completed,2
+A00079,2026-05,35,25,200,623,Farm Management,Completed,2
+A00079,2026-06,32,24,240,689,Crop Monitoring,Completed,2
+A00081,2025-11,11,7,35,113,Farm Management,Completed,0
+A00081,2025-12,9,2,22,55,Farm Management,Completed,1
+A00081,2026-01,6,3,12,29,Farm Management,Completed,0
+A00081,2026-02,9,4,40,173,Farm Management,Completed,1
+A00081,2026-03,2,1,11,48,Farm Management,Completed,0
+A00081,2026-04,9,5,25,46,Farm Management,Completed,1
+A00081,2026-05,3,2,14,34,Farm Management,Completed,1
+A00081,2026-06,3,2,10,41,Farm Management,Completed,0
+A00082,2026-03,8,4,36,136,Farm Management,In Progress,0
+A00082,2026-04,4,2,8,22,Crop Monitoring,Completed,2
+A00082,2026-05,2,1,7,12,Crop Monitoring,Completed,1
+A00082,2026-06,6,3,33,100,Crop Monitoring,Completed,0
+A00083,2025-02,2,1,8,25,Farm Management;Crop Monitoring,Completed,0
+A00083,2025-03,6,4,20,56,Farm Management,Completed,1
+A00083,2025-04,5,3,33,53,Farm Management;Crop Monitoring,Completed,0
+A00083,2025-05,6,3,21,49,Farm Management;Crop Monitoring,Completed,0
+A00083,2025-06,6,4,36,137,Farm Management;Crop Monitoring,Completed,0
+A00083,2025-07,5,2,14,38,Farm Management;Crop Monitoring,Completed,2
+A00083,2025-08,11,5,35,134,Farm Management;Crop Monitoring,Completed,1
+A00083,2025-09,3,2,22,91,Farm Management,Completed,0
+A00083,2025-10,9,6,36,101,Farm Management;Crop Monitoring,Completed,0
+A00083,2025-11,7,5,40,117,Farm Management;Crop Monitoring,Completed,2
+A00083,2025-12,2,0,0,0,,Completed,0
+A00083,2026-01,10,0,0,0,,Completed,0
+A00083,2026-02,10,0,0,0,,Completed,0
+A00083,2026-03,2,0,0,0,,Completed,0
+A00083,2026-04,3,0,0,0,,Completed,0
+A00083,2026-05,2,0,0,0,,Completed,0
+A00083,2026-06,4,0,0,0,,Completed,0
+A00084,2025-07,11,6,24,81,Farm Management,Completed,0
+A00084,2025-08,4,1,8,16,Farm Management,Completed,0
+A00084,2025-09,6,2,18,53,Farm Management,Completed,1
+A00084,2025-10,10,7,28,114,Farm Management,Completed,1
+A00084,2025-11,5,3,21,83,Farm Management,Completed,0
+A00084,2025-12,7,3,9,34,Farm Management,Completed,2
+A00084,2026-01,9,6,42,171,Farm Management,Completed,0
+A00084,2026-02,3,2,10,32,Farm Management,Completed,0
+A00084,2026-03,2,1,9,27,Farm Management,Completed,0
+A00084,2026-04,3,1,9,18,Farm Management,Completed,4
+A00084,2026-05,7,5,35,94,Farm Management,Completed,0
+A00084,2026-06,6,4,44,103,Farm Management,Completed,1
+A00085,2026-01,4,2,20,70,Farm Management,In Progress,0
+A00085,2026-02,11,8,80,328,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00085,2026-03,9,4,12,33,Farm Management,Completed,1
+A00085,2026-04,2,1,7,21,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00085,2026-05,10,4,44,183,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00085,2026-06,10,5,55,162,Farm Management,Completed,0
+A00086,2025-08,3,1,6,13,Farm Management;Crop Monitoring,In Progress,2
+A00086,2025-09,6,3,33,147,Farm Management;Crop Monitoring,Completed,0
+A00086,2025-10,10,4,16,26,Farm Management;Crop Monitoring,Completed,0
+A00086,2025-11,3,1,9,27,Farm Management;Crop Monitoring,Completed,0
+A00086,2025-12,9,6,54,216,Farm Management;Crop Monitoring,Completed,0
+A00086,2026-01,11,7,70,219,Farm Management,Completed,0
+A00086,2026-02,7,5,55,109,Farm Management;Crop Monitoring,Completed,2
+A00086,2026-03,2,1,7,26,Farm Management;Crop Monitoring,Completed,0
+A00086,2026-04,8,7,63,188,Farm Management;Crop Monitoring,Completed,0
+A00086,2026-05,4,3,30,114,Farm Management,Completed,1
+A00086,2026-06,2,1,4,8,Farm Management;Crop Monitoring,Completed,1
+A00087,2026-06,4,2,8,15,Crop Monitoring,In Progress,0
+A00088,2026-02,8,5,45,73,Farm Management,Completed,1
+A00088,2026-03,3,2,14,57,Farm Management,Completed,2
+A00088,2026-04,2,1,7,25,Farm Management,Completed,1
+A00088,2026-05,7,3,15,63,Farm Management,Completed,1
+A00088,2026-06,4,3,15,63,Farm Management,Completed,0
+A00089,2026-03,2,1,11,45,Farm Management;Crop Monitoring,In Progress,0
+A00089,2026-04,11,2,8,30,Farm Management,Completed,1
+A00089,2026-05,3,1,11,42,Farm Management,Completed,0
+A00089,2026-06,8,4,36,133,Farm Management;Crop Monitoring,Completed,1
+A00090,2025-11,2,1,9,22,Farm Management;Crop Monitoring;Analytics,In Progress,1
+A00090,2025-12,10,5,50,196,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00090,2026-01,8,5,55,117,Farm Management;Crop Monitoring;Analytics,Completed,3
+A00090,2026-02,7,4,36,77,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00090,2026-03,3,2,14,21,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00090,2026-04,8,4,44,72,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00090,2026-05,3,1,5,11,Farm Management,Completed,0
+A00090,2026-06,8,5,55,85,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00091,2026-02,48,29,203,543,Crop Monitoring,In Progress,1
+A00091,2026-03,15,9,90,175,Crop Monitoring,Completed,0
+A00091,2026-04,46,26,208,570,Crop Monitoring,Completed,0
+A00091,2026-05,39,0,0,0,,Completed,0
+A00091,2026-06,43,0,0,0,,Completed,0
+A00092,2025-07,38,15,165,432,Farm Management;Crop Monitoring,Completed,0
+A00092,2025-08,39,15,165,302,Farm Management;Crop Monitoring,Completed,2
+A00092,2025-09,25,11,99,430,Farm Management;Crop Monitoring,Completed,0
+A00092,2025-10,29,14,112,379,Farm Management;Crop Monitoring,Completed,0
+A00092,2025-11,31,19,76,145,Farm Management;Crop Monitoring,Completed,0
+A00092,2025-12,42,18,180,360,Farm Management;Crop Monitoring,Completed,0
+A00092,2026-01,22,16,80,215,Farm Management;Crop Monitoring,Completed,2
+A00092,2026-02,46,27,81,250,Farm Management;Crop Monitoring,Completed,0
+A00092,2026-03,33,17,68,105,Farm Management;Crop Monitoring,Completed,1
+A00092,2026-04,34,21,147,405,Farm Management;Crop Monitoring,Completed,0
+A00092,2026-05,13,8,40,140,Farm Management,Completed,1
+A00092,2026-06,14,9,63,178,Farm Management;Crop Monitoring,Completed,0
+A00093,2025-08,7,4,16,48,Farm Management,In Progress,0
+A00093,2025-09,6,3,21,35,Farm Management;Crop Monitoring,Completed,2
+A00093,2025-10,3,2,12,46,Farm Management,Completed,0
+A00093,2025-11,9,6,36,100,Farm Management;Crop Monitoring,Completed,0
+A00093,2025-12,9,5,40,114,Farm Management;Crop Monitoring,Completed,1
+A00093,2026-01,4,2,10,40,Farm Management;Crop Monitoring,Completed,0
+A00093,2026-02,7,2,10,42,Farm Management;Crop Monitoring,Completed,1
+A00093,2026-03,2,1,5,9,Farm Management,Completed,2
+A00093,2026-04,8,6,36,95,Farm Management,Completed,0
+A00093,2026-05,3,2,14,57,Farm Management;Crop Monitoring,Completed,0
+A00093,2026-06,8,7,42,149,Farm Management;Crop Monitoring,Completed,1
+A00094,2025-04,5,3,30,134,Farm Management,Completed,1
+A00094,2025-05,10,6,30,86,Farm Management;Crop Monitoring,Completed,0
+A00094,2025-06,8,3,12,41,Farm Management,Completed,2
+A00094,2025-07,2,1,8,35,Farm Management,Completed,1
+A00094,2025-08,9,4,12,40,Farm Management,Completed,0
+A00094,2025-09,11,7,49,190,Farm Management,Completed,1
+A00094,2025-10,3,1,3,10,Farm Management;Crop Monitoring,Completed,0
+A00094,2025-11,8,3,33,104,Farm Management;Crop Monitoring,Completed,3
+A00094,2025-12,6,5,20,47,Farm Management,Completed,1
+A00094,2026-01,7,4,24,47,Farm Management;Crop Monitoring,Completed,0
+A00094,2026-02,8,5,55,207,Farm Management;Crop Monitoring,Completed,0
+A00094,2026-03,10,8,80,177,Farm Management,Completed,1
+A00094,2026-04,10,7,21,77,Farm Management,Completed,2
+A00094,2026-05,8,7,35,52,Farm Management;Crop Monitoring,Completed,0
+A00094,2026-06,2,2,18,58,Farm Management;Crop Monitoring,Completed,0
+A00095,2026-04,2,1,5,17,Farm Management,Completed,3
+A00095,2026-05,6,3,9,15,Crop Monitoring,Completed,1
+A00095,2026-06,3,2,16,51,Farm Management,Completed,1
+A00097,2025-10,4,2,6,17,Crop Monitoring,In Progress,1
+A00097,2025-11,4,1,3,4,Crop Monitoring,Completed,2
+A00097,2025-12,5,2,20,85,Crop Monitoring,Completed,0
+A00097,2026-01,9,5,20,54,Farm Management,Completed,1
+A00097,2026-02,10,4,20,41,Crop Monitoring,Completed,1
+A00097,2026-03,10,5,50,111,Crop Monitoring,Completed,0
+A00097,2026-04,7,4,32,51,Crop Monitoring,Completed,0
+A00097,2026-05,2,1,4,6,Farm Management,Completed,2
+A00097,2026-06,3,2,16,39,Crop Monitoring,Completed,1
+A00098,2025-05,8,5,20,66,Farm Management,In Progress,0
+A00098,2025-06,11,5,25,62,Farm Management,Completed,2
+A00098,2025-07,3,1,8,27,Farm Management;Crop Monitoring;Analytics,Completed,2
+A00098,2025-08,3,2,6,26,Farm Management,Completed,2
+A00098,2025-09,11,6,54,161,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00098,2025-10,6,4,20,40,Farm Management,Completed,0
+A00098,2025-11,11,5,30,50,Farm Management;Crop Monitoring;Analytics,Completed,3
+A00098,2025-12,9,7,42,157,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00098,2026-01,7,4,40,146,Farm Management;Crop Monitoring;Analytics,Completed,0
+A00098,2026-02,4,1,5,19,Farm Management;Crop Monitoring;Analytics,Completed,1
+A00098,2026-03,8,4,40,74,Farm Management,Completed,0
+A00098,2026-04,11,9,54,237,Farm Management,Completed,2
+A00098,2026-05,5,3,24,69,Farm Management,Completed,0
+A00098,2026-06,2,1,9,30,Farm Management,Completed,1
+A00099,2026-05,10,2,6,24,Farm Management;Crop Monitoring,Completed,2
+A00099,2026-06,8,5,35,95,Farm Management;Crop Monitoring,Completed,0
+A00100,2026-06,9,3,15,27,Farm Management,Completed,0

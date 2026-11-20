@@ -1,0 +1,109 @@
+campaign_id,month,channel,campaign_name,spend_usd,impressions,clicks
+CMP0001,2025-01,Paid Search,Search - Farm Software,4794.4,29465,1164
+CMP0002,2025-01,Paid Social,LinkedIn - AgTech Decision Makers,2964.06,85101,1320
+CMP0003,2025-01,Webinar,Webinar - Digital Agriculture,2451.56,13663,519
+CMP0004,2025-01,Events,Expoagro,4873.95,24133,596
+CMP0005,2025-01,Referral,Customer Referral Program,799.39,10081,599
+CMP0006,2025-01,Organic,SEO - Farm Management,1352.53,28938,1072
+CMP0007,2025-02,Paid Search,Search - Crop Monitoring,4931.41,29407,1224
+CMP0008,2025-02,Paid Social,Meta - Farm Managers,3521.97,72193,1241
+CMP0009,2025-02,Webinar,Webinar - ROI in Crop Monitoring,2227.93,17525,480
+CMP0010,2025-02,Events,AgTech Regional Summit,4863.49,24076,671
+CMP0011,2025-02,Referral,Partner Referral Program,999.71,9395,627
+CMP0012,2025-02,Organic,Content - Precision Agriculture,1549.59,38893,1265
+CMP0013,2025-03,Paid Search,Search - Farm Software,3938.45,22167,986
+CMP0014,2025-03,Paid Social,LinkedIn - AgTech Decision Makers,3343.18,62783,1191
+CMP0015,2025-03,Webinar,Webinar - Digital Agriculture,2552.59,19328,570
+CMP0016,2025-03,Events,Expoagro,4705.55,25467,564
+CMP0017,2025-03,Referral,Customer Referral Program,947.67,10650,571
+CMP0018,2025-03,Organic,SEO - Farm Management,1373.53,35109,1224
+CMP0019,2025-04,Paid Search,Search - Crop Monitoring,4950.99,25543,1280
+CMP0020,2025-04,Paid Social,Meta - Farm Managers,3539.3,69098,1400
+CMP0021,2025-04,Webinar,Webinar - ROI in Crop Monitoring,2254.77,22352,598
+CMP0022,2025-04,Events,AgTech Regional Summit,6255.83,34424,744
+CMP0023,2025-04,Referral,Partner Referral Program,1002.87,11528,746
+CMP0024,2025-04,Organic,Content - Precision Agriculture,1638.43,40448,1415
+CMP0025,2025-05,Paid Search,Search - Farm Software,4922.2,35952,1351
+CMP0026,2025-05,Paid Social,LinkedIn - AgTech Decision Makers,2896.51,46700,978
+CMP0027,2025-05,Webinar,Webinar - Digital Agriculture,2759.84,17734,674
+CMP0028,2025-05,Events,Expoagro,6405.29,28864,707
+CMP0029,2025-05,Referral,Customer Referral Program,924.9,10062,701
+CMP0030,2025-05,Organic,SEO - Farm Management,1652.44,43137,1512
+CMP0031,2025-06,Paid Search,Search - Crop Monitoring,4771.54,27032,1390
+CMP0032,2025-06,Paid Social,Meta - Farm Managers,3622.14,74638,1307
+CMP0033,2025-06,Webinar,Webinar - ROI in Crop Monitoring,2656.97,17335,588
+CMP0034,2025-06,Events,AgTech Regional Summit,4884.54,28849,589
+CMP0035,2025-06,Referral,Partner Referral Program,991.97,13522,696
+CMP0036,2025-06,Organic,Content - Precision Agriculture,1420.31,34946,1153
+CMP0037,2025-07,Paid Search,Search - Farm Software,5190.57,31555,1333
+CMP0038,2025-07,Paid Social,LinkedIn - AgTech Decision Makers,3320.69,69947,1490
+CMP0039,2025-07,Webinar,Webinar - Digital Agriculture,2449.47,19243,513
+CMP0040,2025-07,Events,Expoagro,5546.68,22261,654
+CMP0041,2025-07,Referral,Customer Referral Program,989.54,12204,664
+CMP0042,2025-07,Organic,SEO - Farm Management,1510.24,33718,1250
+CMP0043,2025-08,Paid Search,Search - Crop Monitoring,3569.73,16401,855
+CMP0044,2025-08,Paid Social,Meta - Farm Managers,2681.36,66790,1014
+CMP0045,2025-08,Webinar,Webinar - ROI in Crop Monitoring,2507.99,17919,610
+CMP0046,2025-08,Events,AgTech Regional Summit,5775.48,29794,628
+CMP0047,2025-08,Referral,Partner Referral Program,1062.48,15747,770
+CMP0048,2025-08,Organic,Content - Precision Agriculture,1570.56,31641,1361
+CMP0049,2025-09,Paid Search,Search - Farm Software,4559.37,23874,1269
+CMP0050,2025-09,Paid Social,LinkedIn - AgTech Decision Makers,2710.75,63843,1037
+CMP0051,2025-09,Webinar,Webinar - Digital Agriculture,2600.19,25100,657
+CMP0052,2025-09,Events,Expoagro,4962.37,17567,508
+CMP0053,2025-09,Referral,Customer Referral Program,958.13,8222,571
+CMP0054,2025-09,Organic,SEO - Farm Management,1475.65,30877,1301
+CMP0055,2025-10,Paid Search,Search - Crop Monitoring,4139.6,30026,1132
+CMP0056,2025-10,Paid Social,Meta - Farm Managers,3042.49,59541,1259
+CMP0057,2025-10,Webinar,Webinar - ROI in Crop Monitoring,1942.48,13714,497
+CMP0058,2025-10,Events,AgTech Regional Summit,4238.81,21197,551
+CMP0059,2025-10,Referral,Partner Referral Program,951.31,12570,697
+CMP0060,2025-10,Organic,Content - Precision Agriculture,1536.64,29491,1121
+CMP0061,2025-11,Paid Search,Search - Farm Software,3286.0,25215,1012
+CMP0062,2025-11,Paid Social,LinkedIn - AgTech Decision Makers,2335.44,55769,852
+CMP0063,2025-11,Webinar,Webinar - Digital Agriculture,2068.79,13438,444
+CMP0064,2025-11,Events,Expoagro,4162.26,16498,448
+CMP0065,2025-11,Referral,Customer Referral Program,877.18,12889,657
+CMP0066,2025-11,Organic,SEO - Farm Management,1553.35,38170,1335
+CMP0067,2025-12,Paid Search,Search - Crop Monitoring,3684.98,17368,924
+CMP0068,2025-12,Paid Social,Meta - Farm Managers,2439.8,57068,832
+CMP0069,2025-12,Webinar,Webinar - ROI in Crop Monitoring,2066.56,16731,451
+CMP0070,2025-12,Events,AgTech Regional Summit,3988.03,16182,480
+CMP0071,2025-12,Referral,Partner Referral Program,820.31,7176,483
+CMP0072,2025-12,Organic,Content - Precision Agriculture,1305.98,32669,1002
+CMP0073,2026-01,Paid Search,Search - Farm Software,3193.73,15175,764
+CMP0074,2026-01,Paid Social,LinkedIn - AgTech Decision Makers,2399.27,48712,914
+CMP0075,2026-01,Webinar,Webinar - Digital Agriculture,2304.79,16450,508
+CMP0076,2026-01,Events,Expoagro,4393.21,19910,528
+CMP0077,2026-01,Referral,Customer Referral Program,901.8,11288,609
+CMP0078,2026-01,Organic,SEO - Farm Management,1201.55,21769,932
+CMP0079,2026-02,Paid Search,Search - Crop Monitoring,3273.67,21199,990
+CMP0080,2026-02,Paid Social,Meta - Farm Managers,2378.46,50076,833
+CMP0081,2026-02,Webinar,Webinar - ROI in Crop Monitoring,1821.76,13240,367
+CMP0082,2026-02,Events,AgTech Regional Summit,4358.31,27038,572
+CMP0083,2026-02,Referral,Partner Referral Program,676.74,9963,520
+CMP0084,2026-02,Organic,Content - Precision Agriculture,1143.71,22750,927
+CMP0085,2026-03,Paid Search,Search - Farm Software,3828.41,23623,1065
+CMP0086,2026-03,Paid Social,LinkedIn - AgTech Decision Makers,3227.33,76258,1122
+CMP0087,2026-03,Webinar,Webinar - Digital Agriculture,1930.03,16532,476
+CMP0088,2026-03,Events,Expoagro,5055.05,29766,610
+CMP0089,2026-03,Referral,Customer Referral Program,814.23,10666,538
+CMP0090,2026-03,Organic,SEO - Farm Management,1592.4,34482,1533
+CMP0091,2026-04,Paid Search,Search - Crop Monitoring,3579.55,16326,853
+CMP0092,2026-04,Paid Social,Meta - Farm Managers,3503.93,61712,1235
+CMP0093,2026-04,Webinar,Webinar - ROI in Crop Monitoring,2408.35,18483,505
+CMP0094,2026-04,Events,AgTech Regional Summit,5246.55,21486,614
+CMP0095,2026-04,Referral,Partner Referral Program,884.41,9629,610
+CMP0096,2026-04,Organic,Content - Precision Agriculture,1368.42,33931,1278
+CMP0097,2026-05,Paid Search,Search - Farm Software,4257.27,28581,1218
+CMP0098,2026-05,Paid Social,LinkedIn - AgTech Decision Makers,2983.92,70627,1210
+CMP0099,2026-05,Webinar,Webinar - Digital Agriculture,2563.97,16425,620
+CMP0100,2026-05,Events,Expoagro,6247.87,31739,739
+CMP0101,2026-05,Referral,Customer Referral Program,952.4,9016,574
+CMP0102,2026-05,Organic,SEO - Farm Management,1739.1,35856,1435
+CMP0103,2026-06,Paid Search,Search - Crop Monitoring,4213.71,26107,1035
+CMP0104,2026-06,Paid Social,Meta - Farm Managers,3486.78,78821,1210
+CMP0105,2026-06,Webinar,Webinar - ROI in Crop Monitoring,2600.88,19260,672
+CMP0106,2026-06,Events,AgTech Regional Summit,4802.9,23346,499
+CMP0107,2026-06,Referral,Partner Referral Program,1138.96,11181,696
+CMP0108,2026-06,Organic,Content - Precision Agriculture,1794.9,30683,1374
